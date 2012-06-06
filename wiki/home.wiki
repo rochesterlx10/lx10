@@ -1,4 +1,4 @@
-#The home page of the LX-10 wiki
+#summary The home page of the LX-10 wiki
 
 = Introduction =
 
