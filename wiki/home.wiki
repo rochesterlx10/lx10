@@ -85,8 +85,8 @@ end do
 }}}
 == LED Control ==
 {{{
-set led (<variable>, <variable>) on
-set led (<variable>, <variable>) off
+set led (<variable or number>, <variable or number>) on
+set led (<variable or number>, <variable or number>) off
 
 set all led on
 set all led off
