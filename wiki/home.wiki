@@ -91,7 +91,31 @@ set led (<variable or number>, <variable or number>) off
 set all led on
 set all led off
 }}}
-== Update display ==
+== Draw ==
+{{{
+draw number zero <location>
+...
+draw number nine <location>
+
+draw smiley
+draw bae
+
+draw arrow <direction>
+}}}
+== Location ==
+{{{
+left
+middle
+right
+}}}
+== Direction ==
+{{{
+up
+down
+left
+right
+}}}
+== Update Display ==
 This must be done after any LED control in order to see a change
 {{{
 update display
