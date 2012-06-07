@@ -47,6 +47,10 @@ take <variable> from <variable>
 <variable> / <variable>
 <variable> divide <variable>
 }}}
+== Random ==
+{{{
+set <variable> to random number
+}}}
 == If statement ==
 {{{
 if <comparison> then
@@ -119,4 +123,18 @@ right
 This must be done after any LED control in order to see a change
 {{{
 update display
+}}}
+== Wait ==
+{{{
+wait <number> seconds
+wait <number> mseconds
+
+wait <variable> seconds
+wait <variable> mseconds
+}}}
+== Program Control ==
+{{{
+restart program
+reboot
+main menu
 }}}
