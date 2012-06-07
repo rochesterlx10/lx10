@@ -2,12 +2,29 @@
 
 = Introduction =
 
-Add your content here.
+Thanks for trying out our new language simulator. Please email Mark with any name ideas for the language.
 
 
-= Details =
+= Language =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Comment ==
+
+{{{
+@ <anything you want>
+}}}
+
+== Assignment == 
+
+{{{
+set <variable name> to/= <number>
+	set <variable name> to/= <variable name>
+	set <variable name> to/= <calculation>
+	set <variable name> to/= <coordinate>
+}}}
+
+== Increment/Decrement == 
+
+{{{
+add <number> to <number variable>
+	take <number> from <number variable>
+}}}
