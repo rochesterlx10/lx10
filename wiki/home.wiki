@@ -31,6 +31,22 @@ take <number> from <variable>
 add <variable> to <variable>
 take <variable> from <variable>
 }}}
+== Calculation ==
+{{{
+<variable> + <number>
+<variable> - <number>
+<variable> * <number>
+<variable> multiply <number>
+<variable> / <number>
+<variable> divide <number>
+
+<variable> + <variable>
+<variable> - <variable>
+<variable> * <variable>
+<variable> multiply <variable>
+<variable> / <variable>
+<variable> divide <variable>
+}}}
 == If statement ==
 {{{
 if <comparison> then
@@ -48,4 +64,35 @@ end if
 <variable> is not equal to <variable>
 <variable> is greater than <variable>
 <variable> is less than <variable>
+}}}
+== Loops ==
+{{{
+do below while <comparison>
+    <code>
+end do
+
+do below forever
+    <code>
+end do
+
+do below <number> times
+    <code>
+end do
+
+do below <variable> times
+    <code>
+end do
+}}}
+== LED Control ==
+{{{
+set led (<variable>, <variable>) on
+set led (<variable>, <variable>) off
+
+set all led on
+set all led off
+}}}
+== Update display ==
+This must be done after any LED control in order to see a change
+{{{
+update display
 }}}
