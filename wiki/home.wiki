@@ -8,23 +8,44 @@ Thanks for trying out our new language simulator. Please email Mark with any nam
 = Language =
 
 == Comment ==
-
 {{{
-@ <anything you want>
+@ comment goes here
 }}}
-
-== Assignment == 
-
+== Make Variables == 
 {{{
-set <variable name> to/= <number>
-	set <variable name> to/= <variable name>
-	set <variable name> to/= <calculation>
-	set <variable name> to/= <coordinate>
+make <variable> 
+make <variable> a number
+make <variable> a list of numbers
 }}}
-
+== Set Variables == 
+{{{
+set <variable> to <number>
+set <variable> to <variable>
+set <variable> to <calculation>
+}}}
 == Increment/Decrement == 
-
 {{{
-add <number> to <number variable>
-	take <number> from <number variable>
+add <number> to <variable>
+take <number> from <variable>
+
+add <variable> to <variable>
+take <variable> from <variable>
+}}}
+== If statement ==
+{{{
+if <comparison> then
+    <code>
+end if
+}}}
+== Comparison ==
+{{{
+<variable> is equal to <number>
+<variable> is not equal to <number>
+<variable> is greater than <number>
+<variable> is less than <number>
+
+<variable> is equal to <variable>
+<variable> is not equal to <variable>
+<variable> is greater than <variable>
+<variable> is less than <variable>
 }}}
