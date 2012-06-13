@@ -12,23 +12,17 @@ Thanks for trying out our new language simulator. Please email Mark with any nam
 @ comment goes here
 }}}
 == Make Variables == 
+By default, a variable is a number.
 {{{
 make <variable> 
 make <variable> a number
 }}}
 == Set Variables == 
+Calculation is covered in the next section.
 {{{
 set <variable> to <number>
 set <variable> to <variable>
 set <variable> to <calculation>
-}}}
-== Increment/Decrement == 
-{{{
-add <number> to <variable>
-take <number> from <variable>
-
-add <variable> to <variable>
-take <variable> from <variable>
 }}}
 == Calculation ==
 {{{
@@ -46,17 +40,32 @@ take <variable> from <variable>
 <variable> / <variable>
 <variable> divide <variable>
 }}}
+
+You will need to put a calculation at the end of a set. For example:
+{{{
+set myVariable to var1 + var2
+}}}
+== Increment/Decrement == 
+{{{
+add <number> to <variable>
+take <number> from <variable>
+
+add <variable> to <variable>
+take <variable> from <variable>
+}}}
 == Random ==
 {{{
 set <variable> to random number
 }}}
 == If statement ==
+The `<comparison>` part is covered in the next section. There are many different types of ifs.
 {{{
 if <comparison> then
     <code>
 end if
 }}}
 == Comparison ==
+=== Variable Comparison ===
 {{{
 <variable> is equal to <number>
 <variable> is not equal to <number>
@@ -67,18 +76,28 @@ end if
 <variable> is not equal to <variable>
 <variable> is greater than <variable>
 <variable> is less than <variable>
-
+}}}
+=== Button Comparison ===
+{{{
 a-button is pressed
 a-button is not pressed
 }}}
 Possible buttons are:
 
- #a-button
- #b-button
- #up-button
- #down-button
- #left-button
- #right-button
+ # a-button
+ # b-button
+ # up-button
+ # down-button
+ # left-button
+ # right-button
+=== LED Comparison ===
+Was checks the last time the screen was updated. It's useful for collision detection.
+{{{
+led <variable or number>,<variable or number> is on
+led <variable or number>,<variable or number> was on
+led <variable or number>,<variable or number> is off
+led <variable or number>,<variable or number> was off
+}}}
 == Loops ==
 {{{
 do below while <comparison>
@@ -98,6 +117,9 @@ do below <variable> times
 end do
 }}}
 == LED Control ==
+This sets the LEDs on and off behind the scenes, but you won't see them change until you type "update display". There is a "set led (x,y) on now" function coming which will stop you needing to do that.
+
+*User LEDs haven't been implemented yet.*
 {{{
 set led (<variable or number>, <variable or number>) on
 set led (<variable or number>, <variable or number>) off
@@ -105,7 +127,10 @@ set led (<variable or number>, <variable or number>) off
 set all led on
 set all led off
 }}}
+
+Set all led off is very useful for clearing the display.
 == Draw ==
+Same with LED control, "update display" will need to be typed after the draw in order for the screen to show the changes. For the numbers and arrows, `<location>` and `<direction>` are covered in the next sections.
 {{{
 draw number zero <location>
 ...
@@ -143,10 +168,9 @@ wait <variable> seconds
 wait <variable> mseconds
 }}}
 == Program Control ==
+*These are not implemented yet.*
 {{{
 restart program
 reboot
 main menu
 }}}
-
-==More==
