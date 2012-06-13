@@ -15,7 +15,6 @@ Thanks for trying out our new language simulator. Please email Mark with any nam
 {{{
 make <variable> 
 make <variable> a number
-make <variable> a list of numbers
 }}}
 == Set Variables == 
 {{{
@@ -68,7 +67,18 @@ end if
 <variable> is not equal to <variable>
 <variable> is greater than <variable>
 <variable> is less than <variable>
+
+a-button is pressed
+a-button is not pressed
 }}}
+Possible buttons are:
+
+ #a-button
+ #b-button
+ #up-button
+ #down-button
+ #left-button
+ #right-button
 == Loops ==
 {{{
 do below while <comparison>
