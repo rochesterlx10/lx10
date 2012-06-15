@@ -54,9 +54,11 @@ add <variable> to <variable>
 take <variable> from <variable>
 }}}
 == Random ==
+Sets a random number between 1 and 10.
 {{{
 set <variable> to random number
 }}}
+*Example:* random_dot.txt
 == If statement ==
 The `<comparison>` part is covered in the next section. There are many different types of ifs.
 {{{
@@ -77,6 +79,7 @@ end if
 <variable> is greater than <variable>
 <variable> is less than <variable>
 }}}
+*Example:* comparison_if_statements.txt
 === Button Comparison ===
 {{{
 a-button is pressed
@@ -90,6 +93,7 @@ Possible buttons are:
  # down-button
  # left-button
  # right-button
+*Example:* first_button.txt
 === LED Comparison ===
 Was checks the last time the screen was updated. It's useful for collision detection.
 {{{
@@ -98,12 +102,9 @@ led <variable or number>,<variable or number> was on
 led <variable or number>,<variable or number> is off
 led <variable or number>,<variable or number> was off
 }}}
+*Example:* LED_Comparison.txt
 == Loops ==
 {{{
-do below while <comparison>
-    <code>
-end do
-
 do below forever
     <code>
 end do
@@ -116,6 +117,7 @@ do below <variable> times
     <code>
 end do
 }}}
+*Example:* strobe_dot.txt
 == LED Control ==
 This sets the LEDs on and off behind the scenes, but you won't see them change until you type "update display". There is a "set led (x,y) on now" function coming which will stop you needing to do that.
 
@@ -127,8 +129,8 @@ set led (<variable or number>, <variable or number>) off
 set all led on
 set all led off
 }}}
-
 Set all led off is very useful for clearing the display.
+*Example:* bae_logo_flash.txt
 == Draw ==
 Same with LED control, "update display" will need to be typed after the draw in order for the screen to show the changes. For the numbers and arrows, `<location>` and `<direction>` are covered in the next sections.
 === Static Patterns ===
@@ -144,7 +146,8 @@ draw bae
 
 draw arrow <direction>
 }}}
-
+*Example:* random_draw.txt
+*Example:* counter.txt
 === Shapes ===
 These are calculated whilst running so variables or fixed numbers can be used to draw them.
 {{{
@@ -153,6 +156,7 @@ draw line from (<variable or number>,<variable or number>) to (<variable or numb
 draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
 
 }}}
+*Example:* turbine pattern.txt
 == Location ==
 {{{
 left
