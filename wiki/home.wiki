@@ -4,6 +4,8 @@
 
 Thanks for trying out our new language simulator. Please email Mark with any name ideas for the language.
 
+*<font color=red>All examples are in the test_codes folder linked in the email </font>*
+
 
 = Language =
 
