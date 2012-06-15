@@ -131,6 +131,9 @@ set all led off
 Set all led off is very useful for clearing the display.
 == Draw ==
 Same with LED control, "update display" will need to be typed after the draw in order for the screen to show the changes. For the numbers and arrows, `<location>` and `<direction>` are covered in the next sections.
+=== Static Patterns ===
+There is minimal customisability with these. They are set numbers/type and positions.
+
 {{{
 draw number zero <location>
 ...
@@ -140,6 +143,15 @@ draw smiley
 draw bae
 
 draw arrow <direction>
+}}}
+
+=== Shapes ===
+These are calculated whilst running so variables or fixed numbers can be used to draw them.
+{{{
+draw line from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
+
+draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
+
 }}}
 == Location ==
 {{{
