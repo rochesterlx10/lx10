@@ -12,10 +12,40 @@ Try drawing patterns, saving and loading pattern files and give any feedback on 
 
 This is the compiler, programmer and simulator.
 
-=== Writing code ===
+=== Main Controls ===
 New, open, save, copy and paste are self explanatory.
 
 Help takes you to the wiki and achievements currently does nothing (and may be removed)
 
 The variable list on the right currently does nothing but will show up to date which variables you have available.
 
+The little button to the top right of the picture of the LX 10 pretends one has been connected and the picture below it displays the status of a connected board.
+
+The check boxes are for debugging and are best kept unticked if you don't want random windows thrown at you.
+
+The simulate button will simulate your code and bring up a display matching that of the LX10s. 
+
+The program button is for sending to a board and won't do a great deal at the moment.
+
+== Adding functions ==
+
+Simply click the '+' button above the word 'functions' and it should ask for a name. 
+
+== Renaming Functions ==
+
+Double click the tab for that function.
+
+== Removing functions ==
+
+Simply click the '-' button above the word 'functions' and the selected function will be removed.
+
+
+== Writing Code ==
+
+Just type in the main window and it should highlight key words it recognises. Have a look at examples to start you off.
+
+== Simulating the code ==
+Click the 'simulate' button and the code should compile. It will then run in a new window showing the display and what your code does.
+
+== Errors ==
+If your code has errors it will try to explain the issue and if you double click the error it will take you to it.
