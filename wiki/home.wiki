@@ -150,6 +150,7 @@ e.g.
 run myFunction
 }}}
 There are no arguments and it can use variables from the start function.
+*Example:* accel_and_functions.txt
 == LED Control ==
 This sets the LEDs on and off behind the scenes, but you won't see them change until you type "update display". There is a "set led (x,y) on now" function coming which will stop you needing to do that.
 
