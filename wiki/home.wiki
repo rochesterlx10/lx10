@@ -105,6 +105,27 @@ led <variable or number>,<variable or number> is off
 led <variable or number>,<variable or number> was off
 }}}
 *Example:* LED_Comparison.txt
+=== Accelerometer Comparison ===
+In the sim, this is controlled using the num pad. Using the numbers like directions around the number 5. The + and - buttons control how severe the movement is. By default it's not tilted at all.
+{{{
+tilt is forward
+tilt is forward-1
+tilt is forward-2
+tilt is forward-3
+}}}
+Possible directions are:
+
+ # forward
+ # forwardright
+ # right
+ # backwardright
+ # backward
+ # backwardleft
+ # left
+
+The number after the hyphen is how far it's tilted with 3 being the most. If there is no number, it will check if it's tilted in that direction at all. 
+
+*Example:* accel_and_functions.txt
 == Loops ==
 {{{
 do below forever
