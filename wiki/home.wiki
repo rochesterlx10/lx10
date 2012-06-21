@@ -141,6 +141,15 @@ do below <variable> times
 end do
 }}}
 *Example:* strobe_dot.txt
+== Functions ==
+To add and remove a function in the IDE simply press the + and - buttons. The 'main' is called start for now (might change depending how much people like/hate this). In order to call a function simply type:
+{{{
+run <function_name>
+
+e.g.
+run myFunction
+}}}
+There are no arguments and it can use variables from the start function.
 == LED Control ==
 This sets the LEDs on and off behind the scenes, but you won't see them change until you type "update display". There is a "set led (x,y) on now" function coming which will stop you needing to do that.
 
@@ -178,8 +187,11 @@ draw line from (<variable or number>,<variable or number>) to (<variable or numb
 
 draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
 
+draw circle at (<variable or number>,<variable or number>) size (<variable or number>,<variable or number>)
+
 }}}
 *Example:* turbine pattern.txt
+*Example:* circle_test.txt
 == Location ==
 {{{
 left
