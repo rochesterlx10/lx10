@@ -1,3 +1,21 @@
-#summary One-sentence summary of this page.
+#summary User guide detailing how to use the programmer for the LX10
 
-= LX10 Programmer & Sim User Guide =
+= LX10 Programmer User Guide =
+
+== Simple ==
+
+So far this won't do much. This will directly turn lights on and off.
+
+Try drawing patterns, saving and loading pattern files and give any feedback on the interface.
+
+== Advanced ==
+
+This is the compiler, programmer and simulator.
+
+=== Writing code ===
+New, open, save, copy and paste are self explanatory.
+
+Help takes you to the wiki and achievements currently does nothing (and may be removed)
+
+The variable list on the right currently does nothing but will show up to date which variables you have available.
+
