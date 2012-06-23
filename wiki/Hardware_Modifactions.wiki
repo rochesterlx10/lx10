@@ -1,0 +1,13 @@
+#summary Hardware Modifications for the LX10
+
+= Introduction =
+
+This section lists some possible hardware modifications you might like to do to your LX10. Please seek parental guidance before attempting any of these modifications by yourself.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
