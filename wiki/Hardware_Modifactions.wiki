@@ -2,12 +2,22 @@
 
 = Introduction =
 
-This section lists some possible hardware modifications you might like to do to your LX10. Please seek parental guidance before attempting any of these modifications by yourself.
+This section lists some possible hardware modifications you might like to do to your LX10. *Please seek parental guidance before attempting any of these modifications by yourself.*
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==Breaking out of I2C/UART and PIC Programmer==
+
+If you wish to add peripherals to your LX10, such as a temperature sensor or humidity sensor that uses I2C you can solder on a breakout connector which allows you to wire straight into the I2C bus. 
+
+
+
+
+
+
+=Resources=
+
+http://en.wikipedia.org/wiki/Soldering
+http://en.wikipedia.org/wiki/I2c
+http://en.wikipedia.org/wiki/Uart
