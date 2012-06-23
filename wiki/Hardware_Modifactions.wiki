@@ -1,4 +1,5 @@
 #summary Hardware Modifications for the LX10
+#labels Hardware,Modifaction,Mods,I2C,UART,Soldering
 
 = Introduction =
 
@@ -14,19 +15,18 @@ If you wish to add peripherals to your LX10, such as a temperature sensor or hum
 
 
 
-
-
 =Resources=
 
-===Tools===
+===Tools * Equipment===
 
   * Soldering Iron
+  * Solder Sucker
   * Lead Free Solder
   * Heat Proof Matt
   * Eye Protection (goggles)
   
 
-===WebLinks===
+=== WebLinks ===
 http://en.wikipedia.org/wiki/Soldering
 
 http://en.wikipedia.org/wiki/I2c
