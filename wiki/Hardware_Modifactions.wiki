@@ -19,5 +19,7 @@ If you wish to add peripherals to your LX10, such as a temperature sensor or hum
 =Resources=
 
 http://en.wikipedia.org/wiki/Soldering
+
 http://en.wikipedia.org/wiki/I2c
+
 http://en.wikipedia.org/wiki/Uart
