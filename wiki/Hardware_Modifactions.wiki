@@ -18,6 +18,15 @@ If you wish to add peripherals to your LX10, such as a temperature sensor or hum
 
 =Resources=
 
+===Tools===
+
+  * Soldering Iron
+  * Lead Free Solder
+  * Heat Proof Matt
+  * Eye Protection (goggles)
+  
+
+===WebLinks===
 http://en.wikipedia.org/wiki/Soldering
 
 http://en.wikipedia.org/wiki/I2c
