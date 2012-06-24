@@ -177,7 +177,7 @@ draw number nine <location>
 draw smiley
 draw bae
 
-draw arrow <direction>
+draw <direction> arrow
 }}}
 *Example:* random_draw.txt
 *Example:* counter.txt
