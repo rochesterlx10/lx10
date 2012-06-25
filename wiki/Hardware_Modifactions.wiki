@@ -1,5 +1,5 @@
 #summary Hardware Modifications for the LX10
-#labels Hardware,Modifaction,Mods,I2C,UART,Soldering
+#labels Hardware,Modifaction,Mods,I2C,UART,Soldering,USB,Power,Diode
 
 = Introduction =
 
@@ -14,7 +14,7 @@ If you wish to add peripherals to your LX10, such as a temperature sensor or hum
 Below shows a short guide on how to break out the pic programmer and I2C/UART Pins.
 
 
-You will need a 6 pin single vertical row terminal connector with a pad pitch of XXXX (such as the part recommended below, All though any other manufacturer / supplier is fine, providing it meets the technical specification)
+You will need a 6 pin single vertical row terminal connector with a pad pitch of *XXXX* (such as the part recommended below, All though any other manufacturer / supplier is fine, providing it meets the technical specification)
 
 Recommended Part
   * 
@@ -27,9 +27,23 @@ Use a Digital Multi Meter (DMM), to check for shorts between the pins. You can d
 
 http://lx10.googlecode.com/files/I2C_Mod.jpg
 
+== USB Powered LX10 ==
+
+This mod details how to modify your LX10 so it is ran of the power supplied by a USB port of a computer. *Please be aware we can not be held accountable if this effects your computer in anyway, from temporary loss of service to breakage.*
+
+By Placing the diode you create a connection between the 5V input of the USB and the input to the power supply. 
+
+*Caution* must be made when placing the diode, as if its place the wrong way round, you could risk damage to the USB port. (for first run its best to check if it runs off USB power from a usb plug, such as a modern phone charger or mp3 player)
+
+Place an 0603 Diode such as this one *XXXXX* (again, any technically same part can be used, doesn't have to be the same as this one).
+
+The cathode needs to go on the pad nearest the power chip (left edge of the board, with the anode facing inwards towards the LED display. Soldering 0603s can be tricky, It is best done using a pair of tweezers and a fine tipped soldering iron.
 
 
+The image below shows where the pad is and which way round the diode goes.
 
+
+http://lx10.googlecode.com/files/USB_Diode.jpg
 
 
 
