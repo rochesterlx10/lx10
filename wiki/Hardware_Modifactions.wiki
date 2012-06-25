@@ -3,7 +3,7 @@
 
 = Introduction =
 
-This section lists some possible hardware modifications you might like to do to your LX10. *Please seek parental guidance before attempting any of these modifications by yourself.*
+This section lists some possible hardware modifications you might like to do to your LX10. * If under the age of 18 - Please seek parental guidance before attempting any of these modifications by yourself.*
 
 
 = Details =
