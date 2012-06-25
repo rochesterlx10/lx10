@@ -56,6 +56,7 @@ http://lx10.googlecode.com/files/USB_Diode.jpg
   * Lead Free Solder
   * Heat Proof Matt
   * Eye Protection (goggles)
+  * Tweezers
   
 
 === WebLinks ===
