@@ -1,13 +1,36 @@
-#summary One-sentence summary of this page.
+=Designing the LX10=
 
-= Introduction =
-
-Add your content here.
+==Initial Mind Map==
 
 
-= Details =
+==Breakign down of functions==
+===Components===
+===Subsystems===
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+
+=Prototyping=
+
+
+==Prototyping on breadboard==
+
+
+==Design protype PCB==
+
+
+==Creating first prototype PCB==
+
+
+==Testing of prototypes==
+
+
+=Final Design=
+
+
+==Final Schematic Design==
+
+
+==Final PCB Design==
+
+
+
