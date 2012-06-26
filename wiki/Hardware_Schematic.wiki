@@ -1,14 +1,45 @@
-#summary One-sentence summary of this page.
 #labels Hardware,Schematic,Design
+=Electronics Schematic=
 
-= Introduction =
-
-Add your content here.
+The images below show the schematic and the components used. 
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+||		|| *Schematic Reference*	||	*Mfg Part Number*||
+|| *ICS* ||		||		||
+||	Accelerometer	||	U0100	||	MMA8453QT	||
+||	MCU	||	U0501	||	PIC32MX220F032D	||
+||	FLASH	||	U0500	||	SST25VF010A	||
+||	Current Sink	||	U0301	||	TLC5927IDBQR	||
+||	Counter	||	U0300	||	74HC4017D	||
+||	Trans NPN	||	Q0300, Q0301, Q0302, Q0303, Q0304, Q0305, Q0306, Q0307, Q0308, Q0309	||	SMBT2222A	||
+||	Switch Reg	||	U0400	||	NCP3127	||
+||	*Passives*	||		||		||
+||	18pF Cap	||	C0504, C0505	||		||
+||	220pF	||	C0407	||		||
+||	1nF Cap	||	C0406	||		||
+||	68nF Cap	||	C0405	||		||
+||	0.1uF Cap	||	C0101, C0102, C0404, C0400, C0507, C0500, C0501, C0502, C0503, C0300, C0301	||		||
+||	1uF Cap	||	C0403, C0302, C0508	||		||
+||	4.7uF Cap	||	C0100	||		||
+||	10u Cap	||	C0401, C0402, C0408, C0409, C0410, C0411, C0506	||		||
+||	0R0 Res	||	R0405, R0508, R0509	||		||
+||	0rR5	||	R0409	||	PANASONIC	||
+||	10R Res	||	R0511, R0512, R0505	||	PANASONIC	||
+||	470R Res	||	R0510	||	PANASONIC	||
+||	1K2 Res	||	R0404	||		||
+||	2K Res	||	R0310, R0501, R0502	||		||
+||	4K99 Res	||	R0403, R0506, R0507	||	PANASONIC	||
+||	10K0 Res	||	R0402, R0500	||	PANASONIC	||
+||	20K0 Res	||	R0401	||	PANASONIC	||
+||	30K0 Res	||	R0400	||	PANASONIC	||
+||	Diode	||	D0400	||	ES07B/G1	||
+||	33uH Inductor	||	L0400	||	SRR4028-330Y	||
+||	XTAL 12MHz	||	Y0500	||	ABLS-12.000MHZ-B2-T	||
+||	LEDs	||	D0200 -> D0299, D0300 -> D0303	||		||
+||	*MISC*	||		||		||
+||	USB B Recp	||		||	Molex 675031020	||
+||	USB Cable	||		||	88732-8602	||
+||	On/Off Switch	||	S0400	||	PCM12SMTR	||
+||	Switch	||	S0500, S0501, S0502, S0505	||	EVQQ2W01W	||
+||	Battery Holder	||		||	1294	||
+||	Battery	||		||	6F22R/1BP	||
