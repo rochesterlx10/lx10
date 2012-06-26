@@ -24,15 +24,15 @@ The images below show the schematic and the components used.
 ||	4.7uF Cap	||	C0100	||		||
 ||	10u Cap	||	C0401, C0402, C0408, C0409, C0410, C0411, C0506	||		||
 ||	0R0 Res	||R0405 , R0508 , R0509	||		||
-||	0rR5	||	R0409	||	PANASONIC	||
-||	10R Res	||	R0511, R0512, R0505	||	PANASONIC	||
-||	470R Res	||	R0510	||	PANASONIC	||
+||	0rR5	||	R0409	||	||
+||	10R Res	||	R0511, R0512, R0505	||	||
+||	470R Res	||	R0510	||	||
 ||	1K2 Res	||	R0404	||		||
 ||	2K Res	||	R0310, R0501, R0502	||		||
-||	4K99 Res	||	R0403, R0506, R0507	||	PANASONIC	||
-||	10K0 Res	||	R0402, R0500	||	PANASONIC	||
-||	20K0 Res	||	R0401	||	PANASONIC	||
-||	30K0 Res	||	R0400	||	PANASONIC	||
+||	4K99 Res	||	R0403, R0506, R0507	||	||
+||	10K0 Res	||	R0402, R0500	||	||
+||	20K0 Res	||	R0401	||	||
+||	30K0 Res	||	R0400	||	||
 ||	Diode	||	D0400	||	ES07B/G1	||
 ||	33uH Inductor	||	L0400	||	SRR4028-330Y	||
 ||	XTAL 12MHz	||	Y0500	||	ABLS-12.000MHZ-B2-T	||
