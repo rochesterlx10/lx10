@@ -13,8 +13,6 @@ Main Roles:
 
 Random Fact:
 
-
-
 ===Systems===
 
 *Bigwood*
@@ -26,8 +24,6 @@ Degree:
 Main Roles:
 
 Random Fact:
-
-
 
 ===Software===
 *Mark*
@@ -59,8 +55,6 @@ Degree:
 Main Roles:
 
 Random Fact:
-
-
 
 ===Hardware===
 *Ollie*
