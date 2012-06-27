@@ -26,3 +26,9 @@ http://lx10.googlecode.com/files/Bottomside_PCB.jpg
 
 Silkscreen and Component Pads.
 http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
+
+=Using CAM tools to interact with Gerber files=
+
+
+==Recomended Tools==
+http://www.graphicode.com/GC-Prevue#download
