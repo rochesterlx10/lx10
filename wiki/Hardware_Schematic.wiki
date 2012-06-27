@@ -25,8 +25,7 @@ http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
 Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches , non volitile memory (Flash), Touch Pads (for buttons A,B,X)
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
 
-Below is the link to the PDF document containing the schematic
-http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF
+
 
 == Bill OF Materials==
 
