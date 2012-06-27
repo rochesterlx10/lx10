@@ -18,7 +18,7 @@ Sheet 3 - LED Driver circuit ( how to turn on and select LEDs).
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-004.jpg
 Sheet 4 - Power functional block , this block shows how all the power is generated. This is done using a DC/DC Converter to take 9V in and convert to 3V3
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
-
+Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches , non volitile memory (Flash), Touch Pads (for buttons A,B,X)
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
 
 Below is the link to the PDF document containing the schematic
