@@ -31,9 +31,11 @@ You are Required to submit a .zip File containing the following to the email add
 
 ===Under 16s===
 
-  #  
-  # 
-  #
+  #  Submitter must be Aged 15 or Under
+  #  Submitter must have parental / guardian Consent
+  #  Must be Submitters Own work (Help is allowed)
+  #  No modifications to the PIC core code is allowed
+  #  Entire program must be written in the custom LX10 language PIE (Programming is Easy) 
   #  
   # 
   #
@@ -43,7 +45,7 @@ You are Required to submit a .zip File containing the following to the email add
   # 
 
 ===16 & Over===
-  #  
+  #  Must be Submitters Own work (Help is allowed)
   # 
   #
   #  
