@@ -1,4 +1,16 @@
 #labels Hardware,Schematic,Design
+=Electronic Schematics=
+
+== Intro ==
+This section shows the Electronic schematic that was designed and used to create the LX10 along with a BOM (Bill of materials).
+
+== Schematic ==
+
+
+
+
+== Bill OF Materials==
+
 ||		|| *Schematic Reference*	||	*Mfg Part Number*|| *Per Board* ||
 || *ICS* ||		||		||				||
 ||	Accelerometer	||	U0100	||	MMA8453QT	||	1	||
