@@ -2,27 +2,27 @@
 
 =LX10 Open Day 2012 Competition=
 
-This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this *Under 16s* and *16 & Over*. Prizes will be a Certificate of Achievement from BAE Systems as well as a Cash prize for the winner of each category of *£30* in Argos/M&S/Boots vouchers (Winners choose).
+This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this; *Under 16s* and *16 & Over*. Prizes will be a Certificate of Achievement from BAE Systems as well as a *cash* prize for the winner of each category of *£30* in Argos/M&S/Boots vouchers (winners choose).
 
 == Requirements ==
 
-You are Required to submit a .zip File containing the following to the email address _*rochester.lx10@gmail.com*_
+You are required to submit a .zip file to the email address _*rochester.lx10@gmail.com*_ containing the following: 
 
-  * Name, contact number, Contact Email , Home Address
+  * Name, Contact Number, Contact Email & Home Address
 
-  * 300 Word limit document on what your program does and why you wanted to write it
+  * 300 word limit document on what your program does and why you wanted to write it
 
   * The program file (.pie) which is well commented and structured 
 
 
 
-*Optional* You can also email any feedback you have regarding the use of the LX10, Programming Laungage and IDE.
+*Optional* You can also email any feedback you have regarding the use of the LX10, Programming Language and IDE.
 
 ==== *Deadline* ==== 31st July 23:55
 
-==== *Judging* ====will take place the following week, Aiming to provide a winner by *14th  august*
+==== *Judging* ====will take place the following week, aiming to provide a winner by *14th August*
 
- 
+
 
 
 
@@ -31,11 +31,11 @@ You are Required to submit a .zip File containing the following to the email add
 
 ===Under 16s===
 
-  #  Submitter must be Aged 15 or Under
-  #  Submitter must have parental / guardian Consent
-  #  Must be Submitters Own work (Help is allowed)
+  #  Submitter must be under 16 years of age as of 1st August 2012
+  #  Submitter must have parental / guardian consent
+  #  Must be submitters own work (help is allowed)
   #  No modifications to the PIC core code is allowed
-  #  Entire program must be written in the custom LX10 language PIE (Programming is Easy) 
+  #  Entire program must be written in the custom LX10 language PIE (Programming is Easy)
   #  
   # 
   #
@@ -45,7 +45,10 @@ You are Required to submit a .zip File containing the following to the email add
   # 
 
 ===16 & Over===
-  #  Must be Submitters Own work (Help is allowed)
+  #  Submitter must be 16 years of age or above as of 1st August 2012
+  #  Must be submitters own work (help is allowed)
+  #  No modifications to the PIC core code is allowed
+  #  Entire program must be written in the custom LX10 language PIE (Programming is Easy)
   # 
   #
   #  
@@ -58,7 +61,7 @@ You are Required to submit a .zip File containing the following to the email add
 
 
 ===Judging Criteria===
-The Judges will be looking at the following areas with your programe and written document
+The judges will be looking at the following areas with your program and written document:
 
   * Is it *Bold*
   * Is it *Innovative*
@@ -79,7 +82,7 @@ Upon the judging panel selecting the winning candidates, a letter will be sent a
 
 ===T&Cs===
 
-  * BAE Systems Employees are *allowed* to participate.
-  * BAE Systems Employees Family members are *allowed* to participate
-  * BAE Systems reserve the right for Your Program be placed on the website, for others to use, when submitted.
+  * BAE Systems employees are *allowed* to participate.
+  * BAE Systems employees family members are *allowed* to participate.
+  * BAE Systems reserve the right for your program be placed on the website, for others to use, when submitted.
  
