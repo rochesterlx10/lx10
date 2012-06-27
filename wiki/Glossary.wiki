@@ -44,7 +44,7 @@
 
 *L*
 
-*
+* LED - Light Emitting Diode
 
 *M*
 
@@ -60,7 +60,7 @@
 
 *P*
 
-*
+*PCB - Printed Circuit Board
 
 *Q*
 
