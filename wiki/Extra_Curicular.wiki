@@ -4,10 +4,13 @@
 
 = Hardware = 
 
+* [http://www.octopart.com Octopart] - Octopart is a search engine for electronic parts
+
 = Mechanical = 
 
 = Manufacturing = 
 
 = Engineering (General) = 
 
-
+* [http://www.theiet.org IET] - The Institution of Engineering & Technology
+* [http://www.imeche.org IMechE] - Institution of Mechanical Engineers
