@@ -6,7 +6,7 @@ This year BAE Systems will be holding a competition on best program created for 
 
 == Requirements ==
 
-You are Required to submit a .zip File containing the following to the email address rochester.lx10@gmail.com
+You are Required to submit a .zip File containing the following to the email address _*rochester.lx10@gmail.com*_
 
   * Name, contact number, Contact Email , Home Address
 
