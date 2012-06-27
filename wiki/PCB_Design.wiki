@@ -1,54 +1,54 @@
-#summary Shows Images created of PCB Design & links to PCB Manf Files
+#summary Shows Images Created of PCB Design & Links to PCB Manufacturing Files
 
 
 
 =PCB Design Tool Exports=
 
-The Files below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (what current flows through to make connections between devices, AKA Signals,Tracks). 
+The images below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (what current flows through to make connections between devices; aka Signals/Tracks). 
 
-Shows Silkscreen Layer - The White text which goes on top of the PCB, showing Part reference numbers and information the designer has put on there.
+Shows Silkscreen Layer; white text which goes on top of the PCB. Shows part reference numbers and information the designer has put on there.
 
-Pads are also shown (exposed areas of Gold/nickel plated copper) which the components are soldered to.
+Pads are also shown (exposed areas of Gold/Nickel plated copper) to which the components are soldered to.
 
 ===Images=== 
 Light Cyan - Pads of copper where components will be placed
 
-Blue - Copper Traces and fills
+Blue - Copper traces and fills
 
-Red writing - Silkscreen (writing on top of board)
+Red Writing - Silkscreen (writing on top of board)
 
 
-Top side of the board, the side with all the components and LEDs on.
+Top side of the board - the side with all the components and LEDs on.
 
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
 
-Bottom side of the board, this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
+Bottom side of the board - this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
+
 http://lx10.googlecode.com/files/Bottomside_PCB.jpg
 
 Silkscreen and Component Pads.
+
 http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
+
 
 =Using CAM tools to interact with Gerber files=
 
-This allows you to look at the raw data file which was sent to Invotech (http://www.invotecgroup.com/html/) to produce the board.
+This allows you to look at the raw data file which was sent to Invotech [http://www.invotecgroup.com/html Invotech] to produce the board.
 
-Download the followign File from our download sections *LX10.gwk *
+Gerber files can be found [http://lx10.googlecode.com/files/LX10.gwk here].
 
-http://lx10.googlecode.com/files/LX10.gwk
-
-You can then download a free gerber viewer tool such as GC-Prevue (Link at bottom of page)
+You can then download a free gerber viewer tool such as [http://www.graphicode.com/GC-Prevue#download GC-Prevue].
 
 Once installed, right click on the file and open in GC-Prevue.
 
-This will open up the PCB Design that was sent to be manufactured. 
+This will open up the PCB design that was sent to be manufactured. 
 
-=Talk about Panel And biscuits etc=
+=Talk about Panel And Biscuits etc=
 
 == Gerber Files ==
 
-Below is a link to a ZIP file which contains all the information for a 4 board PCB Biscuit, Including Manf Drawing.
+[http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip LX10_PCB_DESIGN.zip] contains all the information for a 4 Board PCB Biscuit, Including Manufacturing Drawings.
 
-http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip
 
 ==Recomended Tools==
 http://www.graphicode.com/GC-Prevue#download
