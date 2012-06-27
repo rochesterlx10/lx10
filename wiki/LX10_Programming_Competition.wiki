@@ -4,6 +4,25 @@
 
 This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this *Under 16s* and *Over 16s*. Prizes will be a Certificate of Achievement from BAE Systems as well as a Cash prize of Amazon vouchers.
 
+== Requirements ==
+
+You are Required to submit a .zip File containing the following to the email address rochester.lx10@gmail.com
+
+  * Name, contact number, Contact Email , Home Address
+
+  * 300 Word limit document on what your program does and why you wanted to write it
+
+  * The program file (.pie) which is well commented and structured 
+
+
+
+*Optional* You can also email any feedback you have regarding the use of the LX10, Programming Laungage and IDE.
+
+
+ 
+
+
+
 
 =Rules=
 
@@ -31,6 +50,10 @@ This year BAE Systems will be holding a competition on best program created for 
   # 
   #
   # 
+
+=== How to Submit your Program ===
+
+
 
 ===Prizes===
 
