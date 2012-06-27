@@ -4,7 +4,7 @@
 
 This is where you can find all the design data you will need for your LX10.
 
-You can find everything you need to modify your awesome new toy, from schematics to board layouts. 
+You can find everything you need to modify your awesome new gadget, from schematics to board layouts. 
 
 Look here if you want to customise your LX10, if you are just curious as to what design data the LX10 has, or if you want to nit-pick your way to some recommendations as to how we could have done it better.
 
