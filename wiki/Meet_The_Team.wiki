@@ -26,15 +26,15 @@ Main Roles:
 Random Fact:
 
 ===Software===
-*Mark*
+====Mark====
 
- * Who you are: Software Team Lead
+ * *Who you are:* Software Team Lead
 
- * Degree: Computer Science
+ * *Degree:* Computer Science
 
- * Main Roles: Timekeeping, resource management, giving birth to the Pie language and writing the IDE.
+ * *Main Roles:* Timekeeping, resource management, giving birth to the Pie language and writing the IDE.
 
- * Random Fact: I can solve a Rubik's Cube but apparently can't spell it.
+ * *Random Fact:* I can solve a Rubik's Cube but apparently can't spell it.
 
 *Martyn*
 
