@@ -5,7 +5,7 @@
 ==Initial Mind Map==
 
 
-==Breakign down of functions==
+==Breaking Down of Functions==
 
 =Customer Requirements=
 
@@ -17,9 +17,9 @@
 PC Side IDE is >6k Lines of Code
 
 
- Code on the PIC had constant size issues and we had to drop a lot of functions to fit it in
+Code on the PIC had constant size issues and we had to drop a lot of functions to fit it in
 
-The software team is comprised of 3 people (8 for HW :p)
+The software team is comprised of 3 people (9 for HW :p)
 
 The PC side IDE was being updated right up until the open day (this is likely to be true)
 
@@ -34,16 +34,16 @@ The hardest software challenge was getting our 3 components to play nicely toget
 =Prototyping=
 
 
-==Prototyping on breadboard==
+==Prototyping on Breadboard==
 
 
-==Design protype PCB==
+==Design Protype PCB==
 
 
-==Creating first prototype PCB==
+==Creating First Prototype PCB==
 
 
-==Testing of prototypes==
+==Testing of Prototypes==
 
 
 =Final Design=
