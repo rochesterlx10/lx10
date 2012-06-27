@@ -6,8 +6,20 @@ This section shows the Electronic schematic that was designed and used to create
 
 == Schematic ==
 
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-001.jpg
 
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-002.jpg
 
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-003.jpg
+
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-004.jpg
+
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
+
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
+
+Below is the link to the PDF document containing the schematic
+http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF
 
 == Bill OF Materials==
 
