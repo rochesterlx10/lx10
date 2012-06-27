@@ -26,9 +26,9 @@ Main Roles:
 Random Fact:
 
 ===Software===
-====Mark====
+*Mark*
 
- * *Who you are:* Software Team Lead
+ * *Title:* Software Team Lead
 
  * *Degree:* Computer Science
 
