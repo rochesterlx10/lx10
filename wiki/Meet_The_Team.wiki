@@ -28,11 +28,11 @@ Random Fact:
 ===Software===
 *Mark*
 
- * *Title:* Software Team Lead
+ * *Job:* Software Engineer
 
  * *Degree:* Computer Science
 
- * *Main Roles:* Timekeeping, resource management, giving birth to the Pie language and writing the IDE.
+ * *Main Roles:* Software team lead, timekeeping, resource management, giving birth to the Pie language and writing the IDE.
 
  * *Random Fact:* I can solve a Rubik's Cube but I apparently can't spell it.
 
