@@ -1,3 +1,5 @@
+#summary How the Board was Manufactured
+
 =Designing the LX10=
 
 ==Initial Mind Map==
