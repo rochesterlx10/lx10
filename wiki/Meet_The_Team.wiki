@@ -1,4 +1,4 @@
-#summary Information about the People behind the LX10
+#summary Information about the people behind the LX10
 
 = Design Team =
 
