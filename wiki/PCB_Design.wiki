@@ -1,7 +1,9 @@
 #summary Shows the files,images and some processors on how we designed the PCB
 
 Light Cyan - Pads of copper where components will be placed
+
 Blue - Copper Traces and fills
+
 Red writing - Silkscreen (writing on top of board)
 
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
