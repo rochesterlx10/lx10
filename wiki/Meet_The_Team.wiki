@@ -69,13 +69,14 @@ Random Fact:
 
 *Eric*
 
-Who you are
+  * On an Industrial Placement year at BAE Systems Rochester.
 
-Degree:
+  * Studying Electrical and Electronic Engineering (MEng) At Kent University.
 
-Main Roles:
+  * Main Roles include; Schematic Design and Debug, Video Editing, Procurement, Prototyping
 
-Random Fact:
+  * Favourite musical instrument; Ukulele 
+
 
 *Sarah*
 
@@ -126,7 +127,7 @@ Random Fact:
   * Main Roles include; PCB Layout and Tracking, Providing Wiki material, Team Support
 
 
-  * Favourite musical instrument; Bassoon.
+  * Favourite musical instrument; Banjo.
 
 
 
