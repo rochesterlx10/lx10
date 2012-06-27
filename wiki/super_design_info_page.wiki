@@ -1,4 +1,4 @@
-#summary design info. innit.
+#summary Links to all the design info on the LX10.
 
 = Introduction =
 
