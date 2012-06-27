@@ -25,6 +25,13 @@ http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
 Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches , non volitile memory (Flash), Touch Pads (for buttons A,B,X)
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
 
+== Data Sheets ==
+
+Data sheets hold all technical data and parameters of components. Each component is normally supplied with its own datasheet, which is custom to each part. These are used by Engineers to choose the correct part for the right job. 
+
+Below is a link to most of the data sheets we used in this design,
+
+http://lx10.googlecode.com/files/Datasheets%20-%20Active.zip
 
 
 == Bill OF Materials==
