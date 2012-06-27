@@ -28,13 +28,13 @@ Random Fact:
 ===Software===
 *Mark*
 
-Who you are
+ * Who you are: Software Team Lead
 
-Degree:
+ * Degree: Computer Science
 
-Main Roles:
+ * Main Roles: Timekeeping, resource management, giving birth to the Pie language and writing the IDE.
 
-Random Fact:
+ * Random Fact: I can solve a Rubik's Cube but apparently can't spell it.
 
 *Martyn*
 
