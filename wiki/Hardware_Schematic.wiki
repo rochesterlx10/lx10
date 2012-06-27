@@ -6,14 +6,17 @@ This section shows the Electronic schematic that was designed and used to create
 
 == Schematic ==
 
+Top Level shows how each functional block interconnects with each other.
+It also shows how the world connects to the board, in this case the world is the Computer, which is plugged in to the USB socket (PL1). Also we have the programming Edge connector, represented by test points named EDGE_XXX
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-001.jpg
 
+Sheet 1 - This shows how the accelerometer function block is wired up
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-002.jpg
-
+Sheet 2 - LED Array Functional block - Shows how the LED array connects to each other. Each row of LEDs (left to right) has there anode connected to each other. Each column (top to bottom) has there cathode connected to each other.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-003.jpg
-
+Sheet 3 - LED Driver circuit ( how to turn on and select LEDs). 
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-004.jpg
-
+Sheet 4 - Power functional block , this block shows how all the power is generated. This is done using a DC/DC Converter to take 9V in and convert to 3V3
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
 
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
