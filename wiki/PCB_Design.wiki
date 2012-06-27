@@ -19,6 +19,7 @@ Red writing - Silkscreen (writing on top of board)
 
 
 Top side of the board, the side with all the components and LEDs on.
+
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
 
 Bottom side of the board, this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
@@ -29,6 +30,19 @@ http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
 
 =Using CAM tools to interact with Gerber files=
 
+This allows you to look at the raw data file which was sent to Invotech (http://www.invotecgroup.com/html/) to produce the board.
+
+Download the followign File from our download sections *LX10.gwk *
+
+http://lx10.googlecode.com/files/LX10.gwk
+
+You can then download a free gerber viewer tool such as GC-Prevue (Link at bottom of page)
+
+Once installed, right click on the file and open in GC-Prevue.
+
+This will open up the PCB Design that was sent to be manufactured. 
+
+=Talk about Panel And biscuits etc=
 
 ==Recomended Tools==
 http://www.graphicode.com/GC-Prevue#download
