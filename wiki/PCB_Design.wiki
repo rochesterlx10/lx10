@@ -44,5 +44,11 @@ This will open up the PCB Design that was sent to be manufactured.
 
 =Talk about Panel And biscuits etc=
 
+== Gerber Files ==
+
+Below is a link to a ZIP file which contains all the information for a 4 board PCB Biscuit, Including Manf Drawing.
+
+http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip
+
 ==Recomended Tools==
 http://www.graphicode.com/GC-Prevue#download
