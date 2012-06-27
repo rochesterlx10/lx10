@@ -5,3 +5,7 @@ Blue - Copper Traces and fills
 Red writing - Silkscreen (writing on top of board)
 
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
+
+http://lx10.googlecode.com/files/Bottomside_PCB.jpg
+
+http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
