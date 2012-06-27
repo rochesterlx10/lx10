@@ -1,4 +1,6 @@
+#summary Hardware Schematics and design information
 #labels Hardware,Schematic,Design
+
 =Electronic Schematics=
 
 == Intro ==
