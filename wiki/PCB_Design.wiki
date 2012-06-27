@@ -18,17 +18,23 @@ Blue - Copper traces and fills
 Red Writing - Silkscreen (writing on top of board)
 
 
+
 Top side of the board - the side with all the components and LEDs on.
 
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
+
+
 
 Bottom side of the board - this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
 
 http://lx10.googlecode.com/files/Bottomside_PCB.jpg
 
+
+
 Silkscreen and Component Pads.
 
 http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
+
 
 
 =Using CAM tools to interact with Gerber files=
