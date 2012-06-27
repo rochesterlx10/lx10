@@ -1,16 +1,28 @@
 #summary Shows Images created of PCB Design & links to PCB Manf Files
 
 
-#summary Shows the files,images and some processors on how we designed the PCB
 
+=PCB Design Tool Exports=
+
+The Files below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (what current flows through to make connections between devices, AKA Signals,Tracks). 
+
+Shows Silkscreen Layer - The White text which goes on top of the PCB, showing Part reference numbers and information the designer has put on there.
+
+Pads are also shown (exposed areas of Gold/nickel plated copper) which the components are soldered to.
+
+===Images=== 
 Light Cyan - Pads of copper where components will be placed
 
 Blue - Copper Traces and fills
 
 Red writing - Silkscreen (writing on top of board)
 
+
+Top side of the board, the side with all the components and LEDs on.
 http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
 
+Bottom side of the board, this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
 http://lx10.googlecode.com/files/Bottomside_PCB.jpg
 
+Silkscreen and Component Pads.
 http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
