@@ -1,1 +1,5 @@
 #summary Shows the files,images and some processors on how we designed the PCB
+
+
+
+http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
