@@ -2,7 +2,7 @@
 
 =LX10 Open Day 2012 Competition=
 
-This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this *Under 16s* and *Over 16s*. Prizes will be a Certificate of Achievement from BAE Systems as well as a Cash prize of Amazon vouchers.
+This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this *Under 16s* and *16 & Over*. Prizes will be a Certificate of Achievement from BAE Systems as well as a Cash prize of Amazon vouchers.
 
 == Requirements ==
 
@@ -42,7 +42,7 @@ You are Required to submit a .zip File containing the following to the email add
   #
   # 
 
-===Over 16s===
+===16 & Over===
   #  
   # 
   #
