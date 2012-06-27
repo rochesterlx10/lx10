@@ -1,5 +1,5 @@
 #summary Hardware Modifications for the LX10
-#labels Hardware,Modifaction,Mods,I2C,UART,Soldering,USB,Power,Diode
+#labels Hardware,modification,Mods,I2C,UART,Soldering,USB,Power,Diode
 
 = Introduction =
 
