@@ -59,7 +59,7 @@ Click [http://lx10.googlecode.com/files/Datasheets%20-%20Active.zip here] for a 
 ||	1uF Cap	||	C0403, C0302, C0508	||		||	3	||
 ||	4.7uF Cap	||	C0100	||		||	1	||
 ||	10u Cap	||	C0401, C0402, C0408, C0409, C0410, C0411, C0506	||		||	7	||
-||	0R0 Res	||R0405 , R0508 , R0509	||		||		2	||
+||	0R0 Res	||	R0405 , R0508 , R0509	||		||		2	||
 ||	0rR5	||	R0409	||	||		1	||
 ||	10R Res	||	R0511, R0512, R0505	||	||		3	||
 ||	470R Res	||	R0510	||	||		1	||
