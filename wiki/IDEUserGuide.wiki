@@ -95,6 +95,7 @@ Belows image shows the connected colored in LX10 image to let you know your LX10
 http://lx10.googlecode.com/files/IDE_Advanced_Connected_Board.png
 
 
+*Shortcuts* In the advanced IDE you can use F5, to open up the simulator and F9 to program.
 
 ===Errors when compling===
 When you try to simulate / program your LX10. If there is an error, the following box will come up, showing you why it couldn't compile your code.
