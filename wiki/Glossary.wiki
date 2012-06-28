@@ -80,7 +80,7 @@
 
 *U*
 
-*
+* USB - Universal Serial Bus
 
 *V*
 
