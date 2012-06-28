@@ -155,9 +155,6 @@ draw <direction> arrow
 draw line from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
 
 draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
-
-draw circle at (<variable or number>,<variable or number>) size (<variable or number>,<variable or number>)
-
 }}}
 == Location ==
 {{{
