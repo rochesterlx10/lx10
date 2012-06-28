@@ -56,6 +56,7 @@ Below shows an example of “Joe” being written in the Interface. This can the
 http://lx10.googlecode.com/files/awesome_joe.JPG
 
 Stamps Menu:
+
 http://lx10.googlecode.com/files/stamps_menu.JPG
 
 ==Advanced==
@@ -71,8 +72,6 @@ http://lx10.googlecode.com/files/advanced_ide_program.JPG
 http://lx10.googlecode.com/files/advanced_ide_error.JPG
 
 http://lx10.googlecode.com/files/advanced_ide_error2.JPG
-
-
 
 
 
