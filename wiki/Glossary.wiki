@@ -1,10 +1,11 @@
 *A*
 
-  *
+  * _aka - also known as_
+  * _app - application_
 
 *B*
 
-  *
+  * _BOM - Bill of Materials_
 
 *C*
 
@@ -12,6 +13,7 @@
 
 *D*
 
+  * _DMM - Digital Multimeter_
   * _D-Pad - Directional Pad_
 
 *E*
@@ -28,11 +30,14 @@
 
 *H*
 
-  *
+  * _HW - Hardware_
 
 *I*
 
-  *
+  * _I2C - Inter-Integrated Circuit_
+  * _IC - Integrated Circuit_
+  * _IDE - Integrated Development Environment_
+  * _IP - Industrial Placement Student_
 
 *J*
 
@@ -48,21 +53,22 @@
 
 *M*
 
-  *
+  * _Mfg - Manufacturing_
 
 *N*
 
-  *
+  * 
 
 *O*
 
+  * _ODC - Open Day Challenge_
   * _OIL - Operator Instructions & Limitations_
 
 *P*
 
   * _PCB - Printed Circuit Board_
-
   * _PIC - Peripheral Interface Controller_
+  * _PIE - Programming is Easy_
 
 *Q*
 
@@ -74,7 +80,7 @@
 
 *S*
 
-  *
+  * _SW - Software_
 
 *T*
 
@@ -82,6 +88,7 @@
 
 *U*
 
+  * _UART - Universal Asynchronous Receiver Transmitter_
   * _USB - Universal Serial Bus_
 
 *V*
