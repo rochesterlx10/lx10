@@ -4,7 +4,7 @@
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet the Team]
 * Requirements
-    * [PCB_Design PCB Design
+    * [PCB_Design PCB Design]
     * Derived
         * [Hardware_Schematic Hardware Schematic]
         * Software
