@@ -7,9 +7,9 @@
 
   * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on rogrammable logic devices (PLDs) 
 
-  * Degree: Electrical and electronic Engineering (BEng) Aston University
+  * *Degree:* Electrical and electronic Engineering (BEng) Aston University
 
-  * Random Fact: Can run 100M in under 11s
+  * *Random Fact:* Can run 100M in under 11s
 
 ===Systems===
 
