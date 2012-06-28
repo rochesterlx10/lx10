@@ -12,7 +12,7 @@
 
 *D*
 
-*
+* _D-Pad - Directional Pad_
 
 *E*
 
@@ -61,6 +61,7 @@
 *P*
 
 * _PCB - Printed Circuit Board_
+* _PIC - Peripheral Interface Controller_
 
 *Q*
 
