@@ -1,5 +1,4 @@
 #summary Wiki navigation.
-#sidebar Contents
 <wiki:toc max_depth="3" />
 
 =1. Introduction=
