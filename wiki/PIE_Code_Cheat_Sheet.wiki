@@ -1,2 +1,194 @@
-#summary Quick Refrence Cheat Sheet for PIE Code Commands
+#summary The cheat sheet (a page of commands) for the Pie language.
 #labels PIE,Code,Programming,laungage
+
+= Pie Cheat Sheet =
+This should list all the main functions available to you in the Pie language in a simple and easy to read way.
+
+= Pie =
+
+== Comment ==
+{{{
+@ comment goes here
+}}}
+== Make Variables == 
+By default, a variable is a number.
+{{{
+make <variable> 
+make <variable> a number
+}}}
+== Set Variables == 
+{{{
+set <variable> to <number>
+set <variable> to <variable>
+set <variable> to <calculation>
+}}}
+== Calculation ==
+{{{
+<variable> + <number>
+<variable> - <number>
+<variable> * <number>
+<variable> multiply <number>
+<variable> / <number>
+<variable> divide <number>
+
+<variable> + <variable>
+<variable> - <variable>
+<variable> * <variable>
+<variable> multiply <variable>
+<variable> / <variable>
+<variable> divide <variable>
+}}}
+
+Calculations go at the end of a set. For example:
+{{{
+set myVariable to var1 + var2
+}}}
+== Increment/Decrement == 
+{{{
+add <number> to <variable>
+take <number> from <variable>
+
+add <variable> to <variable>
+take <variable> from <variable>
+}}}
+== Random ==
+Sets a random number between 1 and 10.
+{{{
+set <variable> to random number
+}}}
+*Example:* random_dot.pie
+== If statement ==
+The `<comparison>` part is covered in the next section.
+{{{
+if <comparison> then
+    <code>
+end if
+}}}
+== Comparison ==
+=== Variable Comparison ===
+{{{
+<variable> is equal to <number>
+<variable> is not equal to <number>
+<variable> is greater than <number>
+<variable> is less than <number>
+
+<variable> is equal to <variable>
+<variable> is not equal to <variable>
+<variable> is greater than <variable>
+<variable> is less than <variable>
+}}}
+=== Button Comparison ===
+{{{
+a-button is pressed
+a-button is not pressed
+}}}
+Possible buttons are:
+
+ # a-button
+ # b-button
+ # up-button
+ # down-button
+ # left-button
+ # right-button
+=== LED Comparison ===
+{{{
+led <variable or number>,<variable or number> is on
+led <variable or number>,<variable or number> was on
+led <variable or number>,<variable or number> is off
+led <variable or number>,<variable or number> was off
+}}}
+
+== Loops ==
+The below is optional.
+{{{
+do below forever
+    <code>
+end do
+
+do below <number> times
+    <code>
+end do
+
+do below <variable> times
+    <code>
+end do
+
+do below while <comparison>
+    <code>
+end do
+}}}
+*Example:* strobe_dot.pie
+== Functions ==
+In order run a function simply type:
+{{{
+run <function_name>
+
+e.g.
+run myFunction
+}}}
+== LED Control ==
+You won't see LEDs change until you type "update display", unless you put "now" at the end.
+
+{{{
+set led (<variable or number>, <variable or number>) on
+set led (<variable or number>, <variable or number>) off
+set led (<variable or number>, <variable or number>) on now
+set led (<variable or number>, <variable or number>) off now
+
+set all led on
+set all led off
+}}}
+== Draw ==
+Same with LED control, "update display" will need to be typed after the draw in order for the screen to show the changes.
+=== Static Patterns ===
+These are pre-defined by us.
+{{{
+draw number zero <location>
+...
+draw number nine <location>
+
+draw smiley
+draw bae
+
+draw <direction> arrow
+}}}
+=== Shapes ===
+{{{
+draw line from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
+
+draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
+
+draw circle at (<variable or number>,<variable or number>) size (<variable or number>,<variable or number>)
+
+}}}
+== Location ==
+{{{
+left
+middle
+right
+}}}
+== Direction ==
+{{{
+up
+down
+left
+right
+}}}
+== Update Display ==
+This must be done after any LED control or draw in order to see a change
+{{{
+update display
+}}}
+== Wait ==
+{{{
+wait <number> seconds
+wait <number> mseconds
+
+wait <variable> seconds
+wait <variable> mseconds
+}}}
+== Program Control ==
+{{{
+restart program
+main menu
+}}}
