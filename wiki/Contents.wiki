@@ -1,6 +1,6 @@
 #summary Wiki navigation.
 
-* Project_Purpose
+* Introduction
   * [Project_Purpose Getting Started]
   * [Project_Purpose Join a project]
   * [Project_Purpose Project Hosting FAQ]
