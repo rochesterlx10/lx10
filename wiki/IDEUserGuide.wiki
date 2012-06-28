@@ -103,3 +103,9 @@ http://lx10.googlecode.com/files/advanced_ide_error.JPG
 In this case, when you double click on the error, it highlights line 2 and the word "make" showing you there is a problem. Once you put the letter y next to it, the program will compile and run.
 
 http://lx10.googlecode.com/files/advanced_ide_error2.JPG
+
+===functions===
+
+Functions are very handy, allows you to split your code down into modules  that are very small chunks of a master function, which calls all your other functions in a set order. 
+
+you create a new function by clicking on the green + button which adds a new tab/sheet to your IDE, you name your fucntion what you want.
