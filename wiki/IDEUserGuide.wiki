@@ -91,6 +91,15 @@ http://lx10.googlecode.com/files/simulator.jpg
 
 
 ===Errors when compling===
+When you try to simulate / Program your LX10. If there is an error, the following box will come up, showing you why it couldn't compile your code.
+
+This box is very useful when trying to debug, If you double click the error, it will take you to the line which it cant compile. It will also suggest to you , why it thinks it wont compile.
+
+in this case the letter Y is missing next to "make" which sets the variable Y. Y is used through out the code , so all lines which interact with the variable Y will not compile.#
+
 http://lx10.googlecode.com/files/advanced_ide_error.JPG
+
+
+In this case, when you double click on the error, it highlights line 2 and the word "make" showing you there is a problem. Once you put the letter y next to it, the program will compile and run.
 
 http://lx10.googlecode.com/files/advanced_ide_error2.JPG
