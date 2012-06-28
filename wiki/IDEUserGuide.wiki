@@ -46,7 +46,7 @@ http://lx10.googlecode.com/files/disconnected.JPG LX10 Status, Will show disconn
 http://lx10.googlecode.com/files/show_on_lx10.JPG This button will light up when an LX10 is connected, When you want the LX10 to display what’s on your screen, Press it and the LX10 will mirror the interface.
 
 
-The simple interface you interact with each LED on the board by turning the led on and off using the interface. Red light means the LED will be lit up, Gray box means led is off. You can save your patterns using *Stamps* which can be then later called upon in advanced programs.
+Whilst using the simple interface you interact with each LED on the board by turning the LED on and off using the interface. A red light means the LED will be lit up, a gray box means LED is off. You can save your patterns using *Stamps* which can be then later called upon in advanced programs.
 
 
 The patterns can be saved and later recalled using the buttons.
@@ -67,7 +67,7 @@ http://lx10.googlecode.com/files/stamps_menu.JPG
 ===The IDE===
 http://lx10.googlecode.com/files/advanced_ide.JPG
 
-The Image above shows the Advanced IDE interface. This has a few extra buttons and window boxes compared to the simple IDE. These are;
+The image above shows the Advanced IDE interface. This has a few extra buttons and window boxes compared to the simple IDE. These are;
 
 http://lx10.googlecode.com/files/copy_paste_button.jpg Copy and Paste buttons, you can use to copy bits of code and paste else where
 
@@ -77,9 +77,9 @@ http://lx10.googlecode.com/files/save_button1.jpg Quick save button to save curr
 
 http://lx10.googlecode.com/files/variables_box.jpg Variables window box (located right hand side) shows all your active variables that you have programmed in. (If you double click on the variable, it will place that variable name where your cursor is)
 
-http://lx10.googlecode.com/files/simulate_button.jpg LX10 connection, Simulation and programming box. The image of the LX10 shows if the board is connected. Simulate will bring up the simulator to test your code on, before you program your LX10 with it. *Note* The LX10 dosnt need to be plugged in to simulate the program. “Program LX10” will allow you to load your program in to 1 of 9 slots on the memory.
+http://lx10.googlecode.com/files/simulate_button.jpg LX10 connection, Simulation and programming box. The image of the LX10 shows if the board is connected. "Simulate" will bring up the simulator to test your code on, before you program your LX10 with it. *Note* The LX10 doesn't need to be plugged in to simulate the program. “Program LX10” will allow you to load your program in to 1 of 9 slots on the memory.
 
-Below shows you a program in the advanced IDE, the variables are listed on the right hand side showing you what varaibles you have used and if you click simulate, the simulation comes up. The buttons can be replicated by using the equivalent buttons on the keyboard. A,B,X, and the Cursor arrows (up, down, left , right).
+Below shows you a program in the Advanced IDE, the variables are listed on the right hand side showing you what varaibles you have used and if you click "Simulate", the simulation comes up. The buttons can be replicated by using the equivalent buttons on the keyboard. A,B,X, and the Cursor arrows (up, down, left , right).
 
 Advanced IDE:
 
@@ -93,9 +93,9 @@ http://lx10.googlecode.com/files/simulator.jpg
 
 
 ===Errors when compling===
-When you try to simulate / Program your LX10. If there is an error, the following box will come up, showing you why it couldn't compile your code.
+When you try to simulate / program your LX10. If there is an error, the following box will come up, showing you why it couldn't compile your code.
 
-This box is very useful when trying to debug, If you double click the error, it will take you to the line which it cant compile. It will also suggest to you , why it thinks it wont compile.
+This box is very useful when trying to debug. If you double click the error, it will take you to the line which it can't compile. It will also suggest to you why it thinks it won't compile.
 
 in this case the letter Y is missing next to "make" which sets the variable Y. Y is used through out the code , so all lines which interact with the variable Y will not compile.#
 
@@ -110,9 +110,9 @@ http://lx10.googlecode.com/files/advanced_ide_error2.JPG
 
 Functions are very handy, allows you to split your code down into modules  that are very small chunks of a master function, which calls all your other functions in a set order. 
 
-you create a new function by clicking on the green + button which adds a new tab/sheet to your IDE, you name your fucntion what you want. 
+You can create a new function by clicking on the green "+" button which adds a new tab/sheet to your IDE, and you can name your funtion what you want. 
 
-When you click the green + button to add a function, the following input box comes up to ask for the name of your function
+When you click the green "+" button to add a function, the following input box comes up to ask for the name of your function
 http://lx10.googlecode.com/files/function_adding.jpg
 
 In this case a function called "fish" was added. it is shown in the tabs next to the master function which is called "start"
