@@ -18,14 +18,14 @@
 
 * [http://www.theiet.org IET] - The Institution of Engineering & Technology
 
-* [http://uk.rs-online.com/web/] - Purchase Electronic Components, Electrical, Mechanical and Test Equipment
+* [http://uk.rs-online.com/web/ RS] - Purchase Electronic Components, Electrical, Mechanical and Test Equipment
 
-* [http://uk.farnell.com/] - Farnell UK is a world-leading marketer and distributor of electronic and maintenance, repair and operations (MRO) products
+* [http://uk.farnell.com/ Farnell] - Farnell UK is a world-leading marketer and distributor of electronic and maintenance, repair and operations (MRO) products
 
-* [http://htwins.net/] - Interactive learning tool covering many topics
+* [http://htwins.net/ HTwins] - Interactive learning tool covering many topics
 
-* [http://www.raspberrypi.org/] - Computer for kids
+* [http://www.raspberrypi.org/ Raspberry Pi] - Computer for kids
 
-* [http://www.wolframalpha.com/] - Computational Knowledge Engine
+* [http://www.wolframalpha.com/ WolframAlpha] - Computational Knowledge Engine
 
-* [http://www.howstuffworks.com/] - !HowStuffWorks explains thousands of topics, from engines to lock-picking to ESP, with video and illustrations so you can learn how everything works
+* [http://www.howstuffworks.com/ HowStuffWorks] - !HowStuffWorks explains thousands of topics, from engines to lock-picking to ESP, with video and illustrations so you can learn how everything works
