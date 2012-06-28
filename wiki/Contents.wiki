@@ -1,8 +1,8 @@
 #summary Wiki navigation.
 
 * Introduction
-    [Project_Purpose Project Purpose]
-    [Meet_The_Team Meet the Team]
+    * [Project_Purpose Project Purpose]
+    * [Meet_The_Team Meet the Team]
 * Requirements
     [PCB_Design PCB Design]
     * Derived
