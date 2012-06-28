@@ -2,7 +2,7 @@
 
 * Introduction
   * [Project_Purpose Project Purpose]
-  * [Project_Purpose Join a project]
+  * [Meet_The_Team Join a project]
   * [Project_Purpose Project Hosting FAQ]
   * [Project_Purpose Making hosting better]
   * Wiki
