@@ -1,51 +1,78 @@
-#summary User guide detailing how to use the programmer for the LX10
+#summary Complete guide on how to use the Intergrated Development Enviroment
 
-= LX10 Programmer User Guide =
+=IDE User Guide=
 
-== Simple ==
+==Introduction==
 
-So far this won't do much. This will directly turn lights on and off.
+This document shows how to use the IDE/
 
-Try drawing patterns, saving and loading pattern files and give any feedback on the interface.
+===Download===
+Download the file *XXXXXXX* which is a .zip File. Right click on the file and extract its contents to the desktop. 
 
-== Advanced ==
+Once extracted (should take only a matter of seconds), double click on *XXXXX.exe* and the screen below should come up.
 
-This is the compiler, programmer and simulator.
+===Overview===
+http://lx10.googlecode.com/files/Splash_sreen.JPG
 
-=== Main Controls ===
-New, open, save, copy and paste are self explanatory.
+This Interface is where the user decides between using the Simple IDE, which has very limited functionality, but is very graphical, This is aimed for the “novice” programmer / people who just want to play with the LX10. 
 
-Help takes you to the wiki and achievements currently does nothing (and may be removed)
-
-The variable list on the right currently does nothing but will show up to date which variables you have available.
-
-The little button to the top right of the picture of the LX 10 pretends one has been connected and the picture below it displays the status of a connected board.
-
-The check boxes are for debugging and are best kept unticked if you don't want random windows thrown at you.
-
-The simulate button will simulate your code and bring up a display matching that of the LX10s. 
-
-The program button is for sending to a board and won't do a great deal at the moment.
-
-== Adding functions ==
-
-Simply click the '+' button above the word 'functions' and it should ask for a name. 
-
-== Renaming Functions ==
-
-Double click the tab for that function.
-
-== Removing functions ==
-
-Simply click the '-' button above the word 'functions' and the selected function will be removed.
+The advanced button opens up the advanced text interface IDE. This has a lot more functionality than the simple version, Including; Tabs for functions, Error highlighting, Simulator and you are able to program the LX10 with your program.
 
 
-== Writing Code ==
+*Note*: The Simple IDE has no simulator, it directly shows what’s no the IDE on the LX10.
 
-Just type in the main window and it should highlight key words it recognises. Have a look at examples to start you off.
+===Simple IDE===
 
-== Simulating the code ==
-Click the 'simulate' button and the code should compile. It will then run in a new window showing the display and what your code does.
+http://lx10.googlecode.com/files/simple_ide.JPG
 
-== Errors ==
-If your code has errors it will try to explain the issue and if you double click the error it will take you to it.
+http://lx10.googlecode.com/files/open_button.JPG Open button, From here you can open .PIE files and .txt files which you have saved code in, or opening examples. 
+
+http://lx10.googlecode.com/files/save_as_button.JPG Save Button, Allows you to save your program in .pie or .txt format
+
+http://lx10.googlecode.com/files/help_button.JPG This takes you to our external website *XXXXX* which has examples, hints & tips and information about the  LX10.
+
+http://lx10.googlecode.com/files/menu_button.JPG Menu button: essentially a “back button” it will take you back to the previous menu, in this case takes you back to the load up screen where you choose simple or advanced IDE.
+
+http://lx10.googlecode.com/files/stamps_button.JPG Stamps button: This button allows you to save stamps or open stamps. Stamps can be saved as pre-defined light patterns, which you can save and call upon in more advanced programs. 
+
+http://lx10.googlecode.com/files/all_on_button.JPG Turns all LEDs on
+
+http://lx10.googlecode.com/files/all_off_button.JPG Turns all LEDs off
+
+http://lx10.googlecode.com/files/disconnected.JPG LX10 Status, Will show disconnected when no device is found/ connected, It will light up and show “Connected” when device is successfully connected to PC.
+
+http://lx10.googlecode.com/files/show_on_lx10.JPG This button will light up when an LX10 is connected, When you want the LX10 to display what’s on your screen, Press it and the LX10 will mirror the interface.
+
+
+The simple interface you interact with each LED on the board by turning the led on and off using the interface. Red light means the LED will be lit up, Gray box means led is off. You can save your patterns using *Stamps* which can be then later called upon in advanced programs.
+
+
+The patterns can be saved and later recalled using the buttons.
+
+
+===Example===
+Below shows an example of “Joe” being written in the Interface. This can then be saved in a *stamp* (menu shown below). This is very useful, As if you want to call the name “Joe” up later in your advanced programs you can do so(very handy for putting your signature / name to a programme)
+
+http://lx10.googlecode.com/files/awesome_joe.JPG
+
+Stamps Menu:
+http://lx10.googlecode.com/files/stamps_menu.JPG
+
+==Advanced==
+
+
+===The IDE===
+http://lx10.googlecode.com/files/advanced_ide.JPG
+
+
+http://lx10.googlecode.com/files/advanced_ide_program.JPG
+
+===Errors when compling===
+http://lx10.googlecode.com/files/advanced_ide_error.JPG
+
+http://lx10.googlecode.com/files/advanced_ide_error2.JPG
+
+
+
+
+
