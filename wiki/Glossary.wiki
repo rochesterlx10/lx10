@@ -60,9 +60,9 @@
 
 *P*
 
+*_PCB - Printed Circuit Board_
 
-* _PCB - Printed Circuit Board_
-* _PIC - Peripheral Interface Controller_
+*_PIC - Peripheral Interface Controller_
 
 *Q*
 
