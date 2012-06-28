@@ -15,13 +15,14 @@
 
 *Bigwood*
 
-Who you are
+  * *Job:* Graduate Hardware Engineer. In charge of systems requirements for the LX10. 
 
-Degree:
+  * *Degree:*Electronic Engineering (MEng) York University
 
-Main Roles:
+  * *Random Fact:* I Love anything that is radio controlled !
 
-Random Fact:
+
+
 
 ===Software===
 *Mark*
