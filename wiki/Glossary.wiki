@@ -36,7 +36,7 @@
 
 *J*
 
-  *
+  * _IDE - Integrated Development Environment_
 
 *K*
 
@@ -56,13 +56,13 @@
 
 *O*
 
-  *
+  * _OIL - Operator Instructions & Limitations_
 
 *P*
 
-  *_PCB - Printed Circuit Board_
+  * _PCB - Printed Circuit Board_
 
-  *_PIC - Peripheral Interface Controller_
+  * _PIC - Peripheral Interface Controller_
 
 *Q*
 
