@@ -5,13 +5,11 @@
 ===Project Manager===
 *IB*
 
-Who you are
+ Protect manager for LX10 Open day. Hardware engineer Working on rogrammable logic devices (PLDs) 
 
-Degree:
+Degree: Electrical and electronic Engineering (BEng) Aston University
 
-Main Roles:
-
-Random Fact:
+Random Fact: Can run 100M in under 11s
 
 ===Systems===
 
