@@ -1,10 +1,12 @@
 #summary Wiki navigation.
 
-* Introduction
-  * [Project_Purpose Project Purpose]
-  * [Meet_The_Team Meet the Team]
-* Requirements
-  * Derived
-    * [Hardware_Schematic Hardware Schematic]
-    * [Apps_and_Games Apps & Games]
-    * [Glossary]
+* [Project_Purpose]
+  * [Project_Purpose Getting Started]
+  * [Project_Purpose Join a project]
+  * [Project_Purpose Project Hosting FAQ]
+  * [Project_Purpose Making hosting better]
+  * Wiki
+    * [Project_Purpose Wiki FAQ]
+    * [Project_Purpose Wiki Syntax]
+    * [Project_Purpose Google Gadgets]
+      * [Project_Purpose Interesting Gadgets]
