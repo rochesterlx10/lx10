@@ -65,13 +65,32 @@ http://lx10.googlecode.com/files/stamps_menu.JPG
 ===The IDE===
 http://lx10.googlecode.com/files/advanced_ide.JPG
 
+The Image above shows the Advanced IDE interface. This has a few extra buttons and window boxes compared to the simple IDE. These are;
+
+http://lx10.googlecode.com/files/copy_paste_button.jpg Copy and Paste buttons, you can use to copy bits of code and paste else where
+
+http://lx10.googlecode.com/files/functions_buttons.jpg Functions Button ; Adds new tabs to the window, allowing each function to have its own window.
+
+http://lx10.googlecode.com/files/save_button1.jpg Quick save button to save current project.
+
+http://lx10.googlecode.com/files/variables_box.jpg Variables window box (located right hand side) shows all your active variables that you have programmed in. (If you double click on the variable, it will place that variable name where your cursor is)
+
+http://lx10.googlecode.com/files/simulate_button.jpg LX10 connection, Simulation and programming box. The image of the LX10 shows if the board is connected. Simulate will bring up the simulator to test your code on, before you program your LX10 with it. *Note* The LX10 dosnt need to be plugged in to simulate the program. “Program LX10” will allow you to load your program in to 1 of 9 slots on the memory.
+
+Below shows you a program in the advanced IDE, the variables are listed on the right hand side showing you what varaibles you have used and if you click simulate, the simulation comes up. The buttons can be replicated by using the equivalent buttons on the keyboard. A,B,X, and the Cursor arrows (up, down, left , right).
+
+Advanced IDE:
 
 http://lx10.googlecode.com/files/advanced_ide_program.JPG
+
+
+Simulation running:
+
+http://lx10.googlecode.com/files/simulator.jpg
+
+
 
 ===Errors when compling===
 http://lx10.googlecode.com/files/advanced_ide_error.JPG
 
 http://lx10.googlecode.com/files/advanced_ide_error2.JPG
-
-
-
