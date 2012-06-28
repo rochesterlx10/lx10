@@ -1,105 +1,105 @@
 *A*
 
-*
+  *
 
 *B*
 
-*
+  *
 
 *C*
 
-*
+  *
 
 *D*
 
-* _D-Pad - Directional Pad_
+  * _D-Pad - Directional Pad_
 
 *E*
 
-*
+  *
 
 *F*
 
-*
+  *
 
 *G*
 
-*
+  *
 
 *H*
 
-*
+  *
 
 *I*
 
-*
+  *
 
 *J*
 
-*
+  *
 
 *K*
 
-*
+  *
 
 *L*
 
-* _LED - Light Emitting Diode_
+  * _LED - Light Emitting Diode_
 
 *M*
 
-*
+  *
 
 *N*
 
-*
+  *
 
 *O*
 
-*
+  *
 
 *P*
 
-*_PCB - Printed Circuit Board_
+  *_PCB - Printed Circuit Board_
 
-*_PIC - Peripheral Interface Controller_
+  *_PIC - Peripheral Interface Controller_
 
 *Q*
 
-*
+  *
 
 *R*
 
-*
+  *
 
 *S*
 
-*
+  *
 
 *T*
 
-*
+  *
 
 *U*
 
-* _USB - Universal Serial Bus_
+  * _USB - Universal Serial Bus_
 
 *V*
 
-*
+  *
 
 *W*
 
-*
+  *
 
 *X*
 
-*
+  *
 
 *Y*
 
-*
+  *
 
 *Z*
 
-*
+  *
