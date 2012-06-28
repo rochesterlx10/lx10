@@ -7,6 +7,7 @@
 ==Introduction==
 
 This document shows how to use the IDE.
+If you would like to know more about the programming laungage, you can look at the cheat sheet [http://code.google.com/p/lx10/wiki/Pie_Code_functions_and_Examples here]
 
 ===Download===
 Download the file *XXXXXXX* which is a .zip file. Right click on the file and extract its contents to the desktop. 
@@ -126,4 +127,3 @@ http://lx10.googlecode.com/files/fish_function.jpg
 Once your program is simulating ok, its time to load it up to your LX10 click on "Program LX10" in the bottom right hand corner, then a screen will pop up (shown below) chose a program slot to load you program into.
 
 http://lx10.googlecode.com/files/IDE_Program_Slot.png
-
