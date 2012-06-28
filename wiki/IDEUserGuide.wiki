@@ -1,5 +1,7 @@
 #summary Complete guide on how to use the Intergrated Development Enviroment
 
+
+= INCOMPLETE = 
 =IDE User Guide=
 
 ==Introduction==
@@ -115,3 +117,5 @@ http://lx10.googlecode.com/files/function_adding.jpg
 
 In this case a function called "fish" was added. it is shown in the tabs next to the master function which is called "start"
 http://lx10.googlecode.com/files/fish_function.jpg
+
+= ADD HOW TO PROGRAM IMAGE = 
