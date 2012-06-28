@@ -4,10 +4,9 @@
   * Introduction
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
-    * [Project_Purpose Project Hosting FAQ]
-    * [Project_Purpose Making hosting better]
-  * Wiki
-    * [Project_Purpose Wiki FAQ]
-    * [Project_Purpose Wiki Syntax]
-    * [Project_Purpose Google Gadgets]
-      * [Project_Purpose Interesting Gadgets]
+  * Requirements
+    * Customer Requirements
+    * Derived Requirements
+      * Systems
+      * Software
+      * Hardware
