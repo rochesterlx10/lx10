@@ -10,3 +10,9 @@
       * Systems
       * Software
       * Hardware
+  * Design/Manufacture
+    * Alpha Prototype Board
+    * Beta Prototype Board
+    * Final Board
+      * [Hardware_Schematic Hardware Schematic]
+      * [PCB_Design PCB Design]
