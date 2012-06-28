@@ -4,7 +4,6 @@
   * [Project_Purpose Project Purpose]
   * [Meet_The_Team Meet the Team]
 * Requirements
-  * [PCB_Design PCB Design]
   * Derived
     * [Hardware_Schematic Hardware Schematic]
     * [Apps_and_Games Apps & Games]
