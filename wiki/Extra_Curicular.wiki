@@ -6,7 +6,11 @@
 
 * [http://www.octopart.com Octopart] - Octopart is a search engine for electronic parts
 
-= Mechanical = 
+* [http://www.mentor.com/training_and_services/] - Offers a full range of learning solutions developed specifically for electronics designers and engineers, including live webinars (registration may be required)
+
+= Mechanical =
+
+* [http://www.imeche.org IMechE] - Institution of Mechanical Engineers
 
 = Manufacturing = 
 
@@ -14,4 +18,14 @@
 
 * [http://www.theiet.org IET] - The Institution of Engineering & Technology
 
-* [http://www.imeche.org IMechE] - Institution of Mechanical Engineers
+* [http://uk.rs-online.com/web/] - Purchase Electronic Components, Electrical, Mechanical and Test Equipment
+
+* [uk.farnell.com/] - Farnell UK is a world-leading marketer and distributor of electronic and maintenance, repair and operations (MRO) products
+
+* [http://htwins.net/] - Interactive learning tool covering many topics
+
+* [http://www.raspberrypi.org/] - Computer for kids
+
+* [http://www.wolframalpha.com/] - Computational Knowledge Engine
+
+* [http://www.howstuffworks.com/] - HowStuffWorks explains thousands of topics, from engines to lock-picking to ESP, with video and illustrations so you can learn how everything works
