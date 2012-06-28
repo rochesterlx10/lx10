@@ -1,7 +1,7 @@
 #summary Complete guide on how to use the Intergrated Development Enviroment
 
 
-= INCOMPLETE = 
+
 =IDE User Guide=
 
 ==Introduction==
@@ -123,9 +123,7 @@ http://lx10.googlecode.com/files/fish_function.jpg
 
 = Programming = 
 
-Once your program is simulating ok, its time to load it up to your LX10 click on "Program to LX10" in the bottom right hand corner, then a screen will pop up (shown below) chose a program slot to load you program into.
+Once your program is simulating ok, its time to load it up to your LX10 click on "Program LX10" in the bottom right hand corner, then a screen will pop up (shown below) chose a program slot to load you program into.
 
 http://lx10.googlecode.com/files/IDE_Program_Slot.png
-
-
 
