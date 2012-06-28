@@ -6,19 +6,19 @@
 
 ==Introduction==
 
-This document shows how to use the IDE/
+This document shows how to use the IDE.
 
 ===Download===
-Download the file *XXXXXXX* which is a .zip File. Right click on the file and extract its contents to the desktop. 
+Download the file *XXXXXXX* which is a .zip file. Right click on the file and extract its contents to the desktop. 
 
 Once extracted (should take only a matter of seconds), double click on *XXXXX.exe* and the screen below should come up.
 
 ===Overview===
 http://lx10.googlecode.com/files/Splash_sreen.JPG
 
-This Interface is where the user decides between using the Simple IDE, which has very limited functionality, but is very graphical, This is aimed for the “novice” programmer / people who just want to play with the LX10. 
+This interface is where the user decides between using the Simple IDE and the Advanced IDE. The Simple IDE has very limited functionality, but is very graphical and is aimed at the “novice” programmer / people who just want to play with the LX10. 
 
-The advanced button opens up the advanced text interface IDE. This has a lot more functionality than the simple version, Including; Tabs for functions, Error highlighting, Simulator and you are able to program the LX10 with your program.
+The advanced button opens up the Advanced text interface IDE. This has a lot more functionality than the Simple version. This includes; Tabs for functions, Error highlighting, Simulator and you are able to program the LX10 with your program.
 
 
 *Note*: The Simple IDE has no simulator, it directly shows what’s no the IDE on the LX10.
