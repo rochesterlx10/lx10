@@ -3,7 +3,9 @@
 = Software =
 
 * [http://stackoverflow.com/ StackOverflow] - Great place to find problems people have had before or to ask for help yourself.
+
 * [http://msdn.microsoft.com/ Microsoft Developer Network]  - A place to find out all about programming in Windows
+
 * [http://codingbat.com/ CodingBat] - Some Java and Python programming exercises to help practice
 
 = Hardware = 
