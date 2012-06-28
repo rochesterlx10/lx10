@@ -20,4 +20,4 @@
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
-  * <font color=red> [LX10_Programming_Competition LX10 PROGRAMMING COMPETITION] *</font>
+  * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***] *</font>
