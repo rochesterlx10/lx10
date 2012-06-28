@@ -4,8 +4,6 @@
 = Pie Cheat Sheet =
 This should list all the main functions available to you in the Pie language in a simple and easy to read way.
 
-= Pie =
-
 == Comment ==
 {{{
 @ comment goes here
