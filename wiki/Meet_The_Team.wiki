@@ -78,13 +78,11 @@ Random Fact:
 
 *Sarah*
 
-Who you are
+  * *Job:* Hardware Engineer 
 
-Degree:
+  * *Degree:* Electrical and Electronic Engineering (BEng) Loughborough University
 
-Main Roles:
-
-Random Fact:
+  * *Random Fact:* Has royal blood
 
 *Jack*
 
