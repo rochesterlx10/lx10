@@ -110,7 +110,7 @@ http://lx10.googlecode.com/files/advanced_ide_error2.JPG
 
 Functions are very handy, allows you to split your code down into modules  that are very small chunks of a master function, which calls all your other functions in a set order. 
 
-You can create a new function by clicking on the green "+" button which adds a new tab/sheet to your IDE, and you can name your funtion what you want. 
+You can create a new function by clicking on the green "+" button which adds a new tab/sheet to your IDE, and you can name your function what you want. 
 
 When you click the green "+" button to add a function, the following input box comes up to ask for the name of your function
 http://lx10.googlecode.com/files/function_adding.jpg
