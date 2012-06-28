@@ -1,5 +1,4 @@
 #summary Wiki navigation.
-<wiki:toc max_depth="3" />
 
 =1. Introduction=
 
