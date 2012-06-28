@@ -16,3 +16,8 @@
     * Final Board
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
+  * [Apps_and_Games Apps & Games]
+  * [IDEUserGuide IDE User Guide]
+  * [Glossary]
+  * [Extra_Curicular Extra Curricular]
+  * <font color=red> [LX10_Programming_Competition LX10 PROGRAMMING COMPETITION] *</font>
