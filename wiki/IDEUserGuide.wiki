@@ -90,6 +90,9 @@ Simulation running:
 
 http://lx10.googlecode.com/files/simulator.jpg
 
+Belows image shows the connected colored in LX10 image to let you know your LX10 is plugged into your PC ok.
+http://lx10.googlecode.com/files/IDE_Advanced_Connected_Board.png
+
 
 
 ===Errors when compling===
@@ -118,4 +121,11 @@ http://lx10.googlecode.com/files/function_adding.jpg
 In this case a function called "fish" was added. it is shown in the tabs next to the master function which is called "start"
 http://lx10.googlecode.com/files/fish_function.jpg
 
-= ADD HOW TO PROGRAM IMAGE = 
+= Programming = 
+
+Once your program is simulating ok, its time to load it up to your LX10 click on "Program to LX10" in the bottom right hand corner, then a screen will pop up (shown below) chose a program slot to load you program into.
+
+http://lx10.googlecode.com/files/IDE_Program_Slot.png
+
+
+
