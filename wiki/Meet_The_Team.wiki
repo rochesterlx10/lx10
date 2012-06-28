@@ -5,7 +5,7 @@
 ===Project Manager===
 *IB*
 
-  * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on rogrammable logic devices (PLDs) 
+  * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on programmable logic devices (PLDs) 
 
   * *Degree:* Electrical and electronic Engineering (BEng) Aston University
 
