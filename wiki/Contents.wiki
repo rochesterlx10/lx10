@@ -9,33 +9,3 @@
     * [Hardware_Schematic Hardware Schematic]
     * [Apps_and_Games Apps & Games]
     * [Glossary]
-
-=1. Introduction=
-    * == [http://code.google.com/p/lx10/wiki/Project_Purpose Project Purpose] ==
-    * == [http://code.google.com/p/lx10/wiki/Meet_The_Team Meet the Team] ==    
-
-
-=2. Requirements =
-    * == Customer ==
-    * == Derived ==
-         * === Systems ===
-         * === Software ===
-         * === Hardware ===
-
-
-=3. Design/Manufacture =
-    * == Alpha Prototype Board ==
-    * == Beta Prototype Board ==
-    * == Final Board ==
-         * === [http://code.google.com/p/lx10/wiki/Hardware_Schematic Hardware Schematic] ===
-         * === [http://code.google.com/p/lx10/wiki/PCB_Design PCB Design] ===
-
-=4. [http://code.google.com/p/lx10/wiki/Apps_and_Games Apps & Games] =
-
-=5. [http://code.google.com/p/lx10/wiki/IDEUserGuide IDE User Guide] =
-
-=6. [http://code.google.com/p/lx10/wiki/Glossary Glossary] =
-
-=7. [http://code.google.com/p/lx10/wiki/Extra_Curicular Extra Curricular] =
-
-= <font color=red> [http://code.google.com/p/lx10/wiki/LX10_Programming_Competition LX10 PROGRAMMING COMPETITION] *</font> =
