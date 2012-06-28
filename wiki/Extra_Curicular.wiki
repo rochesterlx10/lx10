@@ -6,7 +6,7 @@
 
 * [http://www.octopart.com Octopart] - Octopart is a search engine for electronic parts
 
-* [http://www.mentor.com/training_and_services/] - Offers a full range of learning solutions developed specifically for electronics designers and engineers, including live webinars (registration may be required)
+* [http://www.mentor.com/training_and_services/ Mentor] - Offers a full range of learning solutions developed specifically for electronics designers and engineers, including live webinars (registration may be required)
 
 = Mechanical =
 
