@@ -1,34 +1,34 @@
 #summary Wiki navigation.
 
-# = Introduction =
+=# Introduction=
 
 The BAE Systems Rochester Open Day 2012 is a day for family and friends of BAE Systems employees to see the work that the employees do at Rochester. The LX10 is an electronic giveaway product that has been developed by Graduates and IPs to support this effort, to demonstrate the product development processes undertaken to deliver a safe product. The key areas in developing the LX10 can be seen by navigating through the wiki.
 
 Here you will also find other useful links such as an area for apps and games that you can download to your LX10. Or if you're feeling creative then a guide is also available to help you to develop your own app/game. And if you are interested in entering our competition then look for the link at the bottom of this page!
 
-* == [http://code.google.com/p/lx10/wiki/Meet_The_Team Meet the Team] ==
+*== [http://code.google.com/p/lx10/wiki/Meet_The_Team Meet the Team] ==
 
-# = Requirements =
-    * == Customer ==
-    * == Derived ==
-         * === Systems ===
-         * === Software ===
-         * === Hardware ===
+#= Requirements =
+    *== Customer ==
+    *== Derived ==
+         *=== Systems ===
+         *=== Software ===
+         *=== Hardware ===
 
 
-# = Design/Manufacture =
+#= Design/Manufacture =
     * == Alpha Prototype Board ==
     * == Beta Prototype Board ==
     * == Final Board ==
          * === [http://code.google.com/p/lx10/wiki/Hardware_Schematic Hardware Schematic] ===
-         * === [http://code.google.com/p/lx10/wiki/PCB_Design PCB Design] ===
+         *=== [http://code.google.com/p/lx10/wiki/PCB_Design PCB Design] ===
 
-# = [http://code.google.com/p/lx10/wiki/Apps_and_Games Apps & Games] =
+#= [http://code.google.com/p/lx10/wiki/Apps_and_Games Apps & Games] =
 
-# = [http://code.google.com/p/lx10/wiki/IDEUserGuide IDE User Guide] =
+#= [http://code.google.com/p/lx10/wiki/IDEUserGuide IDE User Guide] =
 
-# = [http://code.google.com/p/lx10/wiki/Glossary Glossary] =
+#= [http://code.google.com/p/lx10/wiki/Glossary Glossary] =
 
-# = [http://code.google.com/p/lx10/wiki/Extra_Curicular Extra Curricular] =
+#= [http://code.google.com/p/lx10/wiki/Extra_Curicular Extra Curricular] =
 
-# <font color=red>*= [http://code.google.com/p/lx10/wiki/LX10_Programming_Competition LX10 Programming Competition] =*</font>
+#<font color=red>*= [http://code.google.com/p/lx10/wiki/LX10_Programming_Competition LX10 Programming Competition] =*</font>
