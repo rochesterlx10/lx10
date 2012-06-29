@@ -1,0 +1,74 @@
+#summary Hardware Requirements.
+
+Communications
+HRS1.	The Hardware shall provide a USB 2.0 Interface to allow communication with a PC.
+
+HRS2.	There shall be an I2C Interface Header on the PCB that shall connect to the PIC complying with the I2C protocol.
+
+HRS3.	There should be space for a programming header on the PCB that connects the PIC to a PIC Programmer.
+Display
+HRS4.	The display shall support a minimum update rate of 5Hz.
+
+HRS5.	The display shall support a minimum frame rate of 30Hz.
+
+HRS6.	The display shall not draw more than 500mA.
+
+HRS7.	The display shall be bright enough to be viewed in direct sunlight.
+
+HRS8.	The display shall provide a minimum of 8x8 resolution.
+
+HRS9.	The display shall provide a minimum viewing angle of ± 30 degrees.
+
+
+Manufacture
+HRS10.	The PCB artwork should be sent for manufacture by the 1st of June 2012, unless otherwise agreed in the project plan.
+
+HRS11.	The device shall be RoHS compliant.
+
+HRS12.	The PCB should be assembled from static resistant parts.
+
+HRS13.	The Module PCB design shall require no more than 2 layers FR-4.
+
+HRS14.	The component types chosen shall be compatible with BAE Rochester’s manufacturing capability.
+
+HRS15.	Production shall not require any manual placement of parts other than the battery holders.
+
+HRS16.	The device shall be manufactured from surface mount components except for the battery holder.
+
+HRS17.	No component shall be smaller in size than the 0603(1608 metric) package as specified under the JEDEC specification.
+Test
+HRS18.	Correct assembly shall be verified by flying probe and optical inspection to be outlined in a test strategy document.
+
+HRS19.	Built in test shall be implemented and will be outlined in a test strategy document.
+
+Power
+HRS20.	The PCB shall be battery powered.
+
+HRS21.	The PCB Power consumption shall be such that the battery life is greater than two hours and no device shall reach 41 degrees Celsius at ambient 25 degrees Celsius.
+Control
+HRS22.	Any communication method implemented shall comply with the associated protocol.
+
+HRS23.	The accelerometer shall have an accuracy of at least 10 degrees.
+
+HRS24.	Any memory implemented shall be programmable via the PIC.
+
+Other
+HRS25.	The Hardware shall be developed using Learn First Product Development Techniques.
+
+HRS26.	The Hardware Team should report progress to Simon Abbotson fortnightly via email.
+
+HRS27.	The following documentation shall be produced:
+a.	Schematics and tracking reviews
+b.	Power Analysis
+c.	Safety Analysis
+d.	Design for Manufacture
+e.	Hardware Development Plan
+f.	Design Record
+
+HRS28.	Any memory implemented shall have a minimum capacity of 12Kbytes.
+
+HRS29.	The hardware shall comply with BS EN 60950:1992 standards.
+
+HRS30.	Initial programming of the product shall take less than 30 seconds.
+
+HRS31.	PCB tracking shall follow BAE Systems Rochester’s best practice guidelines.
