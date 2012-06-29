@@ -16,7 +16,7 @@ You will need to use it in the Advanced mode and now you're free to write whatev
 
 == Guides ==
 
- * Your First Program *link Needed*
+ * [PIE_Program_Examples Your First Program]
  * [Pie_Code_functions_and_Examples Pie functions and explanation]
  * [IDEUserGuide IDE User Guide]
  * [PIE_Code_Cheat_Sheet Pie Cheat Sheet]
