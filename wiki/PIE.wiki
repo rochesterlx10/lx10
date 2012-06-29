@@ -12,7 +12,7 @@ First, you will need the [IDEUserGuide IDE] (Integrated Development Environment,
 
 You will need to use it in the Advanced mode and now you're free to write whatever Pie code you want! You can simulate it like it's on the board and when you're ready - program it to your device.
 
-===Pie means YOU can make the LX10 do what YOU want===
+===<font color=C91C62>Pie gives YOU the power to make the LX10 do what YOU want</font>===
 
 == Why would I want to? ==
 
