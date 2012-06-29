@@ -1,231 +1,44 @@
 #summary Pie Code Help Sheet
 
-= Introduction =
-
-*<font color=red>All examples can be downloaded [http://lx10.googlecode.com/files/examples.zip here] </font>*
-
-
-= Language =
+= Pie Functions =
 
 == Comment ==
-{{{
-@ comment goes here
-}}}
+
 == Make Variables == 
-By default, a variable is a number.
-{{{
-make <variable> 
-make <variable> a number
-}}}
+
 == Set Variables == 
-Calculation is covered in the next section.
-{{{
-set <variable> to <number>
-set <variable> to <variable>
-set <variable> to <calculation>
-}}}
+
 == Calculation ==
-{{{
-<variable> + <number>
-<variable> - <number>
-<variable> * <number>
-<variable> multiply <number>
-<variable> / <number>
-<variable> divide <number>
 
-<variable> + <variable>
-<variable> - <variable>
-<variable> * <variable>
-<variable> multiply <variable>
-<variable> / <variable>
-<variable> divide <variable>
-}}}
-
-You will need to put a calculation at the end of a set. For example:
-{{{
-set myVariable to var1 + var2
-}}}
 == Increment/Decrement == 
-{{{
-add <number> to <variable>
-take <number> from <variable>
 
-add <variable> to <variable>
-take <variable> from <variable>
-}}}
 == Random ==
-Sets a random number between 1 and 10.
-{{{
-set <variable> to random number
-}}}
-*Example:* random_dot.pie
+
 == If statement ==
-The `<comparison>` part is covered in the next section. There are many different types of ifs.
-{{{
-if <comparison> then
-    <code>
-end if
-}}}
+
 == Comparison ==
 === Variable Comparison ===
-{{{
-<variable> is equal to <number>
-<variable> is not equal to <number>
-<variable> is greater than <number>
-<variable> is less than <number>
 
-<variable> is equal to <variable>
-<variable> is not equal to <variable>
-<variable> is greater than <variable>
-<variable> is less than <variable>
-}}}
-*Example:* comparison_if_statements.pie
 === Button Comparison ===
-{{{
-a-button is pressed
-a-button is not pressed
-}}}
-Possible buttons are:
 
- # a-button
- # b-button
- # up-button
- # down-button
- # left-button
- # right-button
-*Example:* first_button.pie
 === LED Comparison ===
-Was checks the last time the screen was updated. It's useful for collision detection.
-{{{
-led <variable or number>,<variable or number> is on
-led <variable or number>,<variable or number> was on
-led <variable or number>,<variable or number> is off
-led <variable or number>,<variable or number> was off
-}}}
-*Example:* LED_Comparison.pie
-=== Accelerometer Comparison ===
-In the sim, this is controlled using the num pad. Using the numbers like directions around the number 5. The + and - buttons control how severe the movement is. By default it's not tilted at all.
-{{{
-tilt is forward
-tilt is forward-1
-tilt is forward-2
-tilt is forward-3
-}}}
-Possible directions are:
 
- # forward
- # forwardright
- # right
- # backwardright
- # backward
- # backwardleft
- # left
-
-The number after the hyphen is how far it's tilted with 3 being the most. If there is no number, it will check if it's tilted in that direction at all. 
-
-*Example:* accel_and_functions.pie
 == Loops ==
-The below is optional.
-{{{
-do below forever
-    <code>
-end do
 
-do below <number> times
-    <code>
-end do
-
-do below <variable> times
-    <code>
-end do
-
-do below while <comparison>
-    <code>
-end do
-}}}
-*Example:* strobe_dot.pie
 == Functions ==
-To add and remove a function in the IDE simply press the + and - buttons. The 'main' is called start for now (might change depending how much people like/hate this). In order to call a function simply type:
-{{{
-run <function_name>
 
-e.g.
-run myFunction
-}}}
-There are no arguments and it can use variables from the start function.
-*Example:* accel_and_functions.pie
 == LED Control ==
-This sets the LEDs on and off behind the scenes, but you won't see them change until you type "update display". There is a "set led (x,y) on now" function coming which will stop you needing to do that.
 
-{{{
-set led (<variable or number>, <variable or number>) on
-set led (<variable or number>, <variable or number>) off
-
-set all led on
-set all led off
-}}}
-Set all led off is very useful for clearing the display.
-*Example:* bae_logo_flash.pie
 == Draw ==
-Same with LED control, "update display" will need to be typed after the draw in order for the screen to show the changes. For the numbers and arrows, `<location>` and `<direction>` are covered in the next sections.
-=== Static Patterns ===
-There is minimal customisability with these. They are set numbers/type and positions.
 
-{{{
-draw number zero <location>
-...
-draw number nine <location>
-
-draw smiley
-draw bae
-
-draw <direction> arrow
-}}}
-*Example:* random_draw.pie
-*Example:* counter.pie
-*Example:* spinning_arrow.pie
 === Shapes ===
-These are calculated whilst running so variables or fixed numbers can be used to draw them.
-{{{
-draw line from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
 
-draw rectangle from (<variable or number>,<variable or number>) to (<variable or number>,<variable or number>)
-
-draw circle at (<variable or number>,<variable or number>) size (<variable or number>,<variable or number>)
-
-}}}
-*Example:* turbine pattern.pie
-*Example:* circle_test.pie
 == Location ==
-{{{
-left
-middle
-right
-}}}
-== Direction ==
-{{{
-up
-down
-left
-right
-}}}
-== Update Display ==
-This must be done after any LED control in order to see a change
-{{{
-update display
-}}}
-== Wait ==
-{{{
-wait <number> seconds
-wait <number> mseconds
 
-wait <variable> seconds
-wait <variable> mseconds
-}}}
+== Direction ==
+
+== Update Display ==
+
+== Wait ==
+
 == Program Control ==
-*These are not implemented yet.*
-{{{
-restart program
-reboot
-main menu
-}}}
