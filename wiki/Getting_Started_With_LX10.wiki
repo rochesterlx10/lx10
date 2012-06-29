@@ -44,6 +44,9 @@ We will now make sure you LX10 is ready to go!
 ----
 
 Bare with us through this part, it is quite a lengthy process but if you follow the steps carefully you shouldn't have a problem.<br />
-Your computer will now try to communicate with the LX10, unfortunately without the USB drivers installed it will fail! Here's how to fix it:
+Your computer will now try to communicate with the LX10, unfortunately without the USB drivers installed it will fail!
+
+
+Here's how to fix it:
 <br />
   * 
