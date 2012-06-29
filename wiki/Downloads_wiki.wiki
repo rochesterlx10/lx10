@@ -1,1 +1,6 @@
 =Download Links=
+
+
+[http://lx10.googlecode.com/files/examples.zip Example Code]
+
+[http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip PCB Artwork]
