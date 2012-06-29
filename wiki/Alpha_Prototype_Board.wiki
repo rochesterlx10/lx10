@@ -2,13 +2,15 @@
 
 =Alpha Prototype Board=
 
-With design work, its very good to do rapid prototyping and testing, to get more infromation and prove your concept will work. So thats what we did !
+With design work, its very good to do rapid prototyping and testing to get more information and prove your concept will work. So that's what we did!
 
-Below shows are first ever prototype made up of a breadboard using a pic 16 to test the basic works. It consists of 2 other "modules" connecting into it, a small Accelrometer tile that is pluged into to the top right of the breadboard. this tile is made using veroboard, you can solder components to it directly and cut any copper tracks, so it acts almost like a pcb.
+Below shows our first ever prototype made up of a breadboard using a PIC16 to test the basic operations. It consists of 2 other "modules" connecting to it:
 
-the 3rd tile is the LED driver circuit, is located on the left of the picture. This consists of the big veroboard with 3x3 LED array and a counter. the tile that plugs into that is a current sink, which pulls current through the LEDs when told to do so.
+  # A small Accelerometer tile that is plugged into to the top right of the breadboard. This tile is made using veroboard allowing you to solder components to it directly and cut any copper tracks so it acts almost like a PCB.
 
-we used this to make sure our chosen values of components worked and the idea behind the design worked, figuring out and solving any flaws we had.
+  # The 2nd tile is the LED driver circuit, located on the left of the picture. This consists of the big veroboard with a 3x3 LED array and a counter. The tile that plugs into that is a current sink, which pulls current through the LEDs when told to do so.
+
+We used this to make sure our chosen values of components worked and the idea behind the design worked, figuring out and solving any flaws we had.
 
 
 http://lx10.googlecode.com/files/DSC00699.JPG
