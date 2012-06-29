@@ -13,6 +13,26 @@ Since you are reading this I can safely assume that you have found our website! 
 
 ----
 
+In this guide we will go through the following steps to ensure your device and computer are prepared for you to make some games!
+
+  * Step One - Downloading and Extracting the LX10 IDE and USB Drivers.
+
+In this step we will make sure you get a hold of all our software and the drivers required to run it.
+
+  * Step Two - Preparing Your LX10
+
+In this step we will make sure you LX10 is connected up and powered ready to be programmed.
+
+  * Step Three - Installing the LX10 USB Drivers
+
+Here we will install the USB drivers that you downloaded in Step One so that your PC can talk to the LX10. This section is quite long and scary-looking but if you follow the steps through you'll be surprised at how quick and easy the process is :)
+
+===So lets get started shall we?!===
+
+<br />
+
+----
+
 ===Step One - Downloading and Extracting the LX10 IDE and USB Drivers===
 
 ----
