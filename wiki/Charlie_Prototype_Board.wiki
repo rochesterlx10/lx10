@@ -4,7 +4,7 @@
 
 After thorough testing and evaluation of our previous 2 prototypes we did a final full PCB prototype. At this stage we'd found all the problems with the previous 2 designs and had made a final design for the LX10. Once this design had been checked we wanted to make doubly sure it would work.
 
-We got in touch with spirit circuits who agreed to make us a single PCB for free so we could test out our design, this is the 'Charlie Board' shown in the image below. By making up an LX10 before we ordered all the bits to build 500 we found a couple of problems before we spent lots of money. We were able to fix these and then order the 500 production boards.
+We got in touch with Spirit Circuits who agreed to make us a single PCB for free so that we could test out our design, this is the 'Charlie Board' shown in the image below. By making up an LX10 before we ordered all the bits to build 500 we found a couple of problems before we committed to a final design. We were able to fix these and then order the 500 production boards.
 
 http://lx10.googlecode.com/files/DSC00702.JPG
 
