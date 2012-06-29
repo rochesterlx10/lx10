@@ -1,0 +1,57 @@
+#summary Software Requirements.
+
+SRS1.	The product software shall not require further software to be installed unless:
+a.	The extra software is Microsoft Excel
+b.	The extra software comes as standard with Microsoft Windows
+c.	The extra software required is free of charge and without the need to register.
+
+SRS2.	The software shall provide two levels of complexity to cater for the knowledge of beginner and intermediate users.
+
+SRS3.	Sufficient documentation should be provided to allow experienced users to modify product software.
+
+SRS4.	The software shall be produced as an educational tool suitable for both boys and girls from the age 7+
+
+SRS5.	The software shall allow the users to produce their own static designs to be displayed on the device
+
+SRS6.	The software should allow the users to produce dynamic designs with suitable logic to produce simple games
+
+SRS7.	The software shall allow the users to store and recall at least 10 programs
+
+SRS8.	The software shall communicate with the device using serial communications.  
+
+SRS9.	The software to be stored in the Microcontroller shall be less than the size of ROM 
+
+SRS10.	The software source code shall be available to the users, and will be formatted and commented
+•	C Code should be formatted in line with the GNU Coding standards listed on this webpage http://www.gnu.org/prep/standards/standards.html#Formatting
+
+•	VB Code should be formatted inline with the standards defined in this webpage http://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards
+
+•	Other formatting standards are acceptable once they have been agreed with Richard J. Bennett or Daniel J. Stroud.
+
+SRS11.	The software shall come with a guide that explains what the code does allowing the user to edit and advance the code as required
+
+SRS12.	The software shall allow the user to select the pattern or game displayed on the product using on-board controls
+
+SRS13.	The software team shall produce a Project A3 detailing, project plan, derived requirements and concept design
+
+SRS14.	The project plan shall include a list of deliverables and dates upon which they should be completed this should include
+
+a.	All User PC side software
+b.	All Board side software
+c.	Details of any cables required for operation
+d.	Software user guide
+e.	Any additional software required on the end users computer
+f.	Software ICD
+g.	Software A3 Project Plan
+h.	Software Requirements document including mapping to how requirements have been met.
+i.	Formatted software source code 
+j.	Any other documents required to meet derived requirements
+
+
+SRS15.	The software team shall produce all deliverables by Friday 1st June 2012, unless otherwise identified in the agreed project plan
+
+SRS16.	The software team shall report progress against the agreed plan fortnightly via email to Daniel J. Stroud
+
+SRS17.	The software shall be fully functional when taken offsite.
+
+SRS18.	The software team shall provide a minimum of one screen recording and 4 screen shots of development to the video editing team.
