@@ -16,7 +16,7 @@
       * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
       * [PIE_Program_Examples Pie Program Examples]
       * [Pie_Code_functions_and_Examples]
-        * [PIEFunctionComments]
+        * [Comments]
     * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
