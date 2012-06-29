@@ -11,9 +11,9 @@
       * Software
       * Hardware
   * Design/Manufacture
-    * Alpha Prototype Board
-    * Beta Prototype Board
-    * Charlie Prototype Board
+    * [Alpha_Prototype_Board Alpha Prototype Board]
+    * [Beta_Prototype_Board Beta Prototype Board]
+    * [Charlie_Prototype_Board Charlie Prototype Board]
     * Final Board
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
