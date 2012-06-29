@@ -2,7 +2,7 @@
 
 =LX10 Open Day 2012 Competition=
 
-This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this; *Under 16s* and *16 & Over*. Prizes will be a Certificate of Achievement from BAE Systems as well as a *cash* prize for the winner of each category of *£30* in Argos/M&S/Boots vouchers (winners choose).
+This year BAE Systems will be holding a competition on best program created for the LX10. There will be two categories for this; *Under 16s* and *16 & Over*. Prizes will be a Certificate of Achievement from BAE Systems, a personal tour of our simulator facility as well as a *cash* prize for the winner of each category of *£30* in Argos/M&S/Boots vouchers (winners choose).
 
 == Requirements ==
 
