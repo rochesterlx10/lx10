@@ -6,7 +6,7 @@
 
 ----
 
-Bare with us through this part, it is quite a lengthy process but if you follow the steps carefully you shouldn't have a problem.<br />
+Please bare with us through this step, it looks like quite a lengthy process but if you follow the steps carefully you shouldn't have a problem and you'll be surprised at how quick it actually is.<br />
 Your computer will now try to communicate with the LX10, unfortunately without the USB drivers installed it will fail!<br />
 
 http://lx10.googlecode.com/files/7%20-%20Installing%20Device%20Driver%20Software.png
