@@ -2,14 +2,14 @@
 
 =Alpha Prototype Board=
 
-With design work, its very good to do rapid prototyping and testing to get more information and prove your concept will work. So that's what we did!
+With design work, it's very good to do rapid prototyping and testing to get more information and prove your design concept will work. So that's what we did!
 
-Below is our first ever prototype made up of a breadboard using a PIC16 to test the basic operations. It consists of 2 other "modules" connecting to it:
+Below is our first prototype of the LX10 constructed on breadboard using a PIC16 to test the operation of our selected components. It has 2 other "modules" connecting to it:
 
-  # The little tile in the top right of the board is a USB module we made up on breadboard. The board talks, using a very simple interface, to the PIC and then passes that information to a PC over USB
-  # The 2nd tile is the LED driver circuit, located on the left of the picture. This consists of the big veroboard with a 3x3 LED array and the electronics to drive the LEDs. The little board that sits on top contains a special chip that pulls a set current through the LEDs when told to do so (lighting them up).
+  # The little tile at the top right of the board is a USB module we constructed on breadboard. The board talks, using a very simple interface, to the PIC and then passes that information to a PC over a USB interface.
+  # The 2nd tile is the LED drive circuit, located on the left of the picture. This consists of a piece of veroboard with a 3x3 LED array and the electronics to drive the LEDs. The little board that sits on top contains a drive chip that pulls a set current through the LEDs when instructed to do so (lighting them up).
 
-We used this to make sure our chosen values of components worked and the idea behind the design worked, figuring out and solving any issues that we found.
+We used this prototype to verify that the chosen values for our components worked and that the idea behind the design concept worked as intended, whilst solving any issues that we found in the process.
 
 
 http://lx10.googlecode.com/files/DSC00699.JPG
