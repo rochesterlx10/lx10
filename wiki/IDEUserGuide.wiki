@@ -22,39 +22,36 @@ This interface is where the user decides between using the Simple IDE and the Ad
 The advanced button opens up the Advanced text interface IDE. This has a lot more functionality than the Simple version. This includes; Tabs for functions, Error highlighting, Simulator and you are able to program the LX10 with your program.
 
 
-*Note*: The Simple IDE has no simulator, it directly shows what’s no the IDE on the LX10.
+*Note*: The Simple IDE has no simulator, it directly shows what’s on the IDE on the LX10.
 
 ===Simple IDE===
 
 http://lx10.googlecode.com/files/simple_ide.JPG
 
-http://lx10.googlecode.com/files/open_button.JPG Open button, From here you can open .PIE files and .txt files which you have saved code in, or opening examples. 
+http://lx10.googlecode.com/files/open_button.JPG Open button; from here you can open .pie files and .txt files which you have saved code in, or opening examples. 
 
-http://lx10.googlecode.com/files/save_as_button.JPG Save Button, Allows you to save your program in .pie or .txt format
+http://lx10.googlecode.com/files/save_as_button.JPG Save Button; allows you to save your program in .pie or .txt format
 
-http://lx10.googlecode.com/files/help_button.JPG This takes you to our external website *XXXXX* which has examples, hints & tips and information about the  LX10.
+http://lx10.googlecode.com/files/help_button.JPG Help/Examples Button; this takes you to our external website *XXXXX* which has examples, hints & tips and information about the  LX10.
 
-http://lx10.googlecode.com/files/menu_button.JPG Menu button: essentially a “back button” it will take you back to the previous menu, in this case takes you back to the load up screen where you choose simple or advanced IDE.
+http://lx10.googlecode.com/files/menu_button.JPG Menu button; essentially a “back button” it will take you back to the previous menu. In this case it takes you back to the load up screen where you choose simple or advanced IDE.
 
-http://lx10.googlecode.com/files/stamps_button.JPG Stamps button: This button allows you to save stamps or open stamps. Stamps can be saved as pre-defined light patterns, which you can save and call upon in more advanced programs. 
+http://lx10.googlecode.com/files/stamps_button.JPG Stamps button; This button allows you to save stamps or open stamps. Stamps can be saved as pre-defined light patterns, which you can save and call upon in more advanced programs. 
 
-http://lx10.googlecode.com/files/all_on_button.JPG Turns all LEDs on
+http://lx10.googlecode.com/files/all_on_button.JPG All On button; turns all LEDs on.
 
-http://lx10.googlecode.com/files/all_off_button.JPG Turns all LEDs off
+http://lx10.googlecode.com/files/all_off_button.JPG All Off button; turns all LEDs off.
 
-http://lx10.googlecode.com/files/disconnected.JPG LX10 Status, Will show disconnected when no device is found/ connected, It will light up and show “Connected” when device is successfully connected to PC.
+http://lx10.googlecode.com/files/disconnected.JPG LX10 Status, Will show disconnected when no device is found/connected. It will light up and show “Connected” when the device is successfully connected to PC.
 
-http://lx10.googlecode.com/files/show_on_lx10.JPG This button will light up when an LX10 is connected, When you want the LX10 to display what’s on your screen, Press it and the LX10 will mirror the interface.
-
-
-Whilst using the simple interface you interact with each LED on the board by turning the LED on and off using the interface. A red light means the LED will be lit up, a gray box means LED is off. You can save your patterns using *Stamps* which can be then later called upon in advanced programs.
+http://lx10.googlecode.com/files/show_on_lx10.JPG This button will light up when an LX10 is connected. When you want the LX10 to display what’s on your screen, press it and the LX10 will mirror the interface.
 
 
-The patterns can be saved and later recalled using the buttons.
+Whilst using the simple interface you interact with each LED on the board by turning the LED on and off using the interface. A red light means the LED will be lit up, a gray box means the LED is off. You can save your patterns using *Stamps* which can then be called upon later in advanced programs or opened up again in simple mode.
 
 
 ===Example===
-Below shows an example of “Joe” being written in the Interface. This can then be saved in a *stamp* (menu shown below). This is very useful, As if you want to call the name “Joe” up later in your advanced programs you can do so(very handy for putting your signature / name to a programme)
+Below shows an example of “Joe” being written in the interface. This can then be saved in a *stamp* (menu shown below). This is very useful, as if you want to call the name “Joe” up later in your advanced programs you can do so (very handy for putting your signature/name to a program).
 
 http://lx10.googlecode.com/files/awesome_joe.JPG
 
@@ -70,17 +67,17 @@ http://lx10.googlecode.com/files/advanced_ide.JPG
 
 The image above shows the Advanced IDE interface. This has a few extra buttons and window boxes compared to the simple IDE. These are;
 
-http://lx10.googlecode.com/files/copy_paste_button.jpg Copy and Paste buttons, you can use to copy bits of code and paste else where
+http://lx10.googlecode.com/files/copy_paste_button.jpg Copy and Paste buttons; you can use to copy bits of code and paste elsewhere.
 
-http://lx10.googlecode.com/files/functions_buttons.jpg Functions Button ; Adds new tabs to the window, allowing each function to have its own window.
+http://lx10.googlecode.com/files/functions_buttons.jpg Functions Button; adds new tabs to the window, allowing each function to have its own window.
 
 http://lx10.googlecode.com/files/save_button1.jpg Quick save button to save current project.
 
-http://lx10.googlecode.com/files/variables_box.jpg Variables window box (located right hand side) shows all your active variables that you have programmed in. (If you double click on the variable, it will place that variable name where your cursor is)
+http://lx10.googlecode.com/files/variables_box.jpg Variables window box (located right hand side) shows all your active variables that you have programmed in (if you double click on the variable, it will place that variable name where your cursor is).
 
-http://lx10.googlecode.com/files/simulate_button.jpg LX10 connection, Simulation and programming box. The image of the LX10 shows if the board is connected. "Simulate" will bring up the simulator to test your code on, before you program your LX10 with it. *Note* The LX10 doesn't need to be plugged in to simulate the program. “Program LX10” will allow you to load your program in to 1 of 9 slots on the memory.
+http://lx10.googlecode.com/files/simulate_button.jpg LX10 connection, Simulation and Programming box. The image of the LX10 shows if the board is connected. "Simulate" will bring up the simulator to test your code on, before you program your LX10 with it. *Note* The LX10 doesn't need to be plugged in to simulate the program. “Program LX10” will allow you to load your program in to 1 of 9 slots on the memory.
 
-Below shows you a program in the Advanced IDE, the variables are listed on the right hand side showing you what varaibles you have used and if you click "Simulate", the simulation comes up. The buttons can be replicated by using the equivalent buttons on the keyboard. A,B,X, and the Cursor arrows (up, down, left , right).
+Below shows you a program in the Advanced IDE. The variables are listed on the right hand side showing you what varaibles you have used and if you click "Simulate", the simulation comes up. The buttons can be replicated by using the equivalent buttons on the keyboard. A, B, X and the Cursor arrows (up, down, left and right).
 
 Advanced IDE:
 
@@ -91,18 +88,18 @@ Simulation running:
 
 http://lx10.googlecode.com/files/simulator.jpg
 
-Belows image shows the connected colored in LX10 image to let you know your LX10 is plugged into your PC ok.
+The image below shows the connected colored in LX10 image to let you know your LX10 is plugged into your PC ok.
 http://lx10.googlecode.com/files/IDE_Advanced_Connected_Board.png
 
 
-*Shortcuts* In the advanced IDE you can use F5, to open up the simulator and F9 to program.
+*Shortcuts* In the advanced IDE you can use F5 to open up the simulator and F9 to program.
 
-===Errors when compling===
-When you try to simulate / program your LX10. If there is an error, the following box will come up, showing you why it couldn't compile your code.
+===Errors when compiling===
+When you try to simulate/program your LX10, if there is an error the following box will come up, showing you why it couldn't compile your code.
 
 This box is very useful when trying to debug. If you double click the error, it will take you to the line which it can't compile. It will also suggest to you why it thinks it won't compile.
 
-in this case the letter Y is missing next to "make" which sets the variable Y. Y is used through out the code , so all lines which interact with the variable Y will not compile.#
+in this case the letter Y is missing next to "make" which sets the variable Y. Y is used through out the code, so all lines which interact with the variable Y will not compile.
 
 http://lx10.googlecode.com/files/advanced_ide_error.JPG
 
@@ -111,20 +108,22 @@ In this case, when you double click on the error, it highlights line 2 and the w
 
 http://lx10.googlecode.com/files/advanced_ide_error2.JPG
 
-===functions===
+===Functions===
 
-Functions are very handy, allows you to split your code down into modules  that are very small chunks of a master function, which calls all your other functions in a set order. 
+Functions are very handy as they allow you to split your code down into modules  that are very small chunks of a master function, which calls all your other functions in a set order. 
 
 You can create a new function by clicking on the green "+" button which adds a new tab/sheet to your IDE, and you can name your function what you want. 
 
 When you click the green "+" button to add a function, the following input box comes up to ask for the name of your function
 http://lx10.googlecode.com/files/function_adding.jpg
 
-In this case a function called "fish" was added. it is shown in the tabs next to the master function which is called "start"
+In this case a function called "fish" was added. It is shown in the tabs next to the master function which is called "Start"
 http://lx10.googlecode.com/files/fish_function.jpg
 
 = Programming = 
 
-Once your program is simulating ok, its time to load it up to your LX10 click on "Program LX10" in the bottom right hand corner, then a screen will pop up (shown below) chose a program slot to load you program into.
+Once your program is simulating ok, its time to load it up to your LX10. Clicking on "Program LX10" in the bottom right hand corner brings up a screen (shown below) where you can then select which program slot to load you program into.
 
 http://lx10.googlecode.com/files/IDE_Program_Slot.png
+
+After selecting the slot, click on "Program to Slot" and your program will be loaded to the LX10.
