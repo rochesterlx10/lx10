@@ -19,7 +19,7 @@ Link here
 
 == Games made by others ==
 
-These will be added when we get them
+These will be added when we get them.
 
 
 == PCB Artwork ==
@@ -28,4 +28,4 @@ These will be added when we get them
 
 == Source ==
 
-One zip with all 3 source directories in
+One zip file with all 3 source directories inside.
