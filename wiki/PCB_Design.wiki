@@ -4,9 +4,9 @@
 
 =PCB Design Tool Exports=
 
-The images below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (that current flows through to make connections between devices; aka Signals/Tracks). 
+The images below show what the PCB design of the LX10 looks like. It shows the copper traces and fills (that current flows through to make connections between devices; aka Signals/Tracks). 
 
-Shows Silkscreen Layer; white text which goes on top of the PCB. Shows part reference numbers and information the designer has put on there.
+Shows Silkscreen Layer; white text which goes on top of the PCB. This shows part reference numbers and information the designer has put on there.
 
 Pads are also shown (exposed areas of Gold/Nickel plated copper) to which the components are soldered to.
 
@@ -25,7 +25,7 @@ http://lx10.googlecode.com/files/Topside%20PCB%20Design.jpg
 
 
 
-Bottom side of the board - this side has no components fitted to it or soldered to it. Signal wise it is mostly a 0VL ground fill with a few linking traces.
+Bottom side of the board - this side has no components fitted to it or soldered to it. It mostly consists of 0VL ground fill with a few linking traces.
 
 http://lx10.googlecode.com/files/Bottomside_PCB.jpg
 
@@ -49,7 +49,7 @@ Once installed, right click on the file and open in GC-Prevue.
 
 This will open up the PCB design that was sent to be manufactured. 
 
-The PCB is manufactured in batches of 4, this is called a biscuit. This is done to reduce waste material and make smaller pcbs easier to handle. 
+The PCB is manufactured in batches of 4, this is called a biscuit. This is done to reduce waste material and make smaller PCBs easier to handle. 
 
 == Gerber Files ==
 
