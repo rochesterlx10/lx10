@@ -16,8 +16,12 @@
     * Final Board
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
-  * [Apps_and_Games Apps & Games]
-  * [IDEUserGuide IDE User Guide]
+  * Software
+    * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
+    * [PIE_Code_Examples Pie Code Examples]
+    * [PIE_Program_Examples Pie Program Examples]
+    * [Apps_and_Games Apps & Games]
+  * [IDEUserGuide User Development Guide]
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
   * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***] *</font>
