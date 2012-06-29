@@ -14,13 +14,7 @@
 
 [http://code.google.com/p/lx10/wiki/IF_function IF]
 
-== Comparison ==
-
-=== Variable Comparison ===
-
-=== Button Comparison ===
-
-=== LED Comparison ===
+== Comparisons ==
 
 == Loops ==
 
