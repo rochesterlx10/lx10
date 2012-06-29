@@ -2,9 +2,9 @@
 
 = PIE Functions =
 
-[http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments @ (Comments)]
+[http://code.google.com/p/lx10/wiki/Comments @ (Comments)]
 
-[http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments Make]
+[http://code.google.com/p/lx10/wiki/Make Make]
 
 
 == Make Variables == 
