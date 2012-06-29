@@ -56,7 +56,7 @@
 
  * *Degree:* Something to do with Computers & Electronics
 
- * *Main Roles:* Command Interpreter, telling Rob off for his choice of PIC 
+ * *Main Roles:* Command Interpreter, Simulator, telling Rob off for his choice of PIC 
 
  * *Random Fact:* N-Dubz wishes he had T-Dubz's Mad Skills
 
