@@ -6,9 +6,9 @@
 
 The images below show what the PCB design of the LX10 looks like. It shows the copper traces and fills (that current flows through to make connections between devices; aka Signals/Tracks). 
 
-Shows Silkscreen Layer; white text which goes on top of the PCB. This shows part reference numbers and information the designer has put on there.
+The Silkscreen Layer is the white text that is printed on top of the PCB. It shows the part reference numbers and information that the designer has put on there.
 
-Pads are also shown (exposed areas of Gold/Nickel plated copper) to which the components are soldered to.
+The pads are also shown (exposed areas of Gold/Nickel plated copper) and are what the components are soldered to.
 
 ===Images=== 
 Light Cyan - Pads of copper where components will be placed
