@@ -1,0 +1,40 @@
+#summary PIE Function : Maths Functions
+
+= PIE Function : Maths Functions=
+
+LX10 is capable of doing four types of maths functions:
+  * add
+  * subtract
+  * multiply
+  * divide
+
+N.B. PIE language deals with whole numbers only. This means that if the result of a divide requires a decimal place the decimal numbers will simply be cut off. Decimal numbers *do not round up*.
+
+
+== Example ==
+
+
+<font color = "blue">make</font> x 
+
+<font color = "blue">set</font> x <font color = "blue">to</font> 1
+
+=== add ===
+
+<font color = "brown">add</font> 9 <font color = "blue">to</font> x <br>
+<font color = "green">@ or</font> <br>
+<font color = "blue">set</font> x <font color = "blue">to</font> bob + 9
+
+=== subtract ===
+
+<font color = "brown">take</font> 9 <font color = "blue">from</font> x <br>
+<font color = "green">@ or</font> <br>
+<font color = "blue">set</font> x <font color = "blue">to</font> bob - 9
+
+
+=== divide ===
+
+<font color = "blue">set</font> x <font color = "blue">to</font> bob / 9
+
+=== multiply ===
+
+<font color = "blue">set</font> x <font color = "blue">to</font> bob `*` 9
