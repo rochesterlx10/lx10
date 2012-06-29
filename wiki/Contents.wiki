@@ -18,7 +18,7 @@
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
   * Software
-    * Pie Language
+    * [PIE Pie Language]
       * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
       * [PIE_Program_Examples Pie Program Examples]
     * [Open_Day_games Open Day Games]
