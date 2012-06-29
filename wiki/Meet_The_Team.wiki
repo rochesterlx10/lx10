@@ -54,11 +54,11 @@
 
  * *Job:* Software Engineer
 
- * *Degree:* 
+ * *Degree:* Something to do with Computers & Electronics
 
- * *Main Roles:* 
+ * *Main Roles:* Command Interpreter, telling Rob off for his choice of PIC 
 
- * *Random Fact:* 
+ * *Random Fact:* N*Dubs wishes he had T*Dubs's Mad Skills
 
 
 ==Hardware==
@@ -145,8 +145,8 @@
 
  * *Job:* Mechanical Engineer
 
- * *Degree:* 
+ * *Degree:* Mechanical Engineering
 
- * *Main Roles:* 
+ * *Main Roles:* D-Pad design, assembley & test of the LX10
 
- * *Random Fact:* 
+ * *Random Fact:* Play Lacrosse
