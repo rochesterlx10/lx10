@@ -9,7 +9,7 @@ Since you are reading this I can safely assume that you have found our website! 
 
 *Note: The LX10 IDE will only run on a windows based computer as it uses the programming language Visual Basic and Microsoft's .NET v4.0 framework.*
 <br />
-*Note: You may need to install Microsoft's .NET framework v4.0 which can be found here [http://www.microsoft.com/en-us/download/details.aspx?id=17113 Microsoft .NET Framework 4 Client Profile]
+*Note: You may need to install Microsoft's .NET framework v4.0 which can be found here [http://www.microsoft.com/en-us/download/details.aspx?id=17113 Microsoft .NET Framework 4 Client Profile]<br />
 
 ----
 
