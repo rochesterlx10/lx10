@@ -7,7 +7,6 @@ With design work, its very good to do rapid prototyping and testing to get more 
 Below shows our first ever prototype made up of a breadboard using a PIC16 to test the basic operations. It consists of 2 other "modules" connecting to it:
 
   # A small Accelerometer tile that is plugged into to the top right of the breadboard. This tile is made using veroboard allowing you to solder components to it directly and cut any copper tracks so it acts almost like a PCB.
-
   # The 2nd tile is the LED driver circuit, located on the left of the picture. This consists of the big veroboard with a 3x3 LED array and a counter. The tile that plugs into that is a current sink, which pulls current through the LEDs when told to do so.
 
 We used this to make sure our chosen values of components worked and the idea behind the design worked, figuring out and solving any flaws we had.
