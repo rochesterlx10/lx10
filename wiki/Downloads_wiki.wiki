@@ -1,6 +1,30 @@
-=Download Links=
+#summary All the useful downloads related to the LX10 and Pie programming language.
+#labels downloads,drivers,ide,examples,pcb,artwork
+
+= Download =
+
+== IDE ==
+
+Link here
+
+*If you plan to program your LX10 you need the USB drivers. See below.*
+
+== USB Drivers ==
 
 
-[http://lx10.googlecode.com/files/examples.zip Example Code]
+== Example Pie Code ==
+
+Link here
+
+== Games made by others ==
+
+These will be added when we get them
+
+
+== PCB Artwork ==
 
 [http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip PCB Artwork]
+
+== Source ==
+
+One zip with all 3 source directories in
