@@ -1,6 +1,6 @@
 #summary This is the final section of the getting started guide where we actually get to the programming!
 
-=Step 4 - Opening the LX10 IDE and checking your LX10 is Connected!=
+===Step 4 - Opening the LX10 IDE and checking your LX10 is Connected!===
 
 
 
