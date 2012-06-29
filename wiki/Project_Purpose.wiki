@@ -2,4 +2,4 @@
 
 The BAE Systems Rochester Open Day 2012 is a day for family and friends of BAE Systems employees to see the work that is done on the Rochester site. The LX10 is an electronic giveaway product that has been developed by Graduates and IPs to support this effort, to demonstrate the product development processes undertaken to deliver a hardware product. The key areas in developing the LX10 can be seen by navigating through the wiki.
 
-Here you will also find other useful links such as an area for apps and games that you can download to your LX10. Or if you're feeling creative a guide is available to help you develop your own app/game. And if you are interested in entering our competition then check our competions page!
+Here you will also find other useful links such as an area for apps and games that you can download to your LX10. Or if you're feeling creative a guide is available to help you develop your own app/game. And if you are interested in entering our competition then check out our [LX10_Programming_Competition competions] page!
