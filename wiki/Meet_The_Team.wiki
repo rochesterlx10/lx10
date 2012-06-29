@@ -41,13 +41,13 @@
 
 *Martyn*
 
- * *Job:* Software Engineer
+ * *Job:* Graduate Research Scientist on placement from the BAE Advanced Technology Centre
 
- * *Degree:* 
+ * *Degree:* Physics Masters (MPhys)
 
- * *Main Roles:* 
+ * *Main Roles:* Software that runs on the PIC32 itself and integrating the interpreter into that software. 
 
- * *Random Fact:* 
+ * *Random Fact:* I have possibly the worst Battlefield 3 record known to man – whatever team I’m on loses over 66% of the time!
 
 
 *Terry*
