@@ -8,6 +8,6 @@
 We will now make sure your LX10 is ready to go!
 <br />
   * Make sure the power switch on your LX10 is set to the "OFF" position.
-  * Insert the battery into your LX10 and make sure it won't fall out.
+  * Insert the battery securely into your LX10 with the correct polarity.
   * Plug the USB cable into your LX10 and into a free USB port on your computer.
   * Now you can turn your LX10 on!<br />
