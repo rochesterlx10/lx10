@@ -19,5 +19,5 @@ You will need to use it in the Advanced mode and now you're free to write whatev
  * Your First Program *link Needed*
  * [Pie_Code_functions_and_Examples Pie functions and explanation]
  * [IDEUserGuide IDE User Guide]
- * Pie Cheat Sheet *link Needed*
+ * [PIE_Code_Cheat_Sheet Pie Cheat Sheet]
  * Getting started programming to LX10 *link Needed*
