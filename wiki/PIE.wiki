@@ -1,6 +1,6 @@
 #summary What Pie is and all related information about it.
 #labels pie,ide,programming
-= The Pie Language =
+= The PIE Language : Programming Is Easy =
 
 == What is it? ==
 
