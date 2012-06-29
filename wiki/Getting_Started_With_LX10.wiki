@@ -53,4 +53,4 @@ http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%203.PNG
 
 Congratulations for getting this far! Now proceed to step two.<br />
 
-<font size="5">[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Step 2]</font>
+<font size="5">[http://code.google.com/p/lx10/wiki/Getting_Started_With_the_LX10_2 Step 2]</font>
