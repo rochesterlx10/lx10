@@ -13,8 +13,8 @@
       * [PCB_Design PCB Design]
   * Software
     * [PIE Pie Language]
-      * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
-      * [PIE_Program_Examples Pie Program Examples]
+      * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
+      * [PIE_Program_Examples PIE Program Examples]
       * [Pie_Code_functions_and_Examples PIE Code Examples]
         * [Comments]
         * [Make]
