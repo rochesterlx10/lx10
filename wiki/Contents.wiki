@@ -20,6 +20,7 @@
         * [Make]
         * [Set]
         * [Maths]
+        * [Random]
     * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
