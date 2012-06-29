@@ -17,6 +17,7 @@
       * [PIE_Program_Examples Pie Program Examples]
       * [Pie_Code_functions_and_Examples]
         * [Comments]
+        * [Make]
     * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
