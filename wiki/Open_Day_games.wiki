@@ -5,20 +5,20 @@ Each game is programmed into a slot, selectable from the menu when you turn the 
 
 The main menu is navigated with the left and right dpad buttons and you press A to select that game.
 
-= Slot 1: Snaking Dot =
+== Slot 1: Snaking Dot ==
 
-= Slot 2: Random Dot =
+== Slot 2: Random Dot ==
 
-= Slot 3: Spinning Arrow =
+== Slot 3: Spinning Arrow ==
 
-= Slot 4: Random Draw =
+== Slot 4: Random Draw ==
 
-= Slot 5: Counter =
+== Slot 5: Counter ==
 
-= Slot 6: Turbine =
+== Slot 6: Turbine ==
 
-= Slot 7: Bricks =
+== Slot 7: Bricks ==
 
-= Slot 8: Light Hero =
+== Slot 8: Light Hero ==
 
-= Slot 9: Squash =
+== Slot 9: Squash ==
