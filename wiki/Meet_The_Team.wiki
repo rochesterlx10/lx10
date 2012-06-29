@@ -6,11 +6,11 @@
 
 *IB*
 
-  * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on programmable logic devices (PLDs).
+  * *Job:* Project manager for LX10 Open day. Hardware engineer Working on programmable logic devices (PLDs).
 
   * *Degree:* Electrical & Electronic Engineering (BEng) Aston University
 
-  * *Random Fact:* Can run 100M in under 11s
+  * *Random Fact:* Has run 100M in under 11s
 
 
 ==Systems==
