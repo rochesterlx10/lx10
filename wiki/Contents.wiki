@@ -18,6 +18,7 @@
       * [Pie_Code_functions_and_Examples]
         * [Comments]
         * [Make]
+        * [Set]
     * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
