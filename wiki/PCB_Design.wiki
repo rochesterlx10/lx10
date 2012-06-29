@@ -39,7 +39,7 @@ http://lx10.googlecode.com/files/Silkscreen_Pads.jpg
 
 =Using CAM tools to interact with Gerber files=
 
-This allows you to look at the raw data file which was sent to Invotech [http://www.invotecgroup.com/html Invotech] to produce the board.
+This allows you to look at the raw data file which was sent to [http://www.invotecgroup.com/html Invotech] to produce the board.
 
 Gerber files can be found [http://lx10.googlecode.com/files/LX10.gwk here].
 
