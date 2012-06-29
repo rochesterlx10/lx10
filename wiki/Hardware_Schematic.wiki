@@ -11,31 +11,30 @@ Full PDF of the schematic can be found [http://lx10.googlecode.com/files/ODC_LX1
 
 == Schematic ==
 
-Top Level shows how each functional block interconnects with each other.
-It also shows how the World connects to the PCB; in this case the World is the computer, which is plugged in to the USB socket (PL1). We also have the programming edge connector, represented by test points named EDGE_XXX
+The Top Level shows how each functional block interconnects with the others.
+It also shows how the World connects to the PCB; in this case the World is the computer, which is plugged in to the USB socket (PL1). We also have the programming edge connector, represented by test points named EDGE_XXX.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-001.jpg
 
-Sheet 1 - This shows how the accelerometer function block is wired up
+Sheet 1 - This shows how the accelerometer functional block is wired up
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-002.jpg
 
-Sheet 2 - LED Array Functional block - Shows how the LED array connects to each other. Each row of LEDs (left to right) has their anodes connected to each other. Each column (top to bottom) has their cathodes connected to each other.
+Sheet 2 - LED Array Functional block - Shows how the LED array connects together. The anode of each LED in a row connects to the others in that row. The cathode of each LED in a row connects to the others in that column.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-003.jpg
 
-Sheet 3 - LED Driver circuit (how to turn on and select LEDs). 
+Sheet 3 - LED Drive circuit - this controls the the switching on and off of the LEDs. 
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-004.jpg
 
 Sheet 4 - Power functional block; this block shows how all the power is generated. This is done using a DC/DC Converter to take 9V in and convert to 3V3.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
 
-Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches, non volatile memory (Flash) and Touch Pads (for buttons A,B,X).
+Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to the switches, non volatile memory (Flash) and Touch Pads (for buttons A,B,X).
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
 
-== Data Sheets ==
+== Datasheets ==
 
-Data sheets hold all technical data and parameters of components. Each component is normally supplied with its own datasheet, which is custom to each part. These are used by engineers to choose the correct part for the right job. 
+Datasheets hold all of the technical data and parameters for the components used. Each component is normally supplied with its own datasheet, which is custom to each part. These are used by engineers to choose the correct part for the right job. 
 
-Click [http://lx10.googlecode.com/files/Datasheets%20-%20Active.zip here] for a set of most of the data sheets used in this design.
-
+Click [http://lx10.googlecode.com/files/Datasheets%20-%20Active.zip here] to see the datasheets for some of the components used in this design.
 
 
 
