@@ -1,6 +1,6 @@
 #summary PIE Functions Help Sheet
 
-= Pie Functions =
+= PIE Functions =
 
 <a href ="http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments" >== @ (Comments)==</a> <br>
 
