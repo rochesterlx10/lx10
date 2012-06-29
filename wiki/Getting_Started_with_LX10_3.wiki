@@ -88,8 +88,8 @@ http://lx10.googlecode.com/files/7%20-%2010%20LX10%20%28COM3%29%20Successful.png
 
 ----
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_2 Click here to return to Step 2]==
 
 ----
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10_2 Click here to return to Step 2]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
