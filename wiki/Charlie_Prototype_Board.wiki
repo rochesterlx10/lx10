@@ -1,6 +1,6 @@
 #summary Charlie Board
 
-=PCB Prototype AKA as Charlie=
+=PCB Prototype AKA Charlie=
 
 After thorough testing and evaluation of our previous 2 prototypes we did a final full PCB prototype. This was to check that all circuitry would work properly with no thermal heat spots, no high density of current in places and to make sure communication between the devices was working fully.
 
