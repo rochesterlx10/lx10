@@ -90,7 +90,7 @@ http://lx10.googlecode.com/files/7%20-%2010%20LX10%20%28COM3%29%20Successful.png
 
 ==Now you can open up the "LX10_IDE.exe" which is in "C:\BAE Systems LX10 IDE\" (or on your desktop if you created a desktop shortcut) and get started!!==
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_4 Click here to go to the last step!]
+==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_4 Click here to go to the last step!]==
 
 ----
 
