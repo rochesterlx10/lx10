@@ -1,14 +1,25 @@
 #summary All the useful downloads related to the LX10 and Pie programming language.
 #labels downloads,drivers,ide,examples
 
-= Introduction =
+= Download =
 
-Add your content here.
+== IDE ==
+
+Link here
+
+*If you plan to program your LX10 you need the USB drivers. See below.*
+
+== USB Drivers ==
 
 
-= Details =
+== Example Pie Code ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Link here
+
+== Games made by others ==
+
+These will be added when we get them
+
+== Source ==
+
+One zip with all 3 source directories in
