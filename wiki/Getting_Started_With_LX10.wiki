@@ -29,3 +29,21 @@ Once you have downloaded both these ".zip" files you will need to open them up a
 ===Step Two - Preparing your LX10===
 
 ----
+
+We will now make sure you LX10 is ready to go!
+<br />
+  * Make sure the power switch on your LX10 is set to the "OFF" position
+  * Insert the battery into your LX10 and make sure it won't fall out
+  * Plug the USB cable into your LX10 and into a free USB port on your computer
+  * Now you can turn your LX10 on!<br />
+
+----
+
+===Step Three - Installing the USB Drivers===
+
+----
+
+Bare with us through this part, it is quite a lengthy process but if you follow the steps carefully you shouldn't have a problem.<br />
+Your computer will now try to communicate with the LX10, unfortunately without the USB drivers installed it will fail! Here's how to fix it:
+<br />
+  * 
