@@ -1,0 +1,23 @@
+#summary What Pie is and all related information about it.
+= The Pie Language =
+
+== What is it? ==
+
+Pie is a programming language made especially for your LX10. It is designed to be simple and powerful and to help people who new to programming to learn the basics. That's where we got the name, Programming Is easy, it's as easy as pie.
+
+== Writing Pie code ==
+
+First, you will need the IDE (Integrated Development Environment, but ignore that - lets just call it the IDE) whcih can be found on the [Downloads] page. 
+
+You will need to use it in the Advanced mode and now you're free to write whatever Pie code you want! You can simulate it like it's on the board and when you're ready - program it to your device.
+
+===Pie means YOU can make the LX10 do what YOU want===
+
+== Guides ==
+
+***Your First Program***
+***Pie functions and explanation***
+***Pie Cheat Sheet***
+
+***Getting started programming to LX10***
+
