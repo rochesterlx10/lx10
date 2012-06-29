@@ -108,7 +108,7 @@ http://lx10.googlecode.com/files/7%20-%208%20Update%20Driver%20Software%20-%20Wa
 
 ----
 
-  * This sort of message is usually a cause for concern and if you see it when installing other devices be sure to check that you trust the source of the drivers! If you trust us, click on "Install this driver software anyway.png". You have now successfully installed the USB drivers for your LX10.<br />
+  * This sort of message is usually a cause for concern and if you see it when installing other devices be sure to check that you trust the source of the drivers! If you trust us, click on "Install this driver software anyway". You have now successfully installed the USB drivers for your LX10.<br />
 
 http://lx10.googlecode.com/files/7%20-%209%20Update%20Driver%20Software%20-%20Success.png
 
@@ -121,3 +121,6 @@ http://lx10.googlecode.com/files/7%20-%2010%20LX10%20%28COM3%29%20Successful.png
 ----
 
   * Do not worry if your device has a different COM port number, e.g. those brackets may say (COM1). This is just the address that your computer has assigned to the LX10 and can be different for each computer. You can now browse to your LX10 IDE installation folder and run "LX10_IDE.exe" to begin programming!<br /></font>
+
+
+
