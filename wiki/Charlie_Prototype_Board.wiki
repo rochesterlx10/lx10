@@ -1,3 +1,12 @@
 #summary Charlie Board
 
+=PCB Prototype AKA as Charlie=
+
+After thougher testing and evaluation of our previos 2 prototypes we did a final fully PCB prototype. This is to check all circuitary would work propperly, no thermal heat spots, no high densisty of current in places and to make sure communication between the devices was working fully.
+
+Below shows a very basic PCB that is just FR4 and Copper with no solder mask of silkscreen. We had this produced by Spirit Circuits using there "go naked" service more info can be found [http://www.spiritcircuits.co.uk/services/go-naked Here]
+
+
+
+
 http://lx10.googlecode.com/files/DSC00702.JPG
