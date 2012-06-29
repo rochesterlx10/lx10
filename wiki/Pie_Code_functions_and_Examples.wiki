@@ -1,6 +1,6 @@
 #summary PIE Functions Help Sheet
 
-= PIE Functions =
+= PIE Programming Language Functions =
 
 [http://code.google.com/p/lx10/wiki/Comments @ (Comments)]
 
