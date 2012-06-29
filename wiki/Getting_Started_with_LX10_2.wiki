@@ -13,4 +13,6 @@ We will now make sure your LX10 is ready to go!
 
 ----
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here 
+to return to Step 1]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10_3 Click here to proceed to Step 3]==
