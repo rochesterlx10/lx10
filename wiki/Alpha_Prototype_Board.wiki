@@ -1,0 +1,3 @@
+#summary Alpha Board
+
+http://lx10.googlecode.com/files/Alpha_Prototype_Board.JPG
