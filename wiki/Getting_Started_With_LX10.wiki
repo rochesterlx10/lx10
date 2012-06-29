@@ -23,6 +23,7 @@ Click on the links below to download the LX10 IDE and USB Drivers:<br />
 Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them very soon! If you are unsure how to extract the files, or where to extract them to then just follow the instructions below.<br />
 
 ----
+----
 
   * Go to the folder containing your downloaded files and right-click on "BAE Systems LX10 IDE.zip". Choose "Extract All...".<br />
 
