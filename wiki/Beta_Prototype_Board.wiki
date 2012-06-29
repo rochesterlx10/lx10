@@ -4,8 +4,8 @@
 
 After the first prototype was made, we re-designed the parts that we weren't happy about and created our beta prototype. This consisted of a PIC32, LED matrix/drive tile and accellerometer tile. 
 
-# The LED tile has a 10x10 matrix (100 LEDs) along with the row and collum drive chips.
-# The accellerometer is the little tile at the bottom left that has the sticker on it. The accelerometer measures gravity in 3 axis, this allows you to work out in what direction the board is tilted.
+The LED tile has a 10x10 matrix (100 LEDs) along with the row and collum drive chips.
+The accellerometer is the little tile at the bottom left that has the sticker on it. The accelerometer measures gravity in 3 axis, this allows you to work out in what direction the board is tilted.
 
 This board doesn't have a USB tile like the Alpha prototype, this is becasue the PIC32 we used has inbuilt usb allowing it to talk directly to a PC
 
