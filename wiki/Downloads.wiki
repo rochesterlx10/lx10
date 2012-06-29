@@ -11,6 +11,7 @@ Link here
 
 == USB Drivers ==
 
+[http://lx10.googlecode.com/files/LX10%20USB%20Drivers.zip USB Drivers] Please follow the guide here on how to install.
 
 == Example Pie Code ==
 
