@@ -10,3 +10,7 @@ We will now make sure your LX10 is ready to go!
   * Insert the battery securely into your LX10 with the correct polarity.
   * Plug the USB cable into your LX10 and into a free USB port on your computer.
   * Now you can turn your LX10 on!<br />
+
+----
+
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
