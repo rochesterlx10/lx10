@@ -16,7 +16,7 @@
 
 [http://code.google.com/p/lx10/wiki/Comparisons Comparisons]
 
-== Loops ==
+[http://code.google.com/p/lx10/wiki/Loops Loops]
 
 == Functions ==
 
