@@ -1,0 +1,37 @@
+#summary PIE Function : IF Function
+
+= PIE Function : IF Function=
+
+IF conditional functions are an important part of many programs. They allow you to change which parts of your program are run depending on specified conditions.
+
+IF functions are split into two parts. The initial IF command and an END IF. All the code between the initial IF and the END IF will only be run if the inital IF command condition is true. When the IF condition returns false the program will jump from the initial IF straight to END IF, skipping all the code inbetween.
+
+== Conditions ==
+  * Equal to
+  * Not Equal to
+  * Greater than
+  * Less than
+  * LED is on/off
+  * LED was on/off
+  * Button <button name> is/not pressed
+
+For more information on each of the conitions go to the [http://code.google.com/p/lx10/wiki/Conditions conditions page].
+
+== Example ==
+
+
+<font color = "blue">make</font> x 
+
+<font color = "blue">set</font> x <font color = "blue">to</font> 4
+
+
+
+
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font>
+
+<font color = "blue">set</font> x <font color = "blue">to</font> 9
+
+
+<font color = "blue">end if</font>
+
+After this program has finished running x will be set to 4. This is because the IF command tested if x was equal to 3. The result was false because x was actually 4. Because of this '<font color = "blue">set</font> x <font color = "blue">to</font> 9' was not run and x was not changed to 9.
