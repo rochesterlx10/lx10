@@ -12,6 +12,7 @@
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
   * Software
+    * [Getting_Started_With_LX10 Getting Started With LX10]
     * [PIE Pie Language]
       * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
       * [PIE_Program_Examples Pie Program Examples]
