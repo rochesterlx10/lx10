@@ -10,13 +10,6 @@ There are four different types of conditional functions:
   * LED is / LED was
   * Button is / Button is not
 
-== Equal to / not Equal to ==
-
-Used to test if a variable is equal to or not equal to another variable or number.
-
-=== Example ===
-
-<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font>
 
 == Equal to / not Equal to ==
 
@@ -33,34 +26,58 @@ Used to test if a variable is equal to or not equal to another variable or numbe
 <font color = "blue">end if</font>
 
 
-== Conditions ==
+== Greater than / Less than ==
 
-== Conditions ==
-  * Equal to
-  * Not Equal to
-  * Greater than
-  * Less than
-  * LED is on/off
-  * LED was on/off
-  * Button <button name> is/not pressed
+Used to test if a variable is greater than or less than a variable or number.
 
-For more information on each of the conitions go to the [http://code.google.com/p/lx10/wiki/Conditions conditions page].
+=== Example ===
 
-== Example ==
-
-
-<font color = "blue">make</font> x 
-
-<font color = "blue">set</font> x <font color = "blue">to</font> 4
-
-
-
-
-<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font>
-
-<font color = "blue">set</font> x <font color = "blue">to</font> 9
-
-
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">greater than </font> 3 <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
 
-After this program has finished running x will be set to 4. This is because the IF command tested if x was equal to 3. The result was false because x was actually 4. Because of this '<font color = "blue">set</font> x <font color = "blue">to</font> 9' was not run and x was not changed to 9.
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange"> less than </font> 3 <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
+
+
+== LED is / LED was ==
+
+Used to test the current state of LED or the previous state of an LED. The possible states of an LED are ON and OFF.
+
+LX10 remembers the state of an LED before the most recent <font color = "blue">update display</font> was called. This allows you to get an LEDs previous state.
+
+=== Example ===
+
+<font color = "blue">if</font> <font color = "red">LED</font> 3,7 <font color = "brown">is</font> <font color = "purple">on</font> <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
+
+<font color = "blue">if</font> <font color = "red">LED</font> 3,7 <font color = "brown">was</font> <font color = "purple">off</font> <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
+
+
+== Button is pressed / Button is not pressed ==
+
+Used to test the state of a specific button. The possible states of a button are pressed and not pressed.
+
+Buttons can be specified by using one of the following keywords:
+  * right-button
+  * left-button
+  * up-button
+  * down-button
+  * a-button
+  * b-button
+ 
+The x button is reserved for the main menu and brightness control.
+
+=== Example ===
+
+<font color = "blue">if</font> <font color = "purple">a-button</font>  <font color = "brown">is</font> <font color = "purple">pressed</font> <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
+
+<font color = "blue">if</font> <font color = "purple">right-button</font>  <font color = "brown">is</font> not <font color = "purple">pressed</font> <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
