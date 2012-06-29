@@ -2,7 +2,7 @@
 
 = PIE Function : Comparisons=
 
-Comparisons are used by [http://code.google.com/p/lx10/wiki/IF_condition IF] and [http://code.google.com/p/lx10/wiki/While WHILE] conditional functions.
+Comparisons are used by [http://code.google.com/p/lx10/wiki/IF_function IF] and [http://code.google.com/p/lx10/wiki/While WHILE] conditional functions.
 
 There are four different types of conditional functions:
   * Equal to / not Equal to
