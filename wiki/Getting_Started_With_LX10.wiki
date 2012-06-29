@@ -27,6 +27,10 @@ In this step we will make sure you LX10 is connected up and powered ready to be 
 
 Here we will install the USB drivers that you downloaded in Step One so that your PC can talk to the LX10. This section is quite long and scary-looking but if you follow the steps through you'll be surprised at how quick and easy the process is :)
 
+  * Step Four - Opening the LX10 IDE and checking your LX10 is Connected!
+
+Here we tell you how to open up the LX10 IDE and how to check whether you have successfully installed the USB drivers so that your PC can talk to your LX10. This is the part where you can start programming!
+
 ===So lets get started shall we?!===
 
 <br />
