@@ -2,12 +2,7 @@
 
 = PIE Functions =
 
-<a href ="http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments" >
-== @ (Comments)==</a> <br>
-
-[http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments == @ (Comments)==]
-
-[http://www.google.com Google == @ (Comments)==]
+[http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments @ (Comments)]
 
 == Make Variables == 
 
