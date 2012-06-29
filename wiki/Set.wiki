@@ -2,7 +2,7 @@
 
 = PIE Function : Set=
 
-Set is the command to assign a value to a variable. You can set a variabel to be a constant number (e.g. 4) or another variable
+Set is the command to assign a value to a variable. You can set a variable to be a constant number (e.g. 4) or another variable.
 
 == Example ==
 
