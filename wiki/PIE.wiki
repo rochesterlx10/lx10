@@ -6,7 +6,7 @@
 
 Pie is a programming language made especially for your LX10. It is designed to be simple and powerful and to help people who are new to programming to learn the basics. That's where we got the name, Programming Is Easy, it's as easy as PIE.
 
-== Writing Pie code ==
+== Writing PIE code ==
 
 First, you will need the [IDEUserGuide IDE] (Integrated Development Environment, but ignore that - lets just call it the IDE) which can be found on the [Downloads] page. 
 
