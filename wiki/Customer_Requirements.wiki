@@ -1,0 +1,69 @@
+#summary Customer Requirements
+
+Customer Requirements
+CR1.	The product shall be targeted at users aged 7 +.
+
+CR2.	The cost to the business of producing 500 units shall be less than £4,500, unless agreed with Richard Cross.
+
+CR3.	The product shall be fully functional when taken offsite
+
+CR4.	The product should comply with CE standard XXBS EN 60950:1992 standards (Safety of Information technology Equiptment 
+
+CR5.	The product shall be battery powered.
+
+CR6.	The product shall provide an environment to allow the user to create software for it
+
+CR7.	The product shall not require anything to be bought in order for it to be fully functional 
+
+CR8.	The product shall be ready for the Open Day on the 30th June 2012
+
+CR9.	A video or other media shall be produced detailing the development and production of the product, showcasing Engineering at BAE Systems Rochester.
+
+CR10.	The user shall be able to expand the functionality of the device
+
+CR11.	The software shall allow the users to store and recall at least 10 programs
+
+CR12.	The software source code shall be available to the users, and will be formatted and commented
+
+•	C Code should be formatted in line with the GNU Coding standards listed on this webpage http://www.gnu.org/prep/standards/standards.html#Formatting
+
+•	VB Code should be formatted inline with the standards defined in this webpage http://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards
+
+•	Other formatting standards are acceptable once they have been agreed with relevant Functional Manager.
+
+CR13.	During operation the product shall allow the user to:
+a.	Turn the product on and off
+b.	Select program
+
+CR14.	The product shall be developed using Learn First Product Development Techniques
+
+CR15.	The Team shall report progress against the agreed plan fortnightly
+
+CR16.	The software team shall produce all deliverables by Friday 1st June 2012, unless otherwise identified in the agreed project plan.
+
+CR17.	The following documentation shall be produced:
+
+a.	All User PC side software 
+b.	All Board side software
+c.	Details of any cables required for operation
+d.	Software user guide
+e.	Any additional software required on the end users computer
+f.	Software ICD
+g.	Software A3 Project Plan
+h.	Software Requirements document including mapping to how requirements have been met.
+i.	Formatted software source code 
+j.	Operator Instructions and Limitations Manual
+k.	Safety Certificate
+
+Customer Derived Requirements
+CDR1.	The product shall appeal to both boys and girls
+
+CDR2.	The product should be entertaining
+
+CDR3.	The product should be produced using static resistant parts as much as possible
+
+CDR4.	The product should engage multiple senses
+
+CDR5.	The product should have a battery life of at least 2  hours (normal usage)
+
+CDR6.	The product shall have no sharp edges
