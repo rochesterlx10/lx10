@@ -22,6 +22,7 @@
         * [Maths]
         * [Random]
         * [IF_function IF Function]
+        * [Comparisons]
     * [Open_Day_games Open Day Games]
   * [Getting_Started_With_LX10 Getting Started With LX10]
   * [IDEUserGuide IDE User Guide]
