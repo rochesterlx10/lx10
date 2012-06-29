@@ -16,7 +16,9 @@ We suggest you try clicking the "All On" button followed by the "Show on LX10" b
 
 =We shall now leave you to play around for yourself!=
 
-If you want some instructions on how to use the LX10 IDE then head over to: [http://code.google.com/p/lx10/wiki/IDEUserGuide The LX10 IDE User Guide]
+For instructions on how to use the LX10 IDE head over to:
+
+==[http://code.google.com/p/lx10/wiki/IDEUserGuide The LX10 IDE User Guide]==
 
 ----
 
