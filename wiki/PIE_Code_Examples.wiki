@@ -1,3 +1,0 @@
-#summary Detailed Overview of PIE Programming Commands
-
-= Introduction =
