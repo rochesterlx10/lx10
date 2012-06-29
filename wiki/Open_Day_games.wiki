@@ -1,9 +1,12 @@
 #summary This page explains the games and programs which you should have installed at the open day.
+#labels games,openday
 
 = Open Day Games Package =
 Each game is programmed into a slot, selectable from the menu when you turn the device on.
 
 The main menu is navigated with the left and right dpad buttons and you press A to select that game.
+
+[http://lx10.googlecode.com/files/lx10menu.JPG]
 
 Once in a game, hold the X button for 1 second (not too long) and let go. This will return to the main menu.
 
@@ -15,16 +18,41 @@ This is simply a dot scrolling up the screen. This shows how we can turn individ
 
 == Slot 2: Spinning Arrow ==
 
+This is an arrow that spins. This shows the draw arrow command.
+
 == Slot 3: Random Draw ==
+
+This draws 1 of 5 random images on a loop. This is to show off that the board can generate random numbers.
 
 == Slot 4: Counter ==
 
+This counts up to 10 and then starts again. This shows off our simple built in number drawing.
+
 == Slot 5: Turbine ==
+
+This is a spinning turbine which can go faster when Up on the Dpad is pressed and slower when Down is pressed.
 
 == Slot 6: Simple Simon ==
 
+This will show you a button to press, and you have to hold down the corresponding button until the symbol disappears. This will keep going until you get it wrong, where your score will be shown.
+
 == Slot 7: Blocks ==
+
+You have to light up rows of blocks in this game. A random block will fall (which you can speed up by pressing Down on the Dpad) and you have to place it down without leaving any gaps. When an entire row is lit up it will be cleared. Keep going as long as you can!
 
 == Slot 8: Light Hero ==
 
+Light hero is a game where you have to press buttons as they scroll down the screen. It has 2 lanes. One on the left for the dpad and one on the right for the A and B buttons. You need to press the button on or underneath the line across the screen.
+
+If a dot scrolls down the left side of the left lane, you need to press the left dpad.
+If a dot scrolls down the right side of the left lane, you need to press the right dpad.
+If a dot scrolls down the left side of the right lane, you need to press the B button.
+If a dot scrolls down the right side of the right lane, you need to press A button.
+
+If you miss a light, then you will lose a life, and the middle health bar will decrease. When it reaches the bottom you lose and a score is shown.
+
 == Slot 9: Squash ==
+
+You move the paddle on the left up and down to stop the ball going off the left hand side of the screen. After a few successful bounces, the screen will flash and you will move onto the next level where the ball moves quicker or the paddle goes smaller.
+
+When you lose the game will start again.
