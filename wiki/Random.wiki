@@ -1,0 +1,13 @@
+#summary PIE Function : Random Function
+
+= PIE Function : Random Function=
+
+The random function generates a random number between 0 and 9
+
+
+== Example ==
+
+
+<font color = "blue">make</font> x 
+
+<font color = "blue">set</font> x <font color = "blue">to</font> <font color = "red">random</font>
