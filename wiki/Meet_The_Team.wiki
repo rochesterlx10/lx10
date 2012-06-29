@@ -3,59 +3,66 @@
 = Design Team =
 
 ===Project Manager===
+
 *IB*
 
-  * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on programmable logic devices (PLDs) 
+  * *Job:* Protect manager for LX10 Open day. Hardware engineer Working on programmable logic devices (PLDs).
 
-  * *Degree:* Electrical and electronic Engineering (BEng) Aston University
+  * *Degree:* Electrical & Electronic Engineering (BEng) Aston University
 
   * *Random Fact:* Can run 100M in under 11s
+
 
 ===Systems===
 
 *Bigwood* (AKA Steve)
 
-  * *Job:* Graduate Hardware Engineer. In charge of systems requirements for the LX10. 
+  * *Job:* Graduate Hardware Engineer. In charge of systems requirements for the LX10.
 
-  * *Degree:*Electronic Engineering (MEng) York University
+  * *Degree:* Electronic Engineering (MEng) York University
 
-  * *Random Fact:* I am the teams chief spelling and grammar checker.
+  * *Main Roles:* Safety guru and I am the teams chief spelling and grammar checker.
 
-
+  * *Random Fact:* 
 
 
 ===Software===
+
 *Mark*
 
  * *Job:* Software Engineer
 
  * *Degree:* Computer Science
 
- * *Main Roles:* Software team lead, timekeeping, resource management, giving birth to the Pie language and writing the IDE.
+ * *Main Roles:* Software team lead, timekeeping, resource management, giving birth to the Pie language and writing the IDE
 
- * *Random Fact:* I can solve a Rubik's Cube but I apparently can't spell it.
+ * *Random Fact:* I can solve a Rubik's Cube but I apparently can't spell it
+
 
 *Martyn*
 
-Who you are
+ * *Job:* Software Engineer
 
-Degree:
+ * *Degree:* 
 
-Main Roles:
+ * *Main Roles:* 
 
-Random Fact:
+ * *Random Fact:* 
+
 
 *Terry*
 
-Who you are
+ * *Job:* Software Engineer
 
-Degree:
+ * *Degree:* 
 
-Main Roles:
+ * *Main Roles:* 
 
-Random Fact:
+ * *Random Fact:* 
+
 
 ===Hardware===
+
 *Ollie*
 
  * *Job:* Hardware Engineer
@@ -66,15 +73,16 @@ Random Fact:
 
  * *Favorite Random Sport:* Flipping Tables 
 
+
 *Eric*
 
-  * On an Industrial Placement year at BAE Systems Rochester.
+  * *Job:* On an Industrial Placement year at BAE Systems Rochester.
 
-  * Studying Electronics and Communications Engineering (MEng) At Kent University.
+  * *Degree:* Studying Electronics and Communications Engineering (MEng) At Kent University
 
-  * Main Roles include; Schematic Design and Debug, Video Editing, Procurement, Prototyping
+  * *Main Roles:* Schematic Design and Debug, Video Editing, Procurement, Prototyping
 
-  * Favourite musical instrument; Ukulele 
+  * *Favourite Musical Instrument:* Ukulele 
 
 
 *Sarah*
@@ -83,17 +91,21 @@ Random Fact:
 
   * *Degree:* Electrical and Electronic Engineering (BEng) Loughborough University
 
+  * *Main Roles:* Dabbled in a bit of everything
+
   * *Random Fact:* Has royal blood
+
 
 *Jack*
 
-Hardware Graduate
+  * *Job:* Hardware Graduate
 
-Degree: MEng (hons) Electronic Engineering (The University of Sheffield)
+  * *Degree:* MEng (hons) Electronic Engineering (The University of Sheffield)
 
-Main Roles: Procurement
+  * *Main Roles:* Procurement
 
-Random Fact:I can hold my breath for 2 min 17 sec
+  * *Random Fact:* I can hold my breath for 2 min 17 sec
+
 
 *Davesh*
 
@@ -101,40 +113,40 @@ Random Fact:I can hold my breath for 2 min 17 sec
 
  * *Degree:* Electrical & Electronic Engineering
 
- * *Main Roles:* Bit of this, bit of that - general 'odd job' man.
+ * *Main Roles:* Bit of this, bit of that - general 'odd job' man
 
- * *Random Fact:* I play a random sport called Korfball.
+ * *Random Fact:* I play a random sport called Korfball
+
 
 *Rob*
 
-Who you are
+ * *Job:* 
 
-Degree:
+ * *Degree:* 
 
-Main Roles:
+ * *Main Roles:* 
 
-Random Fact:
+ * *Random Fact:* 
 
 *Joe*
 
-  * On an Industrial Placement year at BAE Systems Rochester.
+  * *Job:* On an Industrial Placement year at BAE Systems Rochester.
  
-  * Studying Electrical and Electronic Engineering (Meng) At Plymouth University.
+  * *Degree:* Studying Electrical and Electronic Engineering (Meng) At Plymouth University
 
-  * Main Roles include; PCB Layout and Tracking, Providing Wiki material, Team Support
+  * *Main Roles:* include; PCB Layout and Tracking, Providing Wiki material, Team Support
 
-
-  * Favourite musical instrument; Banjo.
-
+  * *Favourite Musical Instrument:* Banjo
 
 
 === Mechanical ===
-*Alistar*
 
-Who you are
+*Alister*
 
-Degree:
+ * *Job:* 
 
-Main Roles:
+ * *Degree:* 
 
-Random Fact:
+ * *Main Roles:* 
+
+ * *Random Fact:* 
