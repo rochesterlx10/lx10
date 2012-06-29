@@ -4,12 +4,6 @@
   * Introduction
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
-  * Requirements
-    * [Customer_Requirements Customer Requirements]
-    * Derived Requirements
-      * [Systems_Requirements Systems Requirements]
-      * [Software_Requirements Software Requirements]
-      * [Hardware_Requirements Hardware Requirements]
   * Design/Manufacture
     * [Alpha_Prototype_Board Alpha Prototype Board]
     * [Beta_Prototype_Board Beta Prototype Board]
