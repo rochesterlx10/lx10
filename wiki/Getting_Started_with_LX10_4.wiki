@@ -1,13 +1,13 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+----
 
-Add your content here.
+==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_3 Click here to return to Step 3]==
 
+----
 
-= Details =
+==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_2 Click here to return to Step 2]==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+----
+
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
