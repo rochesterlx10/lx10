@@ -10,7 +10,7 @@
 
 [http://code.google.com/p/lx10/wiki/Maths Maths]
 
-== Random ==
+[http://code.google.com/p/lx10/wiki/Random Random]
 
 == If statement ==
 
