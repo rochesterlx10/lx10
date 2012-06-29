@@ -2,7 +2,7 @@
 #labels PIE,Code,Programming,laungage
 
 = Pie Cheat Sheet =
-This should list all the main functions available to you in the Pie language in a simple and easy to read way.
+This should list all the main functions available to you in the PIE language in a simple and easy to read way.
 
 == Comment ==
 {{{
