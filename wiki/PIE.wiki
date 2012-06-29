@@ -14,9 +14,9 @@ You will need to use it in the Advanced mode and now you're free to write whatev
 
 ===Pie means YOU can make the LX10 do what YOU want===
 
-== Why you should do it ==
+== Why would I want to? ==
 
-We will be holding a [LX10_Programming_Competition competition] for the best program made using the pie language where the winner could receive £50 of vouchers! Now that's got to be worth a try. All details [LX10_Programming_Competition here]
+Other than having the power to tell your board what to do, we will be holding a [LX10_Programming_Competition competition] for the best program made using the pie language where the winner could receive £50 of vouchers! Now that's got to be worth a try. All details [LX10_Programming_Competition here]
 
 == Guides ==
 
