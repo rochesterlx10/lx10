@@ -10,7 +10,7 @@ The main menu is navigated with the left and right dpad buttons and you press A 
 
 Once in a game, hold the X button for 1 second (not too long) and let go. This will return to the main menu.
 
-The Pie code files for these can be found on the [Downloads] page called "First 10 Programs".
+The Pie code files for these can be found on the [Downloads] page called "First 10 Examples".
 
 == Slot 1: Snaking Dot ==
 
