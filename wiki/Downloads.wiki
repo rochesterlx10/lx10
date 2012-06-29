@@ -13,7 +13,7 @@ Link here
 
 [http://lx10.googlecode.com/files/LX10%20USB%20Drivers.zip USB Drivers] Please follow the guide here on how to install.
 
-== Example Pie Code ==
+== Example PIE Code ==
 
 [http://lx10.googlecode.com/files/First%2010%20Programs.zip First 10 Examples] you may have installed on the Open Day 2012. [Open_Day_games This] page explains what they do.
 
