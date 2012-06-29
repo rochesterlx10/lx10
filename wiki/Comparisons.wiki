@@ -16,7 +16,21 @@ Used to test if a variable is equal to or not equal to another variable or numbe
 
 === Example ===
 
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font>
 
+== Equal to / not Equal to ==
+
+Used to test if a variable is equal to or not equal to another variable or number.
+
+=== Example ===
+
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
+
+<font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange"> is not equal to</font> 3 <font color = "blue">then</font> <br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end if</font>
 
 
 == Conditions ==
