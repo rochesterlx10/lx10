@@ -38,28 +38,12 @@ will take place the following week, aiming to provide a winner by *14th August*
   #  Must be submitters own work (help is allowed)
   #  No modifications to the PIC core code is allowed
   #  Entire program must be written in the custom LX10 language PIE (Programming is Easy)
-  #  
-  # 
-  #
-  #  
-  # 
-  #
-  # 
 
 ===16 & Over===
   #  Submitter must be 16 years of age or above as of 1st August 2012
   #  Must be submitters own work (help is allowed)
   #  No modifications to the PIC core code is allowed
   #  Entire program must be written in the custom LX10 language PIE (Programming is Easy)
-  # 
-  #
-  #  
-  # 
-  #
-  #  
-  # 
-  #
-  # 
 
 
 ===Judging Criteria===
