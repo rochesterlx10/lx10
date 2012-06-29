@@ -5,20 +5,37 @@
 
 ----
 
-Since you are reading this I can safely assume that you have found our website! The instructions below will take you from unboxing your LX10 right through to opening up the LX10 IDE (Integrated Development Environment) where you can write code to program onto your board. The instructions and screenshots have been created for Windows 7 but the process should be similar on any Windows installation.
+Since you are reading this I can safely assume that you have found our website! The instructions below will take you from unboxing your LX10 right through to opening up the LX10 IDE (Integrated Development Environment) where you can write code to program onto your board. The instructions and screenshots shown on this page have been created for Windows XP, however further screenshots are from Windows 7. The process should be similar on any Windows installation but if you require more help than what is here please email <a href="mailto:rochester.lx10@gmail.com">rochester.lx10@gmail.com</a> and we will get back to you as soon as possible.
 
 *Note: The LX10 IDE will only run on a windows based computer as it uses the programming language Visual Basic and Microsoft's .NET v4.0 framework.*
 <br />
 
 ----
 
-===Step One - Downloading the LX10 IDE and USB Drivers===
+===Step One - Downloading and Extracting the LX10 IDE and USB Drivers===
 
 ----
 
 Click on the links below to download the LX10 IDE and USB Drivers:<br />
 <a href="http://code.google.com/p/lx10">LX10 IDE</a><br />
 <a href="http://code.google.com/p/lx10">LX10 USB Drivers</a><br />
-Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them shortly! If you are unsure how to extract the files, or where to extract them to then just copy the screenshots below:<br />
-*SCREENSHOTS OF HOW TO EXTRACT ZIP FILES ON STOCK WINDOWS*<br />
-*SCREENSHOTS OF WHERE TO PUT FILES*<br />
+Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them very soon! If you are unsure how to extract the files, or where to extract them to then just follow the instructions below.<br />
+
+----
+
+  * Go to the folder containing your downloaded files and right-click on "BAE Systems LX10 IDE.zip". Choose "Extract All...".<br />
+
+SCREENSHOT 1
+
+----
+
+  * Click "Next" and choose a suitable path to extract the files to. If you are unsure where to extract the files to then follow the instructions below. All instructions from this point on will assume you have extracted the files to the default location.<br />
+
+  * Clear the top box and enter "C:\" as shown below, then click "Next >".<br />
+
+SCREENSHOT 2
+
+----
+
+  * Now click "Finish" and your extracted files will be displayed for you
+
