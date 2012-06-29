@@ -5,3 +5,5 @@ The BAE Systems Rochester Open Day 2012 is a day for family and friends of BAE S
 Here you will also find other useful links such as an area for apps and games that you can download to your LX10. Or if you're feeling creative a guide is available to help you develop your own app/game. And if you are interested in entering our competition then check out our [LX10_Programming_Competition competions] page!
 
 ----
+
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to start programming your LX10!]==
