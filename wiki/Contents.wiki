@@ -20,9 +20,8 @@
   * Software
     * Pie Language
       * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
-      * [PIE_Code_Examples Pie Code Examples]
       * [PIE_Program_Examples Pie Program Examples]
-    * [Apps_and_Games Apps & Games]
+    * [Open_Day_Games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
