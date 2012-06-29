@@ -12,7 +12,7 @@
 
 [http://code.google.com/p/lx10/wiki/Random Random]
 
-[http://code.google.com/p/lx10/wiki/IF_Function IF]
+[http://code.google.com/p/lx10/wiki/IF_function IF]
 
 == Comparison ==
 
