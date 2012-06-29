@@ -58,7 +58,7 @@
 
  * *Main Roles:* Command Interpreter, telling Rob off for his choice of PIC 
 
- * *Random Fact:* N*Dubs wishes he had T*Dubs's Mad Skills
+ * *Random Fact:* N-Dubz wishes he had T-Dubz's Mad Skills
 
 
 ==Hardware==
@@ -69,7 +69,7 @@
 
  * *Degree:* Engineering Design
 
- * *Main Roles:* Hardware Team Lead, general busybody 
+ * *Main Roles:* Hardware Team Lead, helping out where needed 
 
  * *Favorite Random Sport:* Flipping Tables 
 
@@ -149,4 +149,4 @@
 
  * *Main Roles:* D-Pad design, assembley & test of the LX10
 
- * *Random Fact:* Play Lacrosse
+ * *Random Fact:* I Play Lacrosse
