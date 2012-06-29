@@ -10,7 +10,7 @@ Functions are organised into tabs like a web browser along the top of the IDE. T
 
 To create a new function press the + button in the IDE and type in a name.
 
-<insert screenshot<<
+http://lx10.googlecode.com/files/LX10_IDE_add_function.jpg
 
 You can now type any code you want into the function
 
