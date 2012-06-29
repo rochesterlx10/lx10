@@ -21,7 +21,7 @@
         * [Set]
         * [Maths]
         * [Random]
-        * [IF_function]
+        * [IF_function IF Function]
     * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
