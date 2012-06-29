@@ -2,7 +2,7 @@
 
 = Pie Functions =
 
-== Comment ==
+<a href ="http://code.google.com/p/lx10/wiki/PIEFunctionComments?ts=1340983381&updated=PIEFunctionComments" >== @ (Comments)==</a> <br>
 
 == Make Variables == 
 
