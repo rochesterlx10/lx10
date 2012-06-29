@@ -1,8 +1,22 @@
 #summary This is the final section of the getting started guide where we actually get to the programming!
 
-===Step 4 - Opening the LX10 IDE and checking your LX10 is Connected!===
+----
 
+===Step Four - Opening the LX10 IDE and checking your LX10 is Connected!===
 
+----
+
+When you open up the LX10 IDE you will be asked if you want to use the "Simple" or the "Advanced" interface. If you are unsure then perhaps try the "Simple" interface first to try out the board and get some LEDs flashing.
+
+http://lx10.googlecode.com/files/7%20-%2011%20Finished%20and%20Connected%20Simple.png
+
+If you have successfully installed the USB drivers and your board is plugged in and powered then you should see that the board is "Connected" in the bottom right of the IDE!
+
+We suggest you try clicking the "All On" button followed by the "Show on LX10" button to get you started.
+
+=We shall now leave you to play around for yourself!=
+
+If you want some instructions on how to use the LX10 IDE then head over to: [http://code.google.com/p/lx10/wiki/IDEUserGuide The LX10 IDE User Guide]
 
 ----
 
