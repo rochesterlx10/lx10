@@ -20,6 +20,11 @@ Link here
 
 These will be added when we get them
 
+
+== PCB Artwork ==
+
+[http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip PCB Artwork]
+
 == Source ==
 
 One zip with all 3 source directories in
