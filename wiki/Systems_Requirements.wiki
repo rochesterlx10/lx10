@@ -1,0 +1,99 @@
+#summary System Requirements
+
+SyRS1.	The system shall be suitable for users aged 7+
+
+SyRS2.	The cost to the business of producing 500 units shall be less than £4,500, unless agreed with Richard Cross.
+
+SyRS3.	The system shall be fully functional when taken offsite.
+
+SyRS4.	The system shall comply with the BS EN 60950:1992 standards (Safety of Information technology Equipment.
+
+SyRS5.	The system shall be battery powered.
+
+SyRS6.	The system shall provide an environment to allow the user to create software for it.
+
+SyRS7.	The system shall not require anything to be bought in order for it to be fully functional.
+
+SyRS8.	The system shall be ready for the open day on the 30th June 2012.
+
+SyRS9.	The system shall provide the ability for users to expand the functionality of the device.
+
+SyRS10.	The system shall allow the users to store and recall at least 10 programs.
+
+SyRS11.	The software source code shall be available to the users, and will be formatted and commented .
+
+SyRS12.	During operation, the system shall allow the user to: 
+a.	Turn product on and off
+b.	Select a program
+
+SyRS13.	The system shall be developed using Learn First Product Development techniques.
+
+SyRS14.	The teams shall report progress to Simon Abbotson and Daniel J. Stroud fortnightly via email.
+
+SyRS15.	The software team shall deliver all deliverables by 1st June unless otherwise identified in the agreed project plan.
+
+SyRS16.	The following documentation shall be produced:
+
+a.	All User PC side software 
+b.	All Board side software
+c.	Details of any cables required for operation
+d.	Software user guide
+e.	Any additional software required on the end users computer
+f.	Software ICD
+g.	Software A3 Project Plan
+h.	Software Requirements document including mapping to how requirements have been met.
+i.	Formatted software source code 
+j.	Operator Instructions and Limitations Manual
+k.	Safety Certificate
+
+SyRS17.	The system shall appeal to boys and girls
+
+SyRS18.	The system shall be entertaining
+
+SyRS19.	The system should be produced using static resistant parts as much as possible
+
+SyRS20.	The system should engage multiple senses
+
+SyRS21.	The system should have a battery life of at least 2 hours (normal usage)
+
+SyRS22.	The system shall have no sharp edges
+
+SyRS23.	The system shall be capable of being produced at BAE Systems Rochester
+
+SyRS24.	The system shall be capable of being controlled by an external I2C master device.
+
+SyRS25.	The system shall communicate with a PC using a USB 2.0 connection. 
+
+SyRS26.	The physical interface to the PC should be a USB Mini-A receptacle. 
+
+SyRS27.	The system shall appear as a virtual COM port to a PC with the following settings at a minimum:
+
+a.	Baud rate: 19200 bits/second
+b.	Data Bits: 8
+c.	Parity: None
+d.	Stop Bits: 1
+e.	Flow Control: None
+
+SyRS28.	The system shall be capable of detecting at least 8 tilt directions (N, E, S, W, NE, SE, SW, NW).
+
+SyRS29.	The system shall feature an on/off switch.
+
+SyRS30.	The system should feature the following switches:
+
+a.	Up direction
+b.	Down direction
+c.	Left direction
+d.	Right direction
+e.	‘A’ button
+f.	‘B’ button
+
+SyRS31.	The system shall incorporate a 2.54mm pitch pin header for programming the microcontroller.
+
+SyRS32.	The system shall use static resistant parts. 
+
+SyRS33.	The system shall use a memory chip external to the microcontroller to store programs.
+
+SyRS34.	The user interface on the PCB shall allow the user to 
+a.	Turn the product on and off.
+b.	Select programs.
+c.	Control the gaming features.
