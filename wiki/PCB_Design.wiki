@@ -53,7 +53,7 @@ The PCB is manufactured in batches of 4, this is called a biscuit. This is done 
 
 == Gerber Files ==
 
-[http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip LX10_PCB_DESIGN.zip] contains all the information for a 4 Board PCB Biscuit, Including Manufacturing Drawings.
+[http://lx10.googlecode.com/files/LX10_PCB_DESIGN.zip LX10_PCB_DESIGN.zip] contains all the information for a 4 Board PCB Biscuit, including manufacturing drawings.
 
 
 ==Recomended Tools==
