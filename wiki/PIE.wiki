@@ -15,9 +15,8 @@ You will need to use it in the Advanced mode and now you're free to write whatev
 
 == Guides ==
 
-***Your First Program***
-***Pie functions and explanation***
-***Pie Cheat Sheet***
+ * Your First Program *link Needed*
+ * Pie functions and explanation *link Needed*
+ * Pie Cheat Sheet *link Needed*
 
 ***Getting started programming to LX10***
-
