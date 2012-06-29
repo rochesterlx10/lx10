@@ -85,3 +85,11 @@ http://lx10.googlecode.com/files/7%20-%2010%20LX10%20%28COM3%29%20Successful.png
 ----
 
   * Do not worry if your device has a different COM port number, e.g. those brackets may say (COM1). This is just the address that your computer has assigned to the LX10 and can be different for each computer. You can now browse to your LX10 IDE installation folder and run "LX10_IDE.exe" to begin programming!<br /></font>
+
+----
+
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
+
+----
+
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10_2 Click here to return to Step 2]==
