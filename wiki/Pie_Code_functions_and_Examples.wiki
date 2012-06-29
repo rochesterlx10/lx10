@@ -6,9 +6,9 @@
 
 [http://code.google.com/p/lx10/wiki/Make Make]
 
-== Set Variables == 
+[http://code.google.com/p/lx10/wiki/Set Set]
 
-== Calculation ==
+[http://code.google.com/p/lx10/wiki/Maths Maths]
 
 == Increment/Decrement == 
 
