@@ -11,6 +11,12 @@ We will now make sure your LX10 is ready to go!
   * Plug the USB cable into your LX10 and into a free USB port on your computer.
   * Now you can turn your LX10 on!<br />
 
+Your computer will now try to communicate with the LX10, unfortunately without the USB drivers installed it will fail!<br />
+
+http://lx10.googlecode.com/files/7%20-%20Installing%20Device%20Driver%20Software.png
+
+http://lx10.googlecode.com/files/7%20-%20Driver%20not%20successfully%20installed.png
+
 ----
 
 ==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
