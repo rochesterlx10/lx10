@@ -10,8 +10,6 @@
 
 [http://code.google.com/p/lx10/wiki/Maths Maths]
 
-== Increment/Decrement == 
-
 == Random ==
 
 == If statement ==
