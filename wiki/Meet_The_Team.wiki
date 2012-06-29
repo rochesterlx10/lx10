@@ -15,15 +15,15 @@
 
 ==Systems==
 
-*Bigwood* (AKA Steve)
+*Steve*
 
   * *Job:* Graduate Hardware Engineer. In charge of systems requirements for the LX10.
 
   * *Degree:* Electronic Engineering (MEng) York University
 
-  * *Main Roles:* Safety guru and I am the teams chief spelling and grammar checker.
+  * *Main Roles:* System design.
 
-  * *Random Fact:* 
+  * *Random Fact:* Likes anything orange.
 
 
 ==Software==
@@ -120,13 +120,13 @@
 
 *Rob*
 
- * *Job:* On an Hardware Industrial Placement year at BAE Systems Rochester.
+ * *Job:* On a Hardware Industrial Placement year at BAE Systems Rochester.
 
  * *Degree:* Electronics and Communications (BEng) Kent University
 
- * *Main Roles:* Everything that is LX10, Prototyping, componenet selection, testing, firmware code and more!
+ * *Main Roles:* Everything that is LX10, Prototyping, component selection, testing, firmware and more!
 
- * *Random Fact:* BAE Systems general Hero
+ * *Random Fact:* General Hero
 
 *Joe*
 
