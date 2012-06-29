@@ -19,8 +19,8 @@ http://lx10.googlecode.com/files/7%20-%20Driver%20not%20successfully%20installed
 
 ----
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_3 Click here to proceed to Step 3]==
 
 ----
 
-==[http://code.google.com/p/lx10/wiki/Getting_Started_with_LX10_3 Click here to proceed to Step 3]==
+==[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Click here to return to Step 1]==
