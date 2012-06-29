@@ -10,11 +10,13 @@
 
 = Hardware = 
 
-* [http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=2795 Microchip Webinars ] - a series of webinars from Microchip on a number of different subjects.
+* [http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=2795 Microchip Webinars ] - a series of webinars from Microchip on a number of different subjects
 
 * [http://www.octopart.com Octopart] - Octopart is a search engine for electronic parts
 
 * [http://www.mentor.com/training_and_services/ Mentor] - Offers a full range of learning solutions developed specifically for electronics designers and engineers, including live webinars (registration may be required)
+
+* [http://www.graphicode.com/GC-Prevue#download GraphiCode] - Free gerber viewer tool 
 
 = Mechanical =
 
