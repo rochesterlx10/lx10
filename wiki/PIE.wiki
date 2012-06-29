@@ -16,7 +16,7 @@ You will need to use it in the Advanced mode and now you're free to write whatev
 
 == Why would I want to? ==
 
-Other than having the power to tell your board what to do, we will be holding a [LX10_Programming_Competition competition] for the best program made using the pie language where the winner could receive £50 of vouchers! Now that's got to be worth a try. All details [LX10_Programming_Competition here]
+Other than having the power to tell your board what to do, we will be holding a [LX10_Programming_Competition competition] for the best program made using the pie language where the winner could receive £30 of vouchers! Now that's got to be worth a try. All details [LX10_Programming_Competition here]
 
 == Guides ==
 
