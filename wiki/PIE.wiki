@@ -8,7 +8,7 @@ Pie is a programming language made especially for your LX10. It is designed to b
 
 == Writing Pie code ==
 
-First, you will need the [IDEUserGuide IDE] (Integrated Development Environment, but ignore that - lets just call it the IDE) whcih can be found on the [Downloads] page. 
+First, you will need the [IDEUserGuide IDE] (Integrated Development Environment, but ignore that - lets just call it the IDE) which can be found on the [Downloads] page. 
 
 You will need to use it in the Advanced mode and now you're free to write whatever Pie code you want! You can simulate it like it's on the board and when you're ready - program it to your device.
 
