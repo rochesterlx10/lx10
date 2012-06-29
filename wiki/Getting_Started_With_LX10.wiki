@@ -1,6 +1,31 @@
-#summary A guide on what to do once you get home with your LX10
+#summary A guide on what to do once you get home and want to start programming your LX10!
 #labels Start,Beginner,Guide,Pie,USB,Connect
 
-= Getting Started With Your LX10 =
+=Getting Started With Your LX10=
 
-Add your content here.
+----
+
+Since you are reading this I can safely assume that you have found our website! The instructions below will take you from unboxing your LX10 right through to opening up the LX10 IDE (Integrated Development Environment) where you can write code to program onto your board. The instructions and screenshots have been created for Windows 7 but the process should be similar on any Windows installation.
+
+*Note: The LX10 IDE will only run on a windows based computer as it uses the programming language Visual Basic and Microsoft's .NET v4.0 framework.*
+<br />
+
+----
+
+===Step One - Downloading the LX10 IDE and USB Drivers===
+
+----
+
+Click on the links below to download the LX10 IDE and USB Drivers:<br />
+<a href="http://code.google.com/p/lx10">LX10 IDE</a><br />
+<a href="http://code.google.com/p/lx10">LX10 USB Drivers</a><br />
+Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them shortly! If you are unsure how to extract the files, or where to extract them to then just copy the screenshots below:<br />
+*SCREENSHOTS OF HOW TO EXTRACT ZIP FILES ON STOCK WINDOWS*<br />
+*SCREENSHOTS OF WHERE TO PUT FILES*<br />
+
+
+----
+
+===Step Two - Preparing your LX10===
+
+----
