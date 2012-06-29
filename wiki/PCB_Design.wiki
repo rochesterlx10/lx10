@@ -4,7 +4,7 @@
 
 =PCB Design Tool Exports=
 
-The images below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (what current flows through to make connections between devices; aka Signals/Tracks). 
+The images below show what the PCB design of the LX10 looks like. It shows the copper which is the traces and fills (that current flows through to make connections between devices; aka Signals/Tracks). 
 
 Shows Silkscreen Layer; white text which goes on top of the PCB. Shows part reference numbers and information the designer has put on there.
 
