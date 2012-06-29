@@ -1,0 +1,17 @@
+#summary PIE Function : Set
+
+= PIE Function : @ (comments)=
+
+Comments are a useful way of reminding yourself (and telling others) what your code does. The compiler will completely ignore any commens your put in when simulating the code or programming the PIC so feel free to add in as many as you want.
+
+*To add a comment put the @ symbol at the start of any line*
+
+
+== Example ==
+
+
+<font color = "blue">make</font> x 
+
+<font color = "green">@ this is a comment!</font>
+
+<font color = "blue">set</font> x <font color = "blue">to</font> 1
