@@ -1,7 +1,7 @@
 #summary All the useful downloads related to the LX10 and Pie programming language.
 #labels downloads,drivers,ide,examples,pcb,artwork
 
-= Download =
+= Downloads =
 
 == IDE ==
 
