@@ -21,7 +21,7 @@
     * Pie Language
       * [PIE_Code_Cheat_Sheet Pie Code Cheat Sheet]
       * [PIE_Program_Examples Pie Program Examples]
-    * [Open_Day_Games Open Day Games]
+    * [Open_Day_games Open Day Games]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
