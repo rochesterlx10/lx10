@@ -14,7 +14,7 @@
 
 [http://code.google.com/p/lx10/wiki/IF_function IF]
 
-== Comparisons ==
+[http://code.google.com/p/lx10/wiki/Comparisons Comparisons]
 
 == Loops ==
 
