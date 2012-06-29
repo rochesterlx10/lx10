@@ -21,13 +21,13 @@ http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-002.jpg
 Sheet 2 - LED Array Functional block - Shows how the LED array connects to each other. Each row of LEDs (left to right) has their anodes connected to each other. Each column (top to bottom) has their cathodes connected to each other.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-003.jpg
 
-Sheet 3 - LED Driver circuit ( how to turn on and select LEDs). 
+Sheet 3 - LED Driver circuit (how to turn on and select LEDs). 
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-004.jpg
 
-Sheet 4 - Power functional block , this block shows how all the power is generated. This is done using a DC/DC Converter to take 9V in and convert to 3V3
+Sheet 4 - Power functional block; this block shows how all the power is generated. This is done using a DC/DC Converter to take 9V in and convert to 3V3.
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-005.jpg
 
-Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches , non volatile memory (Flash), and Touch Pads (for buttons A,B,X)
+Sheet 5 - Microprocessor (Brain) Functional Block. This schematic shows the *PIC32* microprocessor and how we have connected it up to switches, non volatile memory (Flash) and Touch Pads (for buttons A,B,X).
 http://lx10.googlecode.com/files/ODC_LX10_11_6_12_PCB_VP.PDF-page-006.jpg
 
 == Data Sheets ==
@@ -59,16 +59,16 @@ Click [http://lx10.googlecode.com/files/Datasheets%20-%20Active.zip here] for a 
 ||	1uF Cap	||	C0403, C0302, C0508	||		||	3	||
 ||	4.7uF Cap	||	C0100	||		||	1	||
 ||	10u Cap	||	C0401, C0402, C0408, C0409, C0410, C0411, C0506	||		||	7	||
-||	0R0 Res	||	R0405 , R0508 , R0509	||		||		2	||
-||	0rR5	||	R0409	||	||		1	||
-||	10R Res	||	R0511, R0512, R0505	||	||		3	||
-||	470R Res	||	R0510	||	||		1	||
-||	1K2 Res	||	R0404	||		||	1	||
-||	2K Res	||	R0310, R0501, R0502	||		||	3	||
-||	4K99 Res	||	R0403, R0506, R0507	||	||		3	||
-||	10K0 Res	||	R0402, R0500	||	||		2	||
-||	20K0 Res	||	R0401	||	||		1	||
-||	30K0 Res	||	R0400	||	||		1	||
+||	0R0 Res	||	!R0405, !R0508, !R0509	||		||		2	||
+||	0rR5	||	!R0409	||	||		1	||
+||	10R Res	||	!R0511, !R0512, !R0505	||	||		3	||
+||	470R Res	||	!R0510	||	||		1	||
+||	1K2 Res	||	!R0404	||		||	1	||
+||	2K Res	||	!R0310, !R0501, !R0502	||		||	3	||
+||	4K99 Res	||	!R0403, !R0506, !R0507	||	||		3	||
+||	10K0 Res	||	!R0402, !R0500	||	||		2	||
+||	20K0 Res	||	!R0401	||	||		1	||
+||	30K0 Res	||	!R0400	||	||		1	||
 ||	Diode	||	D0400	||	ES07B/G1	||	1	||
 ||	33uH Inductor	||	L0400	||	SRR4028-330Y	||	1	||
 ||	XTAL 12MHz	||	Y0500	||	ABLS-12.000MHZ-B2-T	||	1	||
