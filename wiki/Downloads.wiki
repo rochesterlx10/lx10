@@ -15,7 +15,7 @@ Link here
 
 == Example Pie Code ==
 
-Link here
+[First 10 Examples http://lx10.googlecode.com/files/First%2010%20Programs.zip] pre installed on the Open Day 2012
 
 == Games made by others ==
 
