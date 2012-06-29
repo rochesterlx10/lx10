@@ -1,17 +1,16 @@
 #summary PIE Function : Set
 
-= PIE Function : @ (comments)=
+= PIE Function : Set=
 
-Comments are a useful way of reminding yourself (and telling others) what your code does. The compiler will completely ignore any commens your put in when simulating the code or programming the PIC so feel free to add in as many as you want.
-
-*To add a comment put the @ symbol at the start of any line*
-
+Set is the command to assign a value to a variable. You can set a variabel to be a constant number (e.g. 4) or another variable
 
 == Example ==
 
 
-<font color = "blue">make</font> x 
+<font color = "blue">make</font> var1 
 
-<font color = "green">@ this is a comment!</font>
+<font color = "blue">make</font> var2
 
-<font color = "blue">set</font> x <font color = "blue">to</font> 1
+<font color = "blue">set</font> var1 <font color = "blue">to</font> 4
+
+<font color = "blue">set</font> var2 <font color = "blue">to</font> var1
