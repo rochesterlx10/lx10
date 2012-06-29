@@ -25,7 +25,7 @@ Once you have downloaded both these ".zip" files you will need to open them up a
 
   * Go to the folder containing your downloaded files and right-click on "BAE Systems LX10 IDE.zip". Choose "Extract All...".<br />
 
-SCREENSHOT 1
+http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%201.PNG
 
 ----
 
@@ -33,13 +33,13 @@ SCREENSHOT 1
 
   * Clear the top box and enter "C:\" as shown below, then click "Next >".<br />
 
-SCREENSHOT 2
+http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%202.PNG
 
 ----
 
   * Now click "Finish" and your extracted files will be displayed. Locate the "BAE Systems LX10 IDE" folder and double-click on it to view the IDE files.
 
-SCREENSHOT 3
+http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%203.PNG
 
 ----
 
@@ -54,4 +54,3 @@ SCREENSHOT 3
 Congratulations for getting this far! Now proceed to step two.<br />
 
 <font size="5">[http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Step 2]</font>
-
