@@ -1,0 +1,16 @@
+#summary PIE Function : Make
+
+= PIE Function : Make=
+
+Make is used to assign a name to a value. This is known as a variable, because the value can vary while the program runs.
+
+Once you have assigned a name using make you can refer to it elsewhere in the program.
+
+== Example ==
+
+
+<font color = "blue">make</font> bob 
+
+<font color = "blue">set</font> bob <font color = "blue">to</font> 1
+
+<font color = "brown">add</font> 9 <font color = "blue">to</font> bob
