@@ -2,13 +2,13 @@
 
 =Beta Prototype Board=
 
-After the first prototype was made, we re-designed the parts that we weren't happy about and created our beta prototype. This consisted of a PIC24 , USB to UART converter and a LED DRIVe tile. 
+After the first prototype was made, we re-designed the parts that we weren't happy about and created our beta prototype. This consisted of a PIC24, USB to UART converter and a LED drive tile. 
 
-The LED drive tile was made on PCB, we did this to test the 10x10 LED array and make sure we had no issues with the pcb side of things.
+The LED drive tile was made on PCB; we did this to test the 10x10 LED array and make sure we had no issues with the PCB side of things.
 
-the PIC24 was used, as we realised we needed more program space for all the functionality we wanted.
+The PIC24 was used as we realised we needed more programming memory for all the functionality we wanted.
 
-Image of the beta prototype Below:
+An image of the beta prototype is shown below:
 
 
 http://lx10.googlecode.com/files/DSC00700.JPG
