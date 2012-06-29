@@ -40,4 +40,4 @@
 
 * [http://www.wolframalpha.com/ WolframAlpha] - Computational Knowledge Engine
 
-* [http://www.howstuffworks.com/ HowStuffWorks] - !HowStuffWorks explains thousands of topics, from engines to lock-picking to ESP, with video and illustrations so you can learn how everything works
+* [http://www.howstuffworks.com/ HowStuffWorks] - !HowStuffWorks explains thousands of topics with video and illustrations so you can learn how everything works
