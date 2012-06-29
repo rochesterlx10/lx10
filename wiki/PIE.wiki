@@ -17,7 +17,7 @@ You will need to use it in the Advanced mode and now you're free to write whatev
 == Guides ==
 
  * Your First Program *link Needed*
- * Pie functions and explanation *link Needed*
+ * [Pie_Code_functions_and_Examples Pie functions and explanation]
  * [IDEUserGuide IDE User Guide]
  * Pie Cheat Sheet *link Needed*
  * Getting started programming to LX10 *link Needed*
