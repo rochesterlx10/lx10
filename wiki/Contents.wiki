@@ -13,6 +13,7 @@
   * Design/Manufacture
     * Alpha Prototype Board
     * Beta Prototype Board
+    * Charlie Prototype Board
     * Final Board
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
