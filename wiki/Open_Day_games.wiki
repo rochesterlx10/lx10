@@ -5,19 +5,25 @@ Each game is programmed into a slot, selectable from the menu when you turn the 
 
 The main menu is navigated with the left and right dpad buttons and you press A to select that game.
 
+Once in a game, hold the X button for 1 second (not too long) and let go. This will return to the main menu.
+
+The Pie code files for these can be found on the [Downloads] page called "First 10 Programs".
+
 == Slot 1: Snaking Dot ==
 
-== Slot 2: Random Dot ==
+This is simply a dot scrolling up the screen. This shows how we can turn individual LEDs on and move them.
 
-== Slot 3: Spinning Arrow ==
+== Slot 2: Spinning Arrow ==
 
-== Slot 4: Random Draw ==
+== Slot 3: Random Draw ==
 
-== Slot 5: Counter ==
+== Slot 4: Counter ==
 
-== Slot 6: Turbine ==
+== Slot 5: Turbine ==
 
-== Slot 7: Bricks ==
+== Slot 6: Simple Simon ==
+
+== Slot 7: Blocks ==
 
 == Slot 8: Light Hero ==
 
