@@ -24,10 +24,6 @@
 
 * [http://www.imeche.org IMechE] - Institution of Mechanical Engineers
 
-== Manufacturing == 
-
-
-
 == Engineering (General) == 
 
 * [http://www.theiet.org IET] - The Institution of Engineering & Technology
