@@ -42,8 +42,8 @@ Here we tell you how to open up the LX10 IDE and how to check whether you have s
 ----
 
 Click on the links below to download the LX10 IDE and USB Drivers:<br />
-<a href="http://code.google.com/p/lx10">LX10 IDE</a><br />
-<a href="http://code.google.com/p/lx10">LX10 USB Drivers</a><br />
+<a href="http://lx10.googlecode.com/files/LX10%20IDE%20Setup.exe">LX10 IDE</a><br />
+<a href="http://lx10.googlecode.com/files/LX10%20USB%20Drivers.zip">LX10 USB Drivers</a><br />
 Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them very soon! If you are unsure how to extract the files, or where to extract them to then just follow the instructions below.<br />
 
 ----
