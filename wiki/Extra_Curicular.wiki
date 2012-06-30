@@ -18,6 +18,8 @@
 
 * [http://www.mentor.com/training_and_services/ Mentor] - Offers a full range of learning solutions developed specifically for electronics designers and engineers, including live webinars (registration may be required)
 
+*  [http://www.youtube.com/watch?v=aWVywhzuHnQ Silicon Wafer]- youtue video that Shows you how silicon wafers are made and how computer chips are constructed.
+
 * [http://www.graphicode.com/GC-Prevue#download GraphiCode] - Free gerber viewer tool 
 
 == Mechanical ==
