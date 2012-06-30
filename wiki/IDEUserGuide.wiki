@@ -32,7 +32,7 @@ http://lx10.googlecode.com/files/open_button.JPG Open button; from here you can 
 
 http://lx10.googlecode.com/files/save_as_button.JPG Save Button; allows you to save your program in .pie or .txt format
 
-http://lx10.googlecode.com/files/help_button.JPG Help/Examples Button; this takes you to our external website *XXXXX* which has examples, hints & tips and information about the  LX10.
+http://lx10.googlecode.com/files/help_button.JPG Help/Examples Button; this takes you to our external website, which has examples, hints & tips and information about the  LX10.
 
 http://lx10.googlecode.com/files/menu_button.JPG Menu button; essentially a “back button” it will take you back to the previous menu. In this case it takes you back to the load up screen where you choose simple or advanced IDE.
 
