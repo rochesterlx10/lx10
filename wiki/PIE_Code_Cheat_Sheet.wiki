@@ -1,5 +1,5 @@
 #summary The cheat sheet (a page of commands) for the Pie language.
-#labels PIE,Code,Programming,laungage
+#labels PIE,Code,Programming,language
 
 = Pie Cheat Sheet =
 This should list all the main functions available to you in the PIE language in a simple and easy to read way.
