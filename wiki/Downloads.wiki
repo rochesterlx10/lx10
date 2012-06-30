@@ -34,4 +34,4 @@ These will be added when we get them via the competition.
 
 == Source ==
 
-One zip file with all 3 source directories inside.
+One [http://lx10.googlecode.com/files/LX10%20Source.zip zip] file with all 3 source directories inside.
