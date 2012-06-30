@@ -15,7 +15,7 @@ Since you are reading this I can safely assume that you have found our website! 
 
 In this guide we will go through the following steps to ensure your device and computer are prepared for you to make some games!
 
-  * Step One - Downloading and Extracting the LX10 IDE and USB Drivers.
+  * Step One - Downloading and Extracting/Installing the LX10 IDE and USB Drivers.
 
 In this step we will make sure you get a hold of all our software and the drivers required to run it.
 
@@ -44,13 +44,16 @@ Here we tell you how to open up the LX10 IDE and how to check whether you have s
 Click on the links below to download the LX10 IDE and USB Drivers:<br />
 <a href="http://lx10.googlecode.com/files/LX10%20IDE%20Setup.exe">LX10 IDE</a><br />
 <a href="http://lx10.googlecode.com/files/LX10%20USB%20Drivers.zip">LX10 USB Drivers</a><br />
-Once you have downloaded both these ".zip" files you will need to open them up and extract them to a folder of your choice. Remember where you put them though as we will need them very soon! If you are unsure how to extract the files, or where to extract them to then just follow the instructions below.<br />
+
+The LX10 IDE Setup you can simply double click and it will install that for you.
+
+Once you have downloaded the USB Drivers ".zip" file you will need to open it up and extract it to a folder of your choice. Remember where you put them though as we will need them very soon! If you are unsure how to extract the files, or where to extract them to then just follow the instructions below.<br />
 
 ----
  
 ----
 
-  * Go to the folder containing your downloaded files and right-click on "BAE Systems LX10 IDE.zip". Choose "Extract All...".<br />
+  * Go to the folder containing your downloaded files and right-click on "LX10 USB Drivers.zip". Choose "Extract All...".<br />
 
 http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%201.PNG
 
@@ -64,17 +67,9 @@ http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%202.PNG
 
 ----
 
-  * Now click "Finish" and your extracted files will be displayed. Locate the "BAE Systems LX10 IDE" folder and double-click on it to view the IDE files.
+  * Now click "Finish" and your extracted files will be displayed. Locate the "LX10 USB Drivers" folder and double-click on it to view the extracted files.
 
 http://lx10.googlecode.com/files/XP%20-%20How%20to%20Extract%20Files%203.PNG
-
-----
-
-  * If you wish to create a desktop shortcut to the IDE then you can right-click "LX10_IDE.exe", go to "Send To" and then "Desktop".<br />
-
-----
-
-  * Now repeat this process for the "BAE Systems LX10 USB Drivers.zip" file.
 
 ----
 
