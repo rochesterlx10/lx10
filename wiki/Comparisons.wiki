@@ -16,17 +16,17 @@ There are four different types of conditional functions:
 Used to test if a variable is equal to or not equal to another variable or number.
 
 === Example ===
-{{{
+
 <font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">equal to</font> 3 <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
 
-{{{
+
+
 <font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange"> is not equal to</font> 3 <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
+
 
 
 == Greater than / Less than ==
@@ -34,16 +34,15 @@ Used to test if a variable is equal to or not equal to another variable or numbe
 Used to test if a variable is greater than or less than a variable or number.
 
 === Example ===
-{{{
+
 <font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange">greater than </font> 3 <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
-{{{
+
 <font color = "blue">if</font> x <font color = "brown">is</font> <font color = "orange"> less than </font> 3 <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
+
 
 == LED is / LED was ==
 
@@ -53,16 +52,14 @@ LX10 remembers the state of an LED before the most recent <font color = "blue">u
 
 === Example ===
 
-{{{
 <font color = "blue">if</font> <font color = "red">LED</font> 3,7 <font color = "brown">is</font> <font color = "purple">on</font> <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
-{{{
+
 <font color = "blue">if</font> <font color = "red">LED</font> 3,7 <font color = "brown">was</font> <font color = "purple">off</font> <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
+
 
 == Button is pressed / Button is not pressed ==
 
@@ -79,13 +76,11 @@ Buttons can be specified by using one of the following keywords:
 The x button is reserved for the main menu and brightness control.
 
 === Example ===
-{{{
+
 <font color = "blue">if</font> <font color = "purple">a-button</font>  <font color = "brown">is</font> <font color = "purple">pressed</font> <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
-{{{
+
 <font color = "blue">if</font> <font color = "purple">right-button</font>  <font color = "brown">is</font> not <font color = "purple">pressed</font> <font color = "blue">then</font> <br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end if</font>
-}}}
