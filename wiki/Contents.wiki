@@ -26,7 +26,7 @@
       * [Functions]      
     * [Open_Day_games Open Day Games]
   * [Getting_Started_With_LX10 Getting Started With LX10]
-  * [Batch_Programmer]
+  * [Batch_Programmer Open Day Default Software]
   * [IDEUserGuide IDE User Guide]
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
