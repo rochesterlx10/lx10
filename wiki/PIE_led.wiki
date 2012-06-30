@@ -1,0 +1,32 @@
+#summary PIE Function : LED
+
+= PIE Function : LED =
+
+LEDs can be set or read. To find out how to read LED states go to the [http://code.google.com/p/lx10/wiki/Comparisons comparison page].
+
+=== Settings LEDs ===
+
+When setting LEDs you can choose to set them immediately or you can choose to set them normally. If you set an LED normally the screen will not update until you call the <font color = "blue">update display</font> command.
+
+LED commands:
+  * Set single LED now
+  * Set single LED
+  * Set all LEDs
+
+The LEDs are arranged in a 10x10 grid which is numbered from 0 to 9 with an x,y system (0,0 is in the bottom left).
+
+=== Set single LED === 
+
+<font color = "blue">set</font> <font color = "red">LED</font> 1,4 <font color = "purple">on</font>
+
+Remember to call <font color = "blue">update display</font> after this if you want to see the LEDs.
+
+=== Set single LED now === 
+
+<font color = "blue">set</font> <font color = "red">LED</font> 1,4 <font color = "purple">off</font> <font color = "red">now</font>
+
+=== Set all LEDs === 
+
+<font color = "blue">set</font> all <font color = "red">LED</font> <font color = "purple">on</font>
+
+Remember to call <font color = "blue">update display</font> after this if you want to see the LEDs.
