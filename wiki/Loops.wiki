@@ -7,15 +7,16 @@ Loops are used to repeat parts of code for a specific number of times or forever
 == Infinite Loop Example ==
 
 This will continually run the code at <YOUR CODE GOES HERE>.
-
+{{{
 <font color = "blue">do forever</font><br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end do</font>
- 
+}}}
 == Loop Example ==
 
 This will run the code at <YOUR CODE GOES HERE> 8 times
-
+{{{
 <font color = "blue">do </font> 8 <font color = "blue">times</font><br>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end do</font>
+}}}
