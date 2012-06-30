@@ -17,9 +17,9 @@ You can now type any code you want into the function
 === Use a Function ===
 
 To use a function after it has been created type run followed by the function name.
-
+{{{
 <font color = "blue">run</font> function1
-
+}}}
 === Delete a Function ===
 
 To delete a function first select the tab you want to delete then press the red <font color = "red">-</font> button on the IDE.
