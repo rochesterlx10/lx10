@@ -5,9 +5,11 @@
 
 == IDE ==
 
-Link here
+The LX10 IDE supports only Microsoft Windows XP, Vista and 7.
 
-*If you plan to program your LX10 you need the USB drivers. See below.*
+[http://lx10.googlecode.com/files/LX10%20IDE%20Setup.exe LX 10 IDE Installer - Just double click and follow the instructions to install.
+
+*If you plan to program your LX10 you will need the USB drivers. See below.*
 
 == USB Drivers ==
 
