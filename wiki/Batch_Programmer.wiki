@@ -7,7 +7,7 @@ This section explains how you can install the default software to your LX10
 
 = Details =
   
-  # Download the OPen day default games programmer [http://lx10.googlecode.com/files/OpenDayDefault.zip here]
+  # Download the Open day default games programmer [http://lx10.googlecode.com/files/OpenDayDefault.zip here]
   # Double click the file to run
   # a screen should pop up that says "connected" or "not connected"
   # when the LX10 is pluged in this screen should change to "connected" and there will be a program button
