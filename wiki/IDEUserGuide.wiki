@@ -10,9 +10,9 @@ This document shows how to use the IDE.
 If you would like to know more about the programming laungage, you can look at the cheat sheet [http://code.google.com/p/lx10/wiki/Pie_Code_functions_and_Examples here]
 
 ===Download===
-Download the file *XXXXXXX* which is a .zip file. Right click on the file and extract its contents to the desktop. 
 
-Once extracted (should take only a matter of seconds), double click on *XXXXX.exe* and the screen below should come up.
+click [http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Here]
+for download
 
 ===Overview===
 http://lx10.googlecode.com/files/Splash_sreen.JPG
