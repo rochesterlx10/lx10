@@ -1,4 +1,4 @@
-#summary The cheat sheet (a page of commands) for the Pie language.
+#summary The cheat sheet (a page of commands) for the PIE language.
 #labels PIE,Code,Programming,language
 
 = Pie Cheat Sheet =
