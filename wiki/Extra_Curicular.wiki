@@ -1,6 +1,8 @@
 #summary Educational & Interesting Resources / Websites
 
-= Software =
+= Extra Curricular Links =
+
+== Software ==
 
 * [http://stackoverflow.com/ StackOverflow] - Great place to find problems people have had before or to ask for help yourself.
 
@@ -8,7 +10,7 @@
 
 * [http://codingbat.com/ CodingBat] - Some Java and Python programming exercises to help practice
 
-= Hardware = 
+== Hardware == 
 
 * [http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=2795 Microchip Webinars ] - a series of webinars from Microchip on a number of different subjects
 
@@ -18,15 +20,15 @@
 
 * [http://www.graphicode.com/GC-Prevue#download GraphiCode] - Free gerber viewer tool 
 
-= Mechanical =
+== Mechanical ==
 
 * [http://www.imeche.org IMechE] - Institution of Mechanical Engineers
 
-= Manufacturing = 
+== Manufacturing == 
 
 
 
-= Engineering (General) = 
+== Engineering (General) == 
 
 * [http://www.theiet.org IET] - The Institution of Engineering & Technology
 
