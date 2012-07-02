@@ -1,8 +1,10 @@
 #summary Information about the people behind the LX10
 
 = Meet the Design Team =
+
 *Contents*
 <wiki:toc max_depth="2" />
+----
 ==Project Manager==
 
 *IB*
