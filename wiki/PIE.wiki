@@ -21,7 +21,7 @@ Other than having the power to tell your board what to do, we will be holding a 
 == Guides ==
 
  * [PIE_Program_Examples Your First Program]
- * [Pie_Code_functions_and_Examples Pie functions and explanation]
+ * [Pie_Functions A guide to the PIE Functions]
  * [IDEUserGuide IDE User Guide]
  * [Getting_Started_With_LX10 Getting Started With Your LX10]
  * [PIE_Code_Cheat_Sheet Pie Cheat Sheet]
