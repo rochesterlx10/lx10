@@ -1,6 +1,6 @@
 #summary PIE Program Examples, Commented and explained
 
-= First Program and other examples =
+= Your First Program =
 
 == Set the Middle LED On ==
 
