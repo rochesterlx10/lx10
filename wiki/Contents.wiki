@@ -1,6 +1,6 @@
 #summary Wiki navigation.
 
-  * *Introduction
+  *Introduction
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
   * Design/Manufacture
@@ -31,4 +31,4 @@
   * [Glossary]
   * [Extra_Curicular Extra Curricular]
   * [Downloads]
-  * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***] *</font>
+  * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***]</font>
