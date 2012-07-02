@@ -2,15 +2,17 @@
 #labels Batch,Defaultsoftware,Programme
 
 = Introduction =
-This section explains how you can install the default software to your LX10
+This section explains how you can install the default software to your LX10. This includes the menu (which you will need) and 9 programs/games which are explained [Open_Day_games here]
 
+If you only see "BAE" when you turn it on then you will need to do this.
 
 = Details =
   
   # Download the Open day default games programmer [http://lx10.googlecode.com/files/OpenDayDefault.zip here]
+  # Unzip the contents
   # Double click the file to run
-  # a screen should pop up that says "connected" or "not connected"
-  # when the LX10 is pluged in this screen should change to "connected" and there will be a program button
-  # click the program button, your LX10 will be programmed with the default settings and applications
+  # A screen should pop up that says "Connected" or "Disconnected"
+  # When the LX10 is pluged in this screen should change to "Connected" and the program button should no longer be greyed out.
+  # Click the program button and wait 10 seconds, your LX10 will be programmed with the default settings and applications
   # When you first power off and back on your device you will need to run a little test. This requires you to press Up, Down, Left, Right, X, B, A and then X again. In that order.
-  # Once completed, your LX10 is ready to play with !
+  # Once completed, your LX10 is ready to play with and program.
