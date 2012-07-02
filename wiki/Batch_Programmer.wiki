@@ -1,7 +1,7 @@
 #summary How to install the default software to your LX10
 #labels Batch,Defaultsoftware,Programme
 
-= Introduction =
+= 'Factory' Defaults =
 This section explains how you can install the default software to your LX10. This includes the menu (which you will need) and 9 programs/games which are explained [Open_Day_games here]
 
 If you only see "BAE" when you turn it on then you will need to do this.
