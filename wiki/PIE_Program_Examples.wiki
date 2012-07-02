@@ -2,4 +2,29 @@
 
 = First Program and other examples =
 
-== In construction ==
+== Set the Middle LED On ==
+
+What better place to start than turning an LED on! Look at the code below:
+
+
+     <font color = "blue">set</font> <font color = "red">led</font> 4,4 <font color = "purple">on</font> <font color = "blue">now</font> 
+
+This is correct and will work in the simulator. However, it won't on the LX10, that's because once a program finishes on the LX10, it will return to the menu. So in this case, the LED will turn on so quickly that you won't see it and then it will return to the menu as if nothing happened.
+
+How do we fix this? Say hello to the forever loop:
+
+     <font color = "blue">do forever</font>
+          <font color = "blue">set</font> <font color = "red">led</font> 4,4 <font color = "purple">on</font> <font color = "blue">now</font> 
+     <font color = "blue">end do</font>
+
+This will continue to turn the LED on forever (until someone holds the X button for 1 seconds to return to the menu).
+
+That's it! There is your first program.
+
+Things to try now:
+
+ * Turn a different LED on
+ * Turn more LEDs on (try a pattern)
+ * Draw a line 
+ * Draw a rectangle
+ * Make buttons change what's shown
