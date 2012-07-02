@@ -11,7 +11,7 @@
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
   * [PIE PIE Language]
-    * [PIE_Program_Examples PIE Program Examples]
+    * [PIE_Program_Examples Your First PIE Program]
     * PIE Functions
       * [Comments]
       * [Make]
@@ -25,10 +25,11 @@
       * [PIE_led LEDs]    
     * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
     * [Open_Day_games Your 10 Starting Games/Programs]
+    * [LX10_Programming_Competition Programming Competition]
   * [Getting_Started_With_LX10 Getting Started]
-  * [Batch_Programmer Open Day Default Software]
+  * [Batch_Programmer Revert To Defaults]
   * [IDEUserGuide IDE User Guide]
-  * [Glossary]
   * [Extra_Curicular Extra Curricular]
   * [Downloads]
+  * [Glossary]
   * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***]</font>
