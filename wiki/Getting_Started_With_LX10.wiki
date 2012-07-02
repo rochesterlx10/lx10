@@ -5,6 +5,8 @@
 
 ----
 
+<font color=red>*If you did not get your LX10 programmed up on the day or when you turn it on you only see "BAE" the please go [Batch_Programmer here] to do it yourself. It will not work correctly otherwise.*</font>
+
 Since you are reading this I can safely assume that you have found our website! The instructions below will take you from unboxing your LX10 right through to opening up the LX10 IDE (Integrated Development Environment) where you can write code to program onto your board. The instructions and screenshots shown on this page have been created for Windows XP, however further screenshots are from Windows 7. The process should be similar on any Windows installation but if you require more help than is given here please don't hesitate to email <a href="mailto:rochester.lx10@gmail.com">rochester.lx10@gmail.com</a> or go to our contact page and we will get back to you as soon as possible.
 
 *Note: The LX10 IDE will only run on a windows based computer as it uses the programming language Visual Basic and Microsoft's .NET v4.0 framework.*
