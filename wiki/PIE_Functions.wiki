@@ -1,37 +1,18 @@
-#summary PIE Functions Help Sheet
+#summary PIE Functions Home
 
 = PIE Programming Language Functions =
 
-[http://code.google.com/p/lx10/wiki/Comments @ (Comments)]
+Below is a list of the major functions in PIE and a link to a page explaining each.
 
-[http://code.google.com/p/lx10/wiki/Make Make]
+For a quick reference, see the [PIE_Code_Cheat_Sheet Cheat Sheet].
 
-[http://code.google.com/p/lx10/wiki/Set Set]
-
-[http://code.google.com/p/lx10/wiki/Maths Maths]
-
-[http://code.google.com/p/lx10/wiki/Random Random]
-
-[http://code.google.com/p/lx10/wiki/IF_function IF]
-
-[http://code.google.com/p/lx10/wiki/Comparisons Comparisons]
-
-[http://code.google.com/p/lx10/wiki/Loops Loops]
-
-== Functions ==
-
-== LED Control ==
-
-== Draw ==
-
-=== Shapes ===
-
-== Location ==
-
-== Direction ==
-
-== Update Display ==
-
-== Wait ==
-
-== Program Control ==
+ * [Comments @ (Comments)]
+ * [Make]
+ * [Set]
+ * [Maths]
+ * [Random]
+ * [IF_function If]
+ * [Comparisons]
+ * [Loops]
+ * [PIE_led LEDs]
+ * [Functions]
