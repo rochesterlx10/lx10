@@ -4,7 +4,7 @@
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
   * [Getting_Started_With_LX10 Getting Started]
-  * [Batch_Programmer Revert To Defaults]
+  * [Batch_Programmer 'Factory' Defaults]
   * [IDEUserGuide IDE User Guide]
   * Design/Manufacture
     * [Alpha_Prototype_Board Alpha Prototype Board]
