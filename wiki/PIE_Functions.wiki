@@ -1,0 +1,37 @@
+#summary PIE Functions Help Sheet
+
+= PIE Programming Language Functions =
+
+[http://code.google.com/p/lx10/wiki/Comments @ (Comments)]
+
+[http://code.google.com/p/lx10/wiki/Make Make]
+
+[http://code.google.com/p/lx10/wiki/Set Set]
+
+[http://code.google.com/p/lx10/wiki/Maths Maths]
+
+[http://code.google.com/p/lx10/wiki/Random Random]
+
+[http://code.google.com/p/lx10/wiki/IF_function IF]
+
+[http://code.google.com/p/lx10/wiki/Comparisons Comparisons]
+
+[http://code.google.com/p/lx10/wiki/Loops Loops]
+
+== Functions ==
+
+== LED Control ==
+
+== Draw ==
+
+=== Shapes ===
+
+== Location ==
+
+== Direction ==
+
+== Update Display ==
+
+== Wait ==
+
+== Program Control ==
