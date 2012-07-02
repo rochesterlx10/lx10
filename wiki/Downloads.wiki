@@ -17,7 +17,7 @@ The LX10 IDE supports only Microsoft Windows XP, Vista and 7.
 
 [http://lx10.googlecode.com/files/LX10%20USB%20Drivers.zip USB Drivers] - Please follow the guide [Getting_Started_With_LX10 here] on how to install.
 
-== Open Day Games Programmer ==
+== 'Factory' Defaults ==
 
 [http://lx10.googlecode.com/files/OpenDayDefault.zip Open Day Default Games Programmer] Once unzipped, this will program all the games from the Open day back onto your board like it was new.
 
