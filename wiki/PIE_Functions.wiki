@@ -14,5 +14,5 @@ For a quick reference, see the [PIE_Code_Cheat_Sheet Cheat Sheet].
  * [IF_function If]
  * [Comparisons]
  * [Loops]
- * [PIE_led LEDs]
  * [Functions]
+ * [PIE_led LEDs]
