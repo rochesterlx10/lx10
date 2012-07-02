@@ -1,6 +1,6 @@
 #summary Wiki navigation.
 
-  * Introduction
+  * *Introduction
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
   * Design/Manufacture
@@ -10,10 +10,9 @@
     * Final Board
       * [Hardware_Schematic Hardware Schematic]
       * [PCB_Design PCB Design]
-  * Software
-    * [PIE PIE Language]
-      * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
-      * [PIE_Program_Examples PIE Program Examples]
+  * [PIE PIE Language]
+    * [PIE_Program_Examples PIE Program Examples]
+    * PIE Functions
       * [Comments]
       * [Make]
       * [Set]
@@ -23,9 +22,9 @@
       * [Comparisons]
       * [Loops]
       * [Functions] 
-      * [PIE_led LEDs]     
-    * [Open_Day_games Open Day Games]
-----
+      * [PIE_led LEDs]    
+    * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
+    * [Open_Day_games Your 10 Starting Games/Programs]
   * [Getting_Started_With_LX10 Getting Started With LX10]
   * [Batch_Programmer Open Day Default Software]
   * [IDEUserGuide IDE User Guide]
