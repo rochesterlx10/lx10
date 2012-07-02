@@ -1,6 +1,6 @@
 #summary PIE Functions Home
 
-= PIE Programming Language Functions =
+= PIE Functions =
 
 Below is a list of the major functions in PIE and a link to a page explaining each.
 
