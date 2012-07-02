@@ -13,7 +13,7 @@
 
   * *Random Fact:* Has run 100M in under 11s
 
-
+----
 ==Systems==
 
 *Steve*
@@ -26,7 +26,7 @@
 
   * *Random Fact:* Likes anything orange.
 
-
+----
 ==Software==
 
 *Mark*
@@ -61,7 +61,7 @@
 
  * *Random Fact:* N-Dubz wishes he had T-Dubz's Mad Skills
 
-
+----
 ==Hardware==
 
 *Ollie*
@@ -139,7 +139,7 @@
 
   * *Favourite Musical Instrument:* Banjo
 
-
+----
 == Mechanical ==
 
 *Alister*
