@@ -1,4 +1,5 @@
 #summary Wiki navigation.
+#sidebar TableOfContents
 
 * Contents
   * Introduction
