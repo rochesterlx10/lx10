@@ -15,7 +15,7 @@
       * [PCB_Design PCB Design]
   * [PIE PIE Language]
     * [PIE_Program_Examples Your First PIE Program]
-    * PIE Functions
+    * [PIE_Functions PIE Functions]
       * [Comments]
       * [Make]
       * [Set]
