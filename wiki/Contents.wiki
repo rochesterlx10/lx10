@@ -3,6 +3,9 @@
   * Introduction
     * [Project_Purpose Project Purpose]
     * [Meet_The_Team Meet_The_Team]
+  * [Getting_Started_With_LX10 Getting Started]
+  * [Batch_Programmer Revert To Defaults]
+  * [IDEUserGuide IDE User Guide]
   * Design/Manufacture
     * [Alpha_Prototype_Board Alpha Prototype Board]
     * [Beta_Prototype_Board Beta Prototype Board]
@@ -26,9 +29,7 @@
     * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
     * [Open_Day_games Your 10 Starting Games/Programs]
     * [LX10_Programming_Competition Programming Competition]
-  * [Getting_Started_With_LX10 Getting Started]
-  * [Batch_Programmer Revert To Defaults]
-  * [IDEUserGuide IDE User Guide]
+
   * [Extra_Curicular Extra Curricular]
   * [Downloads]
   * [Glossary]
