@@ -42,7 +42,7 @@ You have to light up rows of blocks in this game. A random block will fall (whic
 
 == Slot 8: Light Hero ==
 
-Light hero is a game where you have to press buttons as they scroll down the screen. It has 2 lanes. One on the left for the dpad and one on the right for the A and B buttons. You need to press the button on or underneath the line across the screen.
+Light hero is a game where you have to press buttons as they scroll down the screen. It has 2 lanes. One on the left for the dpad (Left and Right) and one on the right for the A and B buttons. You need to press the button on or underneath the line across the screen.
 
 If a dot scrolls down the left side of the left lane, you need to press the left dpad.
 If a dot scrolls down the right side of the left lane, you need to press the right dpad.
