@@ -54,7 +54,10 @@ http://lx10.googlecode.com/files/7%20-%205%20Update%20Driver%20Software%20-%20BA
 
 ----
 
-  * You will now need to enter the location that you have downloaded and extracted the LX10 USB Drivers to. If you followed the default instructions, this will be "C:\BAE Systems LX10 USB Drivers".<br />
+  * You will now need to enter the location that you have downloaded and extracted the LX10 USB Drivers to. If you followed the default instructions, this will be: <br />
+`C:\Program Files\LX10 IDE\driver`<br />
+or<br />
+`C:\Program Files(x86)\LX10 IDE\driver`<br />
 
 http://lx10.googlecode.com/files/7%20-%206%20Update%20Driver%20Software%20-%20Browse.png
 
