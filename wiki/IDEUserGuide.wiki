@@ -11,8 +11,7 @@ If you would like to know more about the programming language, you can look at t
 
 ===Download===
 
-click [http://code.google.com/p/lx10/wiki/Getting_Started_With_LX10 Here]
-for download
+Check out the [Downloads] page. 
 
 ===Overview===
 http://lx10.googlecode.com/files/Splash_sreen.JPG
