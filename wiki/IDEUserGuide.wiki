@@ -7,7 +7,7 @@
 ==Introduction==
 
 This document shows how to use the IDE.
-If you would like to know more about the programming laungage, you can look at the cheat sheet [http://code.google.com/p/lx10/wiki/Pie_Code_functions_and_Examples here]
+If you would like to know more about the programming language, you can look at the [PIE_Functions PIE Functions] page
 
 ===Download===
 
