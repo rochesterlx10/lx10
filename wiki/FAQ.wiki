@@ -9,10 +9,10 @@ A. This is the built in test - it should only appear once after the LX10 is rest
 A. The default settings must not have been put on at the open day. Luckily you can do this yourself using our [Batch_Programmer 'Factory' Defaults program].
 
 === Q. I found a bug, can you fix it? ===
-A. We can't fix it until we know about it. Please [rochester.lx10@gmail.com contact us] with details.
+A. We can't fix it until we know about it. Please [mailto:rochester.lx10@gmail.com contact us] with details.
 
 === Q. Is there a list of all functions in the PIE language? ===
-A. Yes, we call it a cheat sheet, and it's found [Cheat_Sheet here]
+A. Yes, we call it a cheat sheet, and it's found [PIE_Code_Cheat_Sheet here]
 
 
 === Any other questions - Just contact us on [mailto:rochester.lx10@gmail.com rochester.lx10@gmail.com] ===
