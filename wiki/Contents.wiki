@@ -33,3 +33,4 @@
   * [Downloads]
   * [Glossary]
   * <font color=red> [LX10_Programming_Competition ***LX10 PROGRAMMING COMPETITION***]</font>
+  * [FAQ]
