@@ -1,0 +1,21 @@
+#summary A list of frequently asked questions.
+
+= FAQ - Frequently Asked Questions =
+
+=== Q. What's this random dot on my screen when I turn my LX10 on? ===
+A. This is the built in test - it should only appear once after the LX10 is restored to it's default settings. To get past this and return to the menu simply press Up, Down, Left, Right, X, B, A and then X again. In that order. If this screen keeps coming up then please [mailto:rochester.lx10@gmail.com contact us].
+
+=== Q. My LX10 just shows "BAE" when I turn it on. How do I fix this? ===
+A. The default settings must not have been put on at the open day. Luckily you can do this yourself using our [Batch_Programmer 'Factory' Defaults program].
+
+=== Q. I found a bug, can you fix it? ===
+A. We can't fix it until we know about it. Please [rochester.lx10@gmail.com contact us] with details.
+
+=== Q. Is there a list of all functions in the PIE language? ===
+A. Yes, we call it a cheat sheet, and it's found [Cheat Sheet here]
+
+=== Q.  ===
+A. 
+
+
+== Any other questions - Just contact us on [mailto:rochester.lx10@gmail.com] ==
