@@ -2,7 +2,7 @@
 
 = PIE Function : Draw =
 
-Draw can draw both a line and a rectangle on the screen. As with the LED function, the `<font color = "blue">update display</font>` commenad will need to be called afterward to see your new shape.
+Draw can draw both a line and a rectangle on the screen. As with the LED function, the <font color = "blue">`update display`</font> commenad will need to be called afterward to see your new shape.
 
 === Draw Line ===
 
