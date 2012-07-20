@@ -8,12 +8,12 @@ Draw can draw both a line and a rectangle on the screen. As with the LED functio
 
 Drawing a line can be done from any point on the screen to any other point. The LX10 will then work out where the line will sit. As with the LED function, the LEDs on the LX10 are arranged in a 10x10 grid which is numbered from 0 to 9 with an x,y system (0,0 is in the bottom left).
 
-<font color = "blue">draw line from</font> 1,3 <font color = "blue">to</font>3,7 
+<font color = "blue">draw line from</font> 1,3 <font color = "blue">to</font> 3,7 
 
 Remember to call <font color = "blue">update display</font> after this if you want to see the new line.
 
 === Draw Rectangle === 
 
-<font color = "blue">draw rectangle from</font> 1,3 <font color = "blue">to</font>3,7 
+<font color = "blue">draw rectangle from</font> 1,3 <font color = "blue">to</font> 3,7 
 
 Remember to call <font color = "blue">update display</font> after this if you want to see the LEDs.
