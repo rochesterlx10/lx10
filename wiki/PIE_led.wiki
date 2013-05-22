@@ -28,6 +28,7 @@ Remember to call <font color = "blue">update display</font> after this if you wa
 === Set all LEDs === 
 
 <font color = "blue">set</font> all <font color = "red">LED</font> <font color = "purple">on</font>
+
 <font color = "blue">set</font> all <font color = "red">LED</font> <font color = "purple">off</font>
 
 Remember to call <font color = "blue">update display</font> after this if you want to see the LEDs.
