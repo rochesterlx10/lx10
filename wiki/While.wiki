@@ -1,0 +1,13 @@
+#Introducing the While Function
+
+= Introduction =
+
+The WHILE function works in a similar way to the IF function. Except, instead of seeing whether something is true or not (like the IF statement), it tells the program to run a certain code while something is being/not being done.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
