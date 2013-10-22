@@ -8,6 +8,6 @@ The WHILE function works in a similar way to the IF function. Except, instead of
 
 This will continually run the code at <YOUR CODE GOES HERE> while the b-button is pressed
 
-<font color = "blue">do</font><br> below <font color = "blue">while</font><br> b-button <font color = "blue">is</font><br> pressed
+<span class="nowrap"><font color = "blue">do</font><br> below <font color = "blue">while</font><br> b-button <font color = "blue">is</font><br> pressed</span>
 <YOUR CODE GOES HERE> <br>
 <font color = "blue">end do</font>
