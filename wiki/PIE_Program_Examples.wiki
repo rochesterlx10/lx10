@@ -25,6 +25,3 @@ Things to try now:
 
  * Turn a different LED on
  * Turn more LEDs on (try a pattern)
- * Draw a line 
- * Draw a rectangle
- * Make buttons change what's shown
