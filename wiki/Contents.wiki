@@ -27,6 +27,7 @@
       * [Functions] 
       * [PIE_led LEDs]
       * [Draw]    
+      * [While]
     * [PIE_Code_Cheat_Sheet PIE Code Cheat Sheet]
     * [Open_Day_games Your 10 Starting Games/Programs]
     * [LX10_Programming_Competition Programming Competition]
