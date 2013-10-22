@@ -2,12 +2,14 @@
 
 = PIE Function : Random Function=
 
-The random function generates a random number between 0 and 9
+The random function generates a random number between 0 and 9. You can set variables to random so that the value of the variable is chosen randomly.
 
 
 == Example ==
 
 
-<font color = "blue">make</font> x 
+<font color = "blue">make</font> variable 
 
-<font color = "blue">set</font> x <font color = "blue">to</font> <font color = "red">random</font>
+<font color = "blue">set</font> variable <font color = "blue">to</font> <font color = "red">random</font>
+
+So this would choose a random value for “variable” when integrated into a program.
