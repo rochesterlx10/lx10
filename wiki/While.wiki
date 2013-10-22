@@ -1,13 +1,17 @@
-#Introducing the While Function
+#summary PIE Function : While
 
-= Introduction =
+= PIE Function : While =
 
 The WHILE function works in a similar way to the IF function. Except, instead of seeing whether something is true or not (like the IF statement), it tells the program to run a certain code while something is being/not being done.
 
+== While Example ==
 
-= Details =
+This will continually run the code at <YOUR CODE GOES HERE> while the b-button is pressed
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<font color = "blue">do forever</font><br>
+<YOUR CODE GOES HERE> <br>
+<font color = "blue">end do</font>
+
+Do while b-button is pressed
+	Set led 0,0 on now
+End do
