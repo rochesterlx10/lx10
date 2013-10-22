@@ -14,7 +14,3 @@ do below while b-button is pressed
 <YOUR CODE GOES HERE>
 end do
 }}}
-
-<font color = "blue">do</font><br> below <font color = "blue">while</font><br> b-button <font color = "blue">is</font><br> pressed
-<YOUR CODE GOES HERE> <br>
-<font color = "blue">end do</font>
