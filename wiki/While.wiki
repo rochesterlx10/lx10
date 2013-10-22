@@ -1,4 +1,5 @@
 #summary PIE Function : While
+#labels PIE,Code,Programming,language
 
 = PIE Function : While =
 
@@ -7,6 +8,12 @@ The WHILE function works in a similar way to the IF function. Except, instead of
 == While Example ==
 
 This will continually run the code at <YOUR CODE GOES HERE> while the b-button is pressed
+
+{{{
+do below while b-button is pressed
+<YOUR CODE GOES HERE>
+end do
+
 
 <font color = "blue">do</font><br> below <font color = "blue">while</font><br> b-button <font color = "blue">is</font><br> pressed
 <YOUR CODE GOES HERE> <br>
